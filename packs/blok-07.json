@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 7,
+    "month": 2,
+    "title": "Zdrowie, samopoczucie i sport"
+  },
+  "cards": [
+    {
+      "id": "b07-c01", "month": 2, "topic": 7,
+      "en": "I think I'm **coming down with** a cold.",
+      "pl": "Chyba łapie mnie przeziębienie.",
+      "phrasePl": "zaczynać chorować / łapie mnie coś",
+      "note": "Najbardziej naturalny zwrot na pierwsze objawy przeziębienia albo grypy.",
+      "prompt": "Powiedz, po czym zazwyczaj poznajesz, że „coming down with” przeziębienie."
+    },
+    {
+      "id": "b07-c02", "month": 2, "topic": 7,
+      "en": "I try to **work out** at least three times a week.",
+      "pl": "Staram się trenować przynajmniej trzy razy w tygodniu.",
+      "phrasePl": "trenować / ćwiczyć (fizycznie)",
+      "note": "Jako czasownik pisane osobno („work out”), jako rzeczownik razem („a good workout”).",
+      "prompt": "Powiedz, jak często i gdzie lubisz „work out”."
+    },
+    {
+      "id": "b07-c03", "month": 2, "topic": 7,
+      "en": "I'm so **out of shape** after sitting at a desk all winter.",
+      "pl": "Jestem kompletnie bez formy po siedzeniu przy biurku całą zimę.",
+      "phrasePl": "bez formy (fizycznej)",
+      "note": "Przeciwieństwo: „in shape” / „get back in shape” (wrócić do formy).",
+      "prompt": "Powiedz, co robisz, kiedy czujesz, że jesteś „out of shape”."
+    },
+    {
+      "id": "b07-c04", "month": 2, "topic": 7,
+      "en": "It took her two weeks to **recover from** the flu.",
+      "pl": "Zajęło jej dwa tygodnie, żeby dojść do siebie po grypie.",
+      "phrasePl": "dojść do siebie / wyzdrowieć po",
+      "note": "Też o kontuzjach i zmęczeniu: „recover from an injury / a hard workout”.",
+      "prompt": "Powiedz, co najbardziej pomaga Ci szybko „recover from” przeziębienia."
+    },
+    {
+      "id": "b07-c05", "month": 2, "topic": 7,
+      "en": "I've had a **splitting headache** since this morning.",
+      "pl": "Od rana mam rozsadzający ból głowy.",
+      "phrasePl": "silny / rozsadzający ból głowy",
+      "note": "Bardziej wyraziste niż zwykłe „bad headache”.",
+      "prompt": "Powiedz, co robisz, kiedy dopada Cię ból głowy („headache”)."
+    },
+    {
+      "id": "b07-c06", "month": 2, "topic": 7,
+      "en": "My throat is **sore** and I have a runny nose.",
+      "pl": "Boli mnie gardło i mam katar.",
+      "phrasePl": "bolący / podrażniony (gardło, mięśnie)",
+      "note": "„A sore throat” (ból gardła), „sore muscles” (zakwasy / obolałe mięśnie).",
+      "prompt": "Opisz na głos klasyczne objawy przeziębienia, używając „sore throat”."
+    },
+    {
+      "id": "b07-c07", "month": 2, "topic": 7,
+      "en": "Don't forget to **warm up** before you start running.",
+      "pl": "Nie zapomnij się rozgrzać, zanim zaczniesz biegać.",
+      "phrasePl": "rozgrzać się (przed treningiem)",
+      "note": "Rzeczownik: „a warm-up”. Po treningu: „cool down” i „stretch” (rozciągać się).",
+      "prompt": "Powiedz, czy pamiętasz, żeby się „warm up” przed sportem."
+    },
+    {
+      "id": "b07-c08", "month": 2, "topic": 7,
+      "en": "I **pulled a muscle** in my back while lifting a box.",
+      "pl": "Naciągnąłem mięsień w plecach, podnosząc pudło.",
+      "phrasePl": "naciągnąć mięsień",
+      "note": "Bardzo częsta, codzienna kontuzja. Dla kostki mówimy „sprained my ankle” (skręciłem kostkę).",
+      "prompt": "Opowiedz o drobnej kontuzji, która kiedyś Ci się zdarzyła, używając „pulled a muscle” lub „sprained”."
+    },
+    {
+      "id": "b07-c09", "month": 2, "topic": 7,
+      "en": "I'm trying to **stay hydrated** and drink more water.",
+      "pl": "Staram się dbać o nawodnienie i pić więcej wody.",
+      "phrasePl": "być dobrze nawodnionym",
+      "note": "Przeciwieństwo: „dehydrated” (odwodniony).",
+      "prompt": "Powiedz, ile wody pijesz dziennie, żeby „stay hydrated”."
+    },
+    {
+      "id": "b07-c10", "month": 2, "topic": 7,
+      "en": "I **feel dizzy** when I stand up too fast.",
+      "pl": "Kręci mi się w głowie, kiedy wstaję za szybko.",
+      "phrasePl": "mieć zawroty głowy",
+      "note": "Bardzo ważne słowo u lekarza — proste i jednoznaczne.",
+      "prompt": "Opisz lekarzowi objaw, używając „I feel dizzy when…”."
+    },
+    {
+      "id": "b07-c11", "month": 2, "topic": 7,
+      "en": "The doctor gave me a **prescription** for antibiotics.",
+      "pl": "Lekarz wypisał mi receptę na antybiotyki.",
+      "phrasePl": "recepta",
+      "note": "Uwaga na mylenie z „recipe” (przepis kulinarny!). „Over-the-counter” = lek bez recepty.",
+      "prompt": "Zapytaj w aptece, czy na ten lek potrzebujesz „a prescription”."
+    },
+    {
+      "id": "b07-c12", "month": 2, "topic": 7,
+      "en": "I need to **book a check-up** with my dentist.",
+      "pl": "Muszę umówić się na wizytę kontrolną u dentysty.",
+      "phrasePl": "umówić badanie kontrolne",
+      "note": "„A regular check-up” = regularny przegląd zdrowia.",
+      "prompt": "Powiedz, jak często chodzisz na „check-up” do dentysty albo lekarza."
+    },
+    {
+      "id": "b07-c13", "month": 2, "topic": 7,
+      "en": "Are you **allergic to** any medications?",
+      "pl": "Czy jesteś uczulony na jakieś leki?",
+      "phrasePl": "uczulony na",
+      "note": "Zawsze „allergic to”. Rzeczownik: „allergy” („I have a nut allergy”).",
+      "prompt": "Odpowiedz na pytanie lekarza, czy jesteś na coś „allergic to”."
+    },
+    {
+      "id": "b07-c14", "month": 2, "topic": 7,
+      "en": "I'm **running a fever**, so I'm staying in bed.",
+      "pl": "Mam gorączkę, więc zostaję w łóżku.",
+      "phrasePl": "mieć gorączkę",
+      "note": "Można też powiedzieć „have a fever / have a high temperature”.",
+      "prompt": "Zadzwoń do pracy i powiedz, że masz gorączkę („running a fever”) i bierzesz wolne."
+    },
+    {
+      "id": "b07-c15", "month": 2, "topic": 7,
+      "en": "I'm trying to **eat clean** during the week.",
+      "pl": "Staram się jeść zdrowo / nieprzetworzone jedzenie w tygodniu.",
+      "phrasePl": "jeść zdrowo (czysto)",
+      "note": "Współczesny, bardzo naturalny zwrot o zdrowej diecie bez fast foodów.",
+      "prompt": "Powiedz, czy łatwo Ci „eat clean”, czy czasem kusi fast food."
+    },
+    {
+      "id": "b07-c16", "month": 2, "topic": 7,
+      "en": "I'm **low on energy** today — I barely slept.",
+      "pl": "Mam dziś mało energii — prawie nie spałem.",
+      "phrasePl": "mieć mało energii",
+      "note": "Inna naturalna wersja: „I'm running on empty” (jadę na oparach).",
+      "prompt": "Powiedz, co robisz w dni, kiedy jesteś „low on energy”."
+    },
+    {
+      "id": "b07-c17", "month": 2, "topic": 7,
+      "en": "Going for a brisk walk really **clears my head**.",
+      "pl": "Szybki spacer naprawdę oczyszcza mi głowę.",
+      "phrasePl": "oczyścić umysł / przewietrzyć głowę",
+      "note": "„Brisk walk” = energiczny spacer. Świetny zwrot o dbaniu o psychikę.",
+      "prompt": "Powiedz, jaka aktywność najlepiej „clears your head” po stresującym dniu."
+    },
+    {
+      "id": "b07-c18", "month": 2, "topic": 7,
+      "en": "He **passed out** from the heat during the race.",
+      "pl": "Zemdlał z upału podczas biegu.",
+      "phrasePl": "zemdleć / stracić przytomność",
+      "note": "Potocznie znaczy też „paść ze zmęczenia i zasnąć” („I passed out as soon as I got home”).",
+      "prompt": "Ułóż zdanie z „passed out” w jednym z tych dwóch znaczeń."
+    },
+    {
+      "id": "b07-c19", "month": 2, "topic": 7,
+      "en": "I need to **stretch** my legs after sitting for hours.",
+      "pl": "Muszę rozprostować nogi po wielogodzinnym siedzeniu.",
+      "phrasePl": "rozciągnąć się / rozprostować kości",
+      "note": "Świetne w długim locie albo podczas pracy przy komputerze.",
+      "prompt": "Powiedz, jak często robisz przerwę, żeby „stretch” w trakcie dnia."
+    },
+    {
+      "id": "b07-c20", "month": 2, "topic": 7,
+      "en": "She's **training for** a half-marathon in October.",
+      "pl": "Trenuje do półmaratonu w październiku.",
+      "phrasePl": "trenować do (zawodów / wyzwania)",
+      "note": "Zawsze „train for + wydarzenie”.",
+      "prompt": "Powiedz, czy chciałbyś kiedyś „train for” jakieś zawody sportowe lub wyzwanie."
+    },
+    {
+      "id": "b07-c21", "month": 2, "topic": 7,
+      "en": "I **broke a sweat** after just five minutes on the stairs.",
+      "pl": "Spociłem się już po pięciu minutach na schodach.",
+      "phrasePl": "spocić się / zmęczyć fizycznie",
+      "note": "Często też w przeczeniu: „He did it without breaking a sweat” (zrobił to bez najmniejszego wysiłku).",
+      "prompt": "Powiedz, przy jakim ćwiczeniu najszybciej „break a sweat”."
+    },
+    {
+      "id": "b07-c22", "month": 2, "topic": 7,
+      "en": "I'm **sore all over** from yesterday's gym session.",
+      "pl": "Wszystko mnie dziś boli (mam zakwasy) po wczorajszej siłowni.",
+      "phrasePl": "mieć zakwasy / być obolałym",
+      "note": "Bardzo naturalne po mocnym treningu.",
+      "prompt": "Powiedz, czy lubisz to uczucie, gdy jesteś „sore” po dobrym treningu."
+    },
+    {
+      "id": "b07-c23", "month": 2, "topic": 7,
+      "en": "It's important to **get enough sleep** every night.",
+      "pl": "Ważne jest, żeby wysypiać się każdej nocy.",
+      "phrasePl": "wysypiać się (mieć wystarczająco snu)",
+      "note": "„Sleep-deprived” = chronicznie niewyspany.",
+      "prompt": "Powiedz, ile godzin snu potrzebujesz, żeby „get enough sleep”."
+    },
+    {
+      "id": "b07-c24", "month": 2, "topic": 7,
+      "en": "I **twisted my ankle** while hiking in the mountains.",
+      "pl": "Skręciłem kostkę podczas wędrówki w górach.",
+      "phrasePl": "skręcić kostkę",
+      "note": "„Twist” to lekkie skręcenie, „sprain” to poważniejsze nadwyrężenie więzadeł.",
+      "prompt": "Opowiedz krótko, czy miałeś kiedyś kontuzję podczas sportu lub spaceru."
+    },
+    {
+      "id": "b07-c25", "month": 2, "topic": 7,
+      "en": "Take two pills and **call me if it gets worse**.",
+      "pl": "Weź dwie tabletki i zadzwoń do mnie, jeśli się pogorszy.",
+      "phrasePl": "jeśli się pogorszy",
+      "note": "„Get better” = poprawić się; „get worse” = pogorszyć się.",
+      "prompt": "Zapytaj farmaceutę, co zrobić, jeśli objawy „get worse”."
+    },
+    {
+      "id": "b07-c26", "month": 2, "topic": 7,
+      "en": "I **threw up** after eating something bad.",
+      "pl": "Zwymiotowałem po zjedzeniu czegoś nieświeżego.",
+      "phrasePl": "zwymiotować",
+      "note": "Potoczne i codzienne (oficjalne: „vomit”). „Food poisoning” = zatrucie pokarmowe.",
+      "prompt": "Opisz objawy zatrucia pokarmowego, używając „stomach ache” lub „feel nauseous”."
+    },
+    {
+      "id": "b07-c27", "month": 2, "topic": 7,
+      "en": "I'm **taking it easy** today so I don't burn out.",
+      "pl": "Dziś robię sobie na luzie / oszczędzam się, żeby się nie wypalić.",
+      "phrasePl": "oszczędzać się / wyluzować",
+      "note": "Też jako pożegnanie: „Take it easy!” = „Trzymaj się / na luzie!”.",
+      "prompt": "Powiedz, jak wygląda dzień, kiedy świadomie „take it easy”."
+    },
+    {
+      "id": "b07-c28", "month": 2, "topic": 7,
+      "en": "He **quit smoking** three years ago and feels much better.",
+      "pl": "Rzucił palenie trzy lata temu i czuje się znacznie lepiej.",
+      "phrasePl": "rzucić (nałóg / palenie)",
+      "note": "Po „quit” zawsze czasownik z -ing (smoking, drinking, eating junk food).",
+      "prompt": "Powiedz o jednym nawyku, który ktoś znajomy „quit” i wyszło mu to na zdrowie."
+    },
+    {
+      "id": "b07-c29", "month": 2, "topic": 7,
+      "en": "I'm trying to **build up my stamina** little by little.",
+      "pl": "Staram się stopniowo budować kondycję (wytrzymałość).",
+      "phrasePl": "budować wytrzymałość / kondycję",
+      "note": "„Stamina” / „endurance” = wytrzymałość przy bieganiu, pływaniu, jeździe na rowerze.",
+      "prompt": "Powiedz, jaki sport najlepiej pomaga „build up stamina”."
+    },
+    {
+      "id": "b07-c30", "month": 2, "topic": 7,
+      "en": "She **signed up for** a yoga class down the street.",
+      "pl": "Zapisała się na zajęcia jogi kawałek dalej przy tej ulicy.",
+      "phrasePl": "zapisać się na (zajęcia / kurs)",
+      "note": "Działa na siłownię, kursy językowe, newslettery i zawody.",
+      "prompt": "Powiedz, na jakie zajęcia sportowe chciałbyś się „sign up for”."
+    },
+    {
+      "id": "b07-c31", "month": 2, "topic": 7,
+      "en": "I **burned off** a lot of calories on that bike ride.",
+      "pl": "Spaliłem mnóstwo kalorii na tej przejażdżce rowerowej.",
+      "phrasePl": "spalić (kalorie / energię)",
+      "note": "Też: „burn off some steam” = rozładować napięcie / stres.",
+      "prompt": "Powiedz, jak najchętniej spalasz energię („burn off”) po pracy."
+    },
+    {
+      "id": "b07-c32", "month": 2, "topic": 7,
+      "en": "My back has been **acting up** lately.",
+      "pl": "Moje plecy ostatnio dają mi się we znaki.",
+      "phrasePl": "dawać się we znaki / szwankować",
+      "note": "Bardzo naturalne dla starych kontuzji i sprzętu („My knee is acting up again”).",
+      "prompt": "Powiedz o drobnej dolegliwości, która czasem „acts up” po długim siedzeniu."
+    },
+    {
+      "id": "b07-c33", "month": 2, "topic": 7,
+      "en": "I need something **for a stuffy nose**.",
+      "pl": "Potrzebuję czegoś na zatkany nos.",
+      "phrasePl": "zatkany nos",
+      "note": "Para słów w aptece: „runny nose” (cieknący katar) vs „stuffy / blocked nose” (zatkany nos).",
+      "prompt": "Poproś w aptece o krople albo tabletki, używając „stuffy nose”."
+    },
+    {
+      "id": "b07-c34", "month": 2, "topic": 7,
+      "en": "Does this medicine have any **side effects**?",
+      "pl": "Czy ten lek ma jakieś skutki uboczne?",
+      "phrasePl": "skutki uboczne",
+      "note": "Np. „It might make you drowsy” (może powodować senność).",
+      "prompt": "Zapytaj farmaceutę o „side effects” i czy możesz po tym leku prowadzić auto."
+    },
+    {
+      "id": "b07-c35", "month": 2, "topic": 7,
+      "en": "I'm **on a balanced diet**, not a strict one.",
+      "pl": "Stosuję zbilansowaną dietę, a nie restrykcyjną.",
+      "phrasePl": "zbilansowana dieta",
+      "note": "„Go on a diet” = przejść na dietę.",
+      "prompt": "Opowiedz krótko o swoich nawykach żywieniowych, używając „balanced diet”."
+    },
+    {
+      "id": "b07-c36", "month": 2, "topic": 7,
+      "en": "I **hit the gym** three mornings a week.",
+      "pl": "Wpadam na siłownię trzy poranki w tygodniu.",
+      "phrasePl": "iść na siłownię (potocznie)",
+      "note": "Bardzo żywe, potoczne wyrażenie — jak „hit the road” (ruszyć w drogę).",
+      "prompt": "Powiedz, czy wolisz „hit the gym”, czy ćwiczyć na świeżym powietrzu."
+    },
+    {
+      "id": "b07-c37", "month": 2, "topic": 7,
+      "en": "It's **contagious**, so keep your distance for a few days.",
+      "pl": "To jest zaraźliwe, więc trzymaj dystans przez kilka dni.",
+      "phrasePl": "zaraźliwy",
+      "note": "Dotyczy chorób, ale też śmiechu: „Her laugh is contagious!”",
+      "prompt": "Ostrzeż znajomego, że masz przeziębienie i możesz być „contagious”."
+    },
+    {
+      "id": "b07-c38", "month": 2, "topic": 7,
+      "en": "I **feel much better** after getting some fresh air.",
+      "pl": "Czuję się znacznie lepiej po zaczerpnięciu świeżego powietrza.",
+      "phrasePl": "czuć się znacznie lepiej",
+      "note": "„Get some fresh air” = wyjść na świeże powietrze.",
+      "prompt": "Powiedz, co sprawia, że od razu „feel much better” w ciągu dnia."
+    },
+    {
+      "id": "b07-c39", "month": 2, "topic": 7,
+      "en": "I'm **watching my weight**, so I'll skip dessert.",
+      "pl": "Pilnuję wagi, więc odpuszczę sobie deser.",
+      "phrasePl": "pilnować wagi",
+      "note": "Też: „lose weight” (schudnąć), „gain / put on weight” (przytyć).",
+      "prompt": "Odmów słodyczy z uśmiechem, używając „watching my weight” lub „cutting down on sugar”."
+    },
+    {
+      "id": "b07-c40", "month": 2, "topic": 7,
+      "en": "Take a **deep breath** and relax your shoulders.",
+      "pl": "Weź głęboki oddech i rozluźnij ramiona.",
+      "phrasePl": "głęboki oddech",
+      "note": "Uwaga na wymowę: „breath” (rzeczownik, bez e na końcu) vs „breathe” (czasownik: oddychać).",
+      "prompt": "Powiedz, w jakich sytuacjach pomaga Ci po prostu wziąć „a deep breath”."
+    },
+    {
+      "id": "b07-c41", "month": 2, "topic": 7,
+      "en": "We **tied** two-two in the last minute of the match.",
+      "pl": "Zremisowaliśmy dwa do dwóch w ostatniej minucie meczu.",
+      "phrasePl": "zremisować (w sporcie)",
+      "note": "US: „tie”; UK: „draw” („It ended in a draw”).",
+      "prompt": "Opowiedz o meczu, który ostatnio oglądałeś — kto wygrał, przegrał czy „tied”?"
+    },
+    {
+      "id": "b07-c42", "month": 2, "topic": 7,
+      "en": "I'm **out of breath** after climbing four flights of stairs.",
+      "pl": "Brakuje mi tchu po wejściu na czwarte piętro.",
+      "phrasePl": "mieć zadyszkę / brakować tchu",
+      "note": "Bardzo przydatny zwrot codzienny i sportowy.",
+      "prompt": "Ułóż zdanie o sytuacji, kiedy byłeś „out of breath”."
+    },
+    {
+      "id": "b07-c43", "month": 2, "topic": 7,
+      "en": "Make sure to put on **sunscreen** before going out.",
+      "pl": "Pamiętaj, żeby posmarować się kremem z filtrem przed wyjściem.",
+      "phrasePl": "krem z filtrem przeciwsłonecznym",
+      "note": "Też „sunblock”. „Get sunburned” = spalić się na słońcu.",
+      "prompt": "Przypomnij znajomemu na plaży, żeby użył „sunscreen”."
+    },
+    {
+      "id": "b07-c44", "month": 2, "topic": 7,
+      "en": "I have a **sweet tooth**, so it's hard to resist chocolate.",
+      "pl": "Lubię słodycze (jestem łasuchem), więc trudno mi się oprzeć czekoladzie.",
+      "phrasePl": "mieć słabość do słodyczy",
+      "note": "Sympatyczny, bardzo częsty idiom.",
+      "prompt": "Powiedz, czy masz „a sweet tooth”, czy wolisz słone przekąski."
+    },
+    {
+      "id": "b07-c45", "month": 2, "topic": 7,
+      "en": "**Get well soon!** Let me know if you need groceries.",
+      "pl": "Wracaj szybko do zdrowia! Daj znać, jeśli potrzebujesz zakupów.",
+      "phrasePl": "wracaj szybko do zdrowia",
+      "note": "Standardowe życzenie dla chorego znajomego lub współpracownika.",
+      "prompt": "Nagraj w głowie krótką wiadomość do chorego kolegi, zaczynając od „Get well soon!”."
+    }
+  ],
+  "words": [
+    { "id": "b07-w001", "month": 2, "topic": 7, "en": "cold", "pl": "przeziębienie" },
+    { "id": "b07-w002", "month": 2, "topic": 7, "en": "flu", "pl": "grypa" },
+    { "id": "b07-w003", "month": 2, "topic": 7, "en": "cough", "pl": "kaszel" },
+    { "id": "b07-w004", "month": 2, "topic": 7, "en": "sneeze", "pl": "kichnięcie / kichać" },
+    { "id": "b07-w005", "month": 2, "topic": 7, "en": "fever", "pl": "gorączka" },
+    { "id": "b07-w006", "month": 2, "topic": 7, "en": "chills", "pl": "dreszcze" },
+    { "id": "b07-w007", "month": 2, "topic": 7, "en": "headache", "pl": "ból głowy" },
+    { "id": "b07-w008", "month": 2, "topic": 7, "en": "stomach ache", "pl": "ból brzucha" },
+    { "id": "b07-w009", "month": 2, "topic": 7, "en": "backache", "pl": "ból pleców" },
+    { "id": "b07-w010", "month": 2, "topic": 7, "en": "toothache", "pl": "ból zęba" },
+    { "id": "b07-w011", "month": 2, "topic": 7, "en": "nauseous", "pl": "mający mdłości" },
+    { "id": "b07-w012", "month": 2, "topic": 7, "en": "rash", "pl": "wysypka" },
+    { "id": "b07-w013", "month": 2, "topic": 7, "en": "bruise", "pl": "siniak" },
+    { "id": "b07-w014", "month": 2, "topic": 7, "en": "blister", "pl": "pęcherz / odcisk" },
+    { "id": "b07-w015", "month": 2, "topic": 7, "en": "scratch", "pl": "zadrapanie" },
+    { "id": "b07-w016", "month": 2, "topic": 7, "en": "scar", "pl": "blizna" },
+    { "id": "b07-w017", "month": 2, "topic": 7, "en": "swollen", "pl": "spuchnięty" },
+    { "id": "b07-w018", "month": 2, "topic": 7, "en": "itchy", "pl": "swędzący" },
+    { "id": "b07-w019", "month": 2, "topic": 7, "en": "numb", "pl": "zdrętwiały" },
+    { "id": "b07-w020", "month": 2, "topic": 7, "en": "cramp", "pl": "skurcz" },
+    { "id": "b07-w021", "month": 2, "topic": 7, "en": "injury", "pl": "kontuzja / uraz" },
+    { "id": "b07-w022", "month": 2, "topic": 7, "en": "sprain", "pl": "skręcenie" },
+    { "id": "b07-w023", "month": 2, "topic": 7, "en": "fracture", "pl": "złamanie" },
+    { "id": "b07-w024", "month": 2, "topic": 7, "en": "cast", "pl": "gips" },
+    { "id": "b07-w025", "month": 2, "topic": 7, "en": "crutches", "pl": "kule ortopedyczne" },
+    { "id": "b07-w026", "month": 2, "topic": 7, "en": "bandage", "pl": "bandaż / plaster" },
+    { "id": "b07-w027", "month": 2, "topic": 7, "en": "painkiller", "pl": "lek przeciwbólowy" },
+    { "id": "b07-w028", "month": 2, "topic": 7, "en": "ointment", "pl": "maść" },
+    { "id": "b07-w029", "month": 2, "topic": 7, "en": "eye drops", "pl": "krople do oczu" },
+    { "id": "b07-w030", "month": 2, "topic": 7, "en": "vitamins", "pl": "witaminy" },
+    { "id": "b07-w031", "month": 2, "topic": 7, "en": "supplement", "pl": "suplement diety" },
+    { "id": "b07-w032", "month": 2, "topic": 7, "en": "vaccine", "pl": "szczepionka" },
+    { "id": "b07-w033", "month": 2, "topic": 7, "en": "blood test", "pl": "badanie krwi" },
+    { "id": "b07-w034", "month": 2, "topic": 7, "en": "X-ray", "pl": "prześwietlenie RTG" },
+    { "id": "b07-w035", "month": 2, "topic": 7, "en": "symptom", "pl": "objaw" },
+    { "id": "b07-w036", "month": 2, "topic": 7, "en": "treatment", "pl": "leczenie" },
+    { "id": "b07-w037", "month": 2, "topic": 7, "en": "clinic", "pl": "przychodnia / klinika" },
+    { "id": "b07-w038", "month": 2, "topic": 7, "en": "emergency room", "pl": "ostry dyżur (SOR)" },
+    { "id": "b07-w039", "month": 2, "topic": 7, "en": "ambulance", "pl": "karetka" },
+    { "id": "b07-w040", "month": 2, "topic": 7, "en": "surgeon", "pl": "chirurg" },
+    { "id": "b07-w041", "month": 2, "topic": 7, "en": "nurse", "pl": "pielęgniarka / pielęgniarz" },
+    { "id": "b07-w042", "month": 2, "topic": 7, "en": "pharmacist", "pl": "farmaceuta" },
+    { "id": "b07-w043", "month": 2, "topic": 7, "en": "physiotherapist", "pl": "fizjoterapeuta" },
+    { "id": "b07-w044", "month": 2, "topic": 7, "en": "sick leave", "pl": "zwolnienie lekarskie (L4)" },
+    { "id": "b07-w045", "month": 2, "topic": 7, "en": "blood pressure", "pl": "ciśnienie krwi" },
+    { "id": "b07-w046", "month": 2, "topic": 7, "en": "heart rate", "pl": "tętno" },
+    { "id": "b07-w047", "month": 2, "topic": 7, "en": "immune system", "pl": "układ odpornościowy" },
+    { "id": "b07-w048", "month": 2, "topic": 7, "en": "mental health", "pl": "zdrowie psychiczne" },
+    { "id": "b07-w049", "month": 2, "topic": 7, "en": "insomnia", "pl": "bezsenność" },
+    { "id": "b07-w050", "month": 2, "topic": 7, "en": "fatigue", "pl": "zmęczenie / znużenie" },
+    { "id": "b07-w051", "month": 2, "topic": 7, "en": "well-being", "pl": "dobrostan / samopoczucie" },
+    { "id": "b07-w052", "month": 2, "topic": 7, "en": "posture", "pl": "postawa ciała" },
+    { "id": "b07-w053", "month": 2, "topic": 7, "en": "muscle", "pl": "mięsień" },
+    { "id": "b07-w054", "month": 2, "topic": 7, "en": "joint", "pl": "staw (w ciele)" },
+    { "id": "b07-w055", "month": 2, "topic": 7, "en": "spine", "pl": "kręgosłup" },
+    { "id": "b07-w056", "month": 2, "topic": 7, "en": "ankle", "pl": "kostka" },
+    { "id": "b07-w057", "month": 2, "topic": 7, "en": "wrist", "pl": "nadgarstek" },
+    { "id": "b07-w058", "month": 2, "topic": 7, "en": "shoulder", "pl": "bark / ramię" },
+    { "id": "b07-w059", "month": 2, "topic": 7, "en": "elbow", "pl": "łokieć" },
+    { "id": "b07-w060", "month": 2, "topic": 7, "en": "knee", "pl": "kolano" },
+    { "id": "b07-w061", "month": 2, "topic": 7, "en": "lungs", "pl": "płuca" },
+    { "id": "b07-w062", "month": 2, "topic": 7, "en": "skin", "pl": "skóra" },
+    { "id": "b07-w063", "month": 2, "topic": 7, "en": "nutrition", "pl": "odżywianie" },
+    { "id": "b07-w064", "month": 2, "topic": 7, "en": "protein", "pl": "białko" },
+    { "id": "b07-w065", "month": 2, "topic": 7, "en": "carbs", "pl": "węglowodany" },
+    { "id": "b07-w066", "month": 2, "topic": 7, "en": "fiber", "pl": "błonnik" },
+    { "id": "b07-w067", "month": 2, "topic": 7, "en": "calories", "pl": "kalorie" },
+    { "id": "b07-w068", "month": 2, "topic": 7, "en": "junk food", "pl": "śmieciowe jedzenie" },
+    { "id": "b07-w069", "month": 2, "topic": 7, "en": "processed food", "pl": "żywność przetworzona" },
+    { "id": "b07-w070", "month": 2, "topic": 7, "en": "whole grain", "pl": "pełnoziarnisty" },
+    { "id": "b07-w071", "month": 2, "topic": 7, "en": "dairy", "pl": "nabiał" },
+    { "id": "b07-w072", "month": 2, "topic": 7, "en": "gluten-free", "pl": "bezglutenowy" },
+    { "id": "b07-w073", "month": 2, "topic": 7, "en": "portion", "pl": "porcja" },
+    { "id": "b07-w074", "month": 2, "topic": 7, "en": "appetite", "pl": "apetyt" },
+    { "id": "b07-w075", "month": 2, "topic": 7, "en": "thirsty", "pl": "spragniony" },
+    { "id": "b07-w076", "month": 2, "topic": 7, "en": "full", "pl": "najedzony / syty" },
+    { "id": "b07-w077", "month": 2, "topic": 7, "en": "workout", "pl": "trening" },
+    { "id": "b07-w078", "month": 2, "topic": 7, "en": "cardio", "pl": "trening cardio" },
+    { "id": "b07-w079", "month": 2, "topic": 7, "en": "strength training", "pl": "trening siłowy" },
+    { "id": "b07-w080", "month": 2, "topic": 7, "en": "treadmill", "pl": "bieżnia" },
+    { "id": "b07-w081", "month": 2, "topic": 7, "en": "dumbbells", "pl": "hantle" },
+    { "id": "b07-w082", "month": 2, "topic": 7, "en": "push-up", "pl": "pompka (ćwiczenie)" },
+    { "id": "b07-w083", "month": 2, "topic": 7, "en": "squat", "pl": "przysiad" },
+    { "id": "b07-w084", "month": 2, "topic": 7, "en": "plank", "pl": "deska (ćwiczenie)" },
+    { "id": "b07-w085", "month": 2, "topic": 7, "en": "jogging", "pl": "trucht / bieganie" },
+    { "id": "b07-w086", "month": 2, "topic": 7, "en": "hiking", "pl": "wędrówka (np. po górach)" },
+    { "id": "b07-w087", "month": 2, "topic": 7, "en": "cycling", "pl": "jazda na rowerze" },
+    { "id": "b07-w088", "month": 2, "topic": 7, "en": "swimming", "pl": "pływanie" },
+    { "id": "b07-w089", "month": 2, "topic": 7, "en": "climbing", "pl": "wspinaczka" },
+    { "id": "b07-w090", "month": 2, "topic": 7, "en": "skiing", "pl": "narciarstwo" },
+    { "id": "b07-w091", "month": 2, "topic": 7, "en": "coach", "pl": "trener" },
+    { "id": "b07-w092", "month": 2, "topic": 7, "en": "teammate", "pl": "kolega z drużyny" },
+    { "id": "b07-w093", "month": 2, "topic": 7, "en": "opponent", "pl": "przeciwnik" },
+    { "id": "b07-w094", "month": 2, "topic": 7, "en": "referee", "pl": "sędzia sportowy" },
+    { "id": "b07-w095", "month": 2, "topic": 7, "en": "score", "pl": "wynik" },
+    { "id": "b07-w096", "month": 2, "topic": 7, "en": "tournament", "pl": "turniej" },
+    { "id": "b07-w097", "month": 2, "topic": 7, "en": "locker room", "pl": "szatnia" },
+    { "id": "b07-w098", "month": 2, "topic": 7, "en": "gym membership", "pl": "karnet na siłownię" },
+    { "id": "b07-w099", "month": 2, "topic": 7, "en": "sneakers", "pl": "buty sportowe / adidasy" },
+    { "id": "b07-w100", "month": 2, "topic": 7, "en": "flexible", "pl": "rozciągnięty / gibki" },
+    { "id": "b07-w101", "month": 2, "topic": 7, "en": "fit", "pl": "wysportowany / w formie" },
+    { "id": "b07-w102", "month": 2, "topic": 7, "en": "energetic", "pl": "pełen energii" },
+    { "id": "b07-w103", "month": 2, "topic": 7, "en": "sluggish", "pl": "ospały / bez życia" },
+    { "id": "b07-w104", "month": 2, "topic": 7, "en": "drowsy", "pl": "senny" },
+    { "id": "b07-w105", "month": 2, "topic": 7, "en": "to heal", "pl": "goić się" },
+    { "id": "b07-w106", "month": 2, "topic": 7, "en": "to ache", "pl": "boleć (tępy ból)" },
+    { "id": "b07-w0107", "month": 2, "topic": 7, "en": "to hurt", "pl": "boleć / zranić" },
+    { "id": "b07-w108", "month": 2, "topic": 7, "en": "to breathe", "pl": "oddychać" },
+    { "id": "b07-w109", "month": 2, "topic": 7, "en": "to sweat", "pl": "pocić się" },
+    { "id": "b07-w110", "month": 2, "topic": 7, "en": "to lift weights", "pl": "podnosić ciężary" },
+    { "id": "b07-w111", "month": 2, "topic": 7, "en": "to pace yourself", "pl": "dawkować siły / tempo" },
+    { "id": "b07-w112", "month": 2, "topic": 7, "en": "to stay active", "pl": "pozostawać aktywnym" },
+    { "id": "b07-w113", "month": 2, "topic": 7, "en": "to skip a workout", "pl": "opuścić trening" },
+    { "id": "b07-w114", "month": 2, "topic": 7, "en": "to catch a cold", "pl": "złapać przeziębienie" },
+    { "id": "b07-w115", "month": 2, "topic": 7, "en": "to sneeze", "pl": "kichać" },
+    { "id": "b07-w116", "month": 2, "topic": 7, "en": "tissue", "pl": "chusteczka higieniczna" },
+    { "id": "b07-w117", "month": 2, "topic": 7, "en": "thermometer", "pl": "termometr" },
+    { "id": "b07-w118", "month": 2, "topic": 7, "en": "first aid kit", "pl": "apteczka pierwszej pomocy" },
+    { "id": "b07-w119", "month": 2, "topic": 7, "en": "sauna", "pl": "sauna" },
+    { "id": "b07-w120", "month": 2, "topic": 7, "en": "massage", "pl": "masaż" }
+  ]
+}

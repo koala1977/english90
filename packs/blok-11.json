@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 11,
+    "month": 3,
+    "title": "Przyszłość, plany i hipotetyczne sytuacje"
+  },
+  "cards": [
+    {
+      "id": "b11-c01", "month": 3, "topic": 11,
+      "en": "**Chances are** it'll rain this afternoon, so take a jacket.",
+      "pl": "Najprawdopodobniej (jest duża szansa, że) po południu popada, więc weź kurtkę.",
+      "phrasePl": "jest duża szansa, że / prawdopodobnie",
+      "note": "Bardzo naturalny odpowiednik „It is likely that…”.",
+      "prompt": "Zrób krótką prognozę na najbliższy weekend, zaczynając od „Chances are…”."
+    },
+    {
+      "id": "b11-c02", "month": 3, "topic": 11,
+      "en": "I still can't **make up my mind** where to go on vacation.",
+      "pl": "Wciąż nie mogę się zdecydować, dokąd pojechać na wakacje.",
+      "phrasePl": "zdecydować się",
+      "note": "Bardziej potoczne i żywe niż „decide”. „Have you made up your mind yet?”",
+      "prompt": "Powiedz o jednej decyzji, nad którą trudno Ci „make up your mind”."
+    },
+    {
+      "id": "b11-c03", "month": 3, "topic": 11,
+      "en": "It's hard now, but it'll pay off **in the long run**.",
+      "pl": "Teraz jest ciężko, ale na dłuższą metę to się opłaci.",
+      "phrasePl": "na dłuższą metę / w dłuższej perspektywie",
+      "note": "Przeciwieństwo: „in the short term” (na krótką metę).",
+      "prompt": "Powiedz, jaki codzienny nawyk najbardziej opłaci się „in the long run”."
+    },
+    {
+      "id": "b11-c04", "month": 3, "topic": 11,
+      "en": "We have to **take into account** the travel time too.",
+      "pl": "Musimy wziąć pod uwagę również czas dojazdu.",
+      "phrasePl": "wziąć pod uwagę",
+      "note": "Synonim: „take into consideration”. Świetne w planowaniu i rozmowach biznesowych.",
+      "prompt": "Wymień jeden czynnik, który warto „take into account” przy zmianie pracy."
+    },
+    {
+      "id": "b11-c05", "month": 3, "topic": 11,
+      "en": "**What if** we tried a completely different approach?",
+      "pl": "A co jeśli spróbowalibyśmy zupełnie innego podejścia?",
+      "phrasePl": "a co jeśli… (gdybanie)",
+      "note": "Najkrótsze i najbardziej naturalne otwarcie hipotetycznego scenariusza.",
+      "prompt": "Zaproponuj odważny pomysł, zaczynając od „What if we…”."
+    },
+    {
+      "id": "b11-c06", "month": 3, "topic": 11,
+      "en": "**Assuming** everything goes well, we'll finish by Friday.",
+      "pl": "Zakładając, że wszystko pójdzie dobrze, skończymy do piątku.",
+      "phrasePl": "zakładając, że…",
+      "note": "Bardzo praktyczne przy podawaniu szacunków i planów.",
+      "prompt": "Podaj swój plan na ten tydzień, zaczynając od „Assuming…”."
+    },
+    {
+      "id": "b11-c07", "month": 3, "topic": 11,
+      "en": "I'm **having second thoughts** about buying that car.",
+      "pl": "Zaczynam mieć wątpliwości (waham się) co do kupna tego auta.",
+      "phrasePl": "mieć wątpliwości / zacząć się wahać",
+      "note": "Używane, kiedy już prawie podjąłeś decyzję, ale nagle zaczynasz wątpić.",
+      "prompt": "Opowiedz o decyzji, przy której kiedyś „had second thoughts”."
+    },
+    {
+      "id": "b11-c08", "month": 3, "topic": 11,
+      "en": "I'm **on the fence** about joining the new course.",
+      "pl": "Jestem niezdecydowany (siedzę okrakiem na płocie) co do dołączenia do nowego kursu.",
+      "phrasePl": "być niezdecydowanym / wahać się",
+      "note": "Bardzo częsty idiom w mowie potocznej.",
+      "prompt": "Powiedz o jednej rzeczy, w której jesteś teraz „on the fence”."
+    },
+    {
+      "id": "b11-c09", "month": 3, "topic": 11,
+      "en": "Let's **keep our options open** for now.",
+      "pl": "Zostawmy sobie na razie otwarte opcje.",
+      "phrasePl": "zostawić sobie otwarte opcje",
+      "note": "Świetne, gdy nie chcesz się jeszcze wiązać jedną decyzją.",
+      "prompt": "Wyjaśnij, dlaczego nie rezerwujesz jeszcze hotelu, używając „keep our options open”."
+    },
+    {
+      "id": "b11-c10", "month": 3, "topic": 11,
+      "en": "**Worst-case scenario**, we'll just take a taxi.",
+      "pl": "W najgorszym wypadku weźmiemy po prostu taksówkę.",
+      "phrasePl": "w najgorszym scenariuszu / wypadku",
+      "note": "Przeciwieństwo: „best-case scenario”. Świetnie uspokaja przed ryzykiem.",
+      "prompt": "Uspokój kogoś przed podróżą, używając „Worst-case scenario…”."
+    },
+    {
+      "id": "b11-c11", "month": 3, "topic": 11,
+      "en": "I'm **planning on** visiting Spain next spring.",
+      "pl": "Planuję odwiedzić Hiszpanię przyszłej wiosny.",
+      "phrasePl": "planować (zrobienie czegoś)",
+      "note": "„Plan to do” albo „plan on doing” (bardzo naturalne w mowie!).",
+      "prompt": "Powiedz, co „planning on” zrobić w przyszłym miesiącu."
+    },
+    {
+      "id": "b11-c12", "month": 3, "topic": 11,
+      "en": "If I **had more free time**, I'd learn to sail.",
+      "pl": "Gdybym miał więcej wolnego czasu, nauczyłbym się żeglować.",
+      "phrasePl": "gdybym miał więcej wolnego czasu",
+      "note": "Drugi tryb warunkowy (gdybanie o teraźniejszości/przyszłości): If + Past Simple, would + bezokolicznik.",
+      "prompt": "Dokończ na głos zdanie: „If I had more free time, I'd…”."
+    },
+    {
+      "id": "b11-c13", "month": 3, "topic": 11,
+      "en": "Let's **cross that bridge when we come to it**.",
+      "pl": "Będziemy się tym martwić, jak już do tego dojdzie.",
+      "phrasePl": "martwić się tym dopiero, gdy pojawi się problem",
+      "note": "Klasyczny idiom przeciwko zamartwianiu się na zapas.",
+      "prompt": "Ktoś martwi się dalekim problemem. Uspokój go tym idiomem."
+    },
+    {
+      "id": "b11-c14", "month": 3, "topic": 11,
+      "en": "I'm **bound to** forget if I don't write it down.",
+      "pl": "Na pewno (bankowo) zapomnę, jeśli tego nie zapiszę.",
+      "phrasePl": "na pewno / nieuchronnie",
+      "note": "„Be bound to + czasownik” = coś jest niemal pewne („It's bound to happen”).",
+      "prompt": "Powiedz, co jest „bound to” się stać, jeśli nie nastawisz budzika."
+    },
+    {
+      "id": "b11-c15", "month": 3, "topic": 11,
+      "en": "**Provided that** the weather holds, we'll eat outside.",
+      "pl": "Pod warunkiem, że pogoda dopisze, zjemy na zewnątrz.",
+      "phrasePl": "pod warunkiem, że",
+      "note": "Elegancki synonim „as long as” / „if”.",
+      "prompt": "Ułóż warunek dla planu na weekend, używając „Provided that…”."
+    },
+    {
+      "id": "b11-c16", "month": 3, "topic": 11,
+      "en": "I'm **aiming to** speak fluently by the end of the year.",
+      "pl": "Celuję w to, żeby mówić płynnie do końca roku.",
+      "phrasePl": "celować w / stawiać sobie za cel",
+      "note": "Też: „aim for + rzeczownik” („I'm aiming for 20 minutes a day”).",
+      "prompt": "Powiedz głośno swój cel na najbliższe 3 miesiące, zaczynając od „I'm aiming to…”."
+    },
+    {
+      "id": "b11-c17", "month": 3, "topic": 11,
+      "en": "It's **unlikely** that prices will drop anytime soon.",
+      "pl": "Jest mało prawdopodobne, że ceny spadną w najbliższym czasie.",
+      "phrasePl": "mało prawdopodobne",
+      "note": "„Anytime soon” = w najbliższym czasie. Przeciwieństwo: „likely” (prawdopodobne).",
+      "prompt": "Powiedz o jednej rzeczy, która jest „unlikely” w tym roku."
+    },
+    {
+      "id": "b11-c18", "month": 3, "topic": 11,
+      "en": "I'll **sleep on it** and tell you my decision tomorrow.",
+      "pl": "Prześpię się z tym i powiem Ci moją decyzję jutro.",
+      "phrasePl": "przespać się z decyzją",
+      "note": "Dokładny odpowiednik polskiego zwrotu — świetny w zakupach i negocjacjach.",
+      "prompt": "Poproś o noc do namysłu przed ważną decyzją, używając „sleep on it”."
+    },
+    {
+      "id": "b11-c19", "month": 3, "topic": 11,
+      "en": "Everything is still **up in the air** right now.",
+      "pl": "Wszystko wciąż wisi w powietrzu (jest niepewne).",
+      "phrasePl": "wisieć w powietrzu / być niepewnym",
+      "note": "Naturalny idiom, kiedy plany nie są jeszcze dopięte.",
+      "prompt": "Opowiedz o wakacjach lub projekcie, który wciąż jest „up in the air”."
+    },
+    {
+      "id": "b11-c20", "month": 3, "topic": 11,
+      "en": "**Suppose** you won a million dollars — what's the first thing you'd buy?",
+      "pl": "Załóżmy, że wygrałeś milion dolarów — co kupiłbyś jako pierwsze?",
+      "phrasePl": "załóżmy, że…",
+      "note": "Świetne otwarcie luźnych pytań „co by było, gdyby”.",
+      "prompt": "Odpowiedz na pytanie z karty na głos: „If I won a million dollars, I'd…”."
+    },
+    {
+      "id": "b11-c21", "month": 3, "topic": 11,
+      "en": "We need to **plan ahead** for the holiday season.",
+      "pl": "Musimy zaplanować z wyprzedzeniem okres świąteczny.",
+      "phrasePl": "planować z wyprzedzeniem",
+      "note": "Też: „think ahead” (myśleć naprzód / perspektywicznie).",
+      "prompt": "Powiedz, czy wolisz „plan ahead”, czy działać spontanicznie."
+    },
+    {
+      "id": "b11-c22", "month": 3, "topic": 11,
+      "en": "It **might as well** be done today instead of waiting.",
+      "pl": "Równie dobrze możemy to zrobić dziś zamiast czekać.",
+      "phrasePl": "równie dobrze (można coś zrobić)",
+      "note": "Bardzo częste w mowie: „We might as well walk — it's only ten minutes.”",
+      "prompt": "Zaproponuj zrobienie czegoś od razu, używając „might as well”."
+    },
+    {
+      "id": "b11-c23", "month": 3, "topic": 11,
+      "en": "I'm **counting down the days** until our trip!",
+      "pl": "Odliczam dni do naszego wyjazdu!",
+      "phrasePl": "odliczać dni (do czegoś)",
+      "note": "Rzeczownik: „a countdown” (odliczanie).",
+      "prompt": "Powiedz, do jakiego wydarzenia „counting down the days”."
+    },
+    {
+      "id": "b11-c24", "month": 3, "topic": 11,
+      "en": "**Sooner than later**, we'll need to upgrade our laptop.",
+      "pl": "Prędzej niż później będziemy musieli wymienić laptopa.",
+      "phrasePl": "raczej prędzej niż później",
+      "note": "Podkreśla, że coś wydarzy się dość szybko.",
+      "prompt": "Wymień jedną rzecz, którą trzeba załatwić „sooner rather than later”."
+    },
+    {
+      "id": "b11-c25", "month": 3, "topic": 11,
+      "en": "I **wish I could** speak five languages effortlessly.",
+      "pl": "Chciałbym móc mówić w pięciu językach bez wysiłku.",
+      "phrasePl": "chciałbym móc / szkoda, że nie mogę",
+      "note": "Po „I wish” używamy czasu przeszłego (I wish I had / I wish I could / I wish I knew).",
+      "prompt": "Powiedz głośno jedno swoje życzenie, zaczynając od „I wish I could…”."
+    },
+    {
+      "id": "b11-c26", "month": 3, "topic": 11,
+      "en": "Let's **set a goal** that's challenging but realistic.",
+      "pl": "Wyznaczmy cel, który jest ambitny, ale realistyczny.",
+      "phrasePl": "wyznaczyć sobie cel",
+      "note": "„Achieve / reach a goal” = osiągnąć cel.",
+      "prompt": "Powiedz, jaki cel („goal”) wyznaczyłeś sobie na ten kwartał."
+    },
+    {
+      "id": "b11-c27", "month": 3, "topic": 11,
+      "en": "There's **a slim chance** we'll get tickets at the door.",
+      "pl": "Jest nikła szansa, że dostaniemy bilety przy wejściu.",
+      "phrasePl": "nikła / niewielka szansa",
+      "note": "Przeciwieństwo: „a good / strong chance”.",
+      "prompt": "Ułóż zdanie o czymś mało prawdopodobnym, używając „a slim chance”."
+    },
+    {
+      "id": "b11-c28", "month": 3, "topic": 11,
+      "en": "We'll **play it safe** and leave thirty minutes early.",
+      "pl": "Zagramy bezpiecznie (nie będziemy ryzykować) i wyjdziemy trzydzieści minut wcześniej.",
+      "phrasePl": "nie ryzykować / wybrać bezpieczną opcję",
+      "note": "Przeciwieństwo: „take a chance / take a risk”.",
+      "prompt": "Powiedz, kiedy wolisz „play it safe”, a kiedy zaryzykować."
+    },
+    {
+      "id": "b11-c29", "month": 3, "topic": 11,
+      "en": "I'm **thinking of** switching careers in a couple of years.",
+      "pl": "Myślę o zmianie branży za parę lat.",
+      "phrasePl": "myśleć o (czymś w przyszłości)",
+      "note": "Po „thinking of / thinking about” zawsze czasownik z -ing.",
+      "prompt": "Powiedz o jednym luźnym planie na przyszłość, zaczynając od „I'm thinking of…”."
+    },
+    {
+      "id": "b11-c30", "month": 3, "topic": 11,
+      "en": "It's **only a matter of time** before AI changes this industry.",
+      "pl": "To tylko kwestia czasu, zanim AI zmieni tę branżę.",
+      "phrasePl": "to tylko kwestia czasu",
+      "note": "Mocne, pewne przewidywanie przyszłości.",
+      "prompt": "Zrób przewidywanie o technologii lub sporcie, używając „only a matter of time”."
+    },
+    {
+      "id": "b11-c31", "month": 3, "topic": 11,
+      "en": "If everything **falls into place**, we'll open in June.",
+      "pl": "Jeśli wszystko ułoży się na swoim miejscu, otworzymy w czerwcu.",
+      "phrasePl": "ułożyć się / zgrać się idealnie",
+      "note": "Obrazowy idiom o puzzlach, które wskakują na swoje miejsce.",
+      "prompt": "Opowiedz o planie, który wypali, jeśli wszystko „falls into place”."
+    },
+    {
+      "id": "b11-c32", "month": 3, "topic": 11,
+      "en": "I don't want to **jump the gun** before signing the contract.",
+      "pl": "Nie chcę wybiegać przed szereg (działać za wcześnie), zanim podpiszemy umowę.",
+      "phrasePl": "falstartować / działać zbyt pochopnie",
+      "note": "Idiom ze sportu — ruszenie przed wystrzałem startera.",
+      "prompt": "Powiedz, dlaczego warto poczekać z ogłaszaniem newsa i nie „jump the gun”."
+    },
+    {
+      "id": "b11-c33", "month": 3, "topic": 11,
+      "en": "Let's **have a backup plan** in case it rains.",
+      "pl": "Miejmy plan awaryjny na wypadek, gdyby padało.",
+      "phrasePl": "mieć plan awaryjny (plan B)",
+      "note": "Też po prostu: „Plan B”.",
+      "prompt": "Podaj swój „backup plan” na weekend, gdyby zepsuła się pogoda."
+    },
+    {
+      "id": "b11-c34", "month": 3, "topic": 11,
+      "en": "I'm **determined to** finish what I started.",
+      "pl": "Jestem zdeterminowany, żeby dokończyć to, co zacząłem.",
+      "phrasePl": "być zdeterminowanym, żeby",
+      "note": "Bardzo mocne, motywujące wyrażenie.",
+      "prompt": "Powiedz głośno zdanie motywacyjne dla siebie: „I'm determined to…”."
+    },
+    {
+      "id": "b11-c35", "month": 3, "topic": 11,
+      "en": "It **remains to be seen** whether this update will help.",
+      "pl": "Czas pokaże (dopiero się okaże), czy ta aktualizacja pomoże.",
+      "phrasePl": "dopiero się okaże / czas pokaże",
+      "note": "Bardziej elegancka wersja „We'll see” / „Time will tell”.",
+      "prompt": "Zareaguj ostrożnie na nowy pomysł, używając „Time will tell” lub „It remains to be seen”."
+    },
+    {
+      "id": "b11-c36", "month": 3, "topic": 11,
+      "en": "What's your **next move** after finishing this project?",
+      "pl": "Jaki jest Twój następny ruch po skończeniu tego projektu?",
+      "phrasePl": "następny ruch / kolejny krok",
+      "note": "Bardzo naturalne w rozmowach o karierze i planach.",
+      "prompt": "Odpowiedz na pytanie, jaki jest Twój „next move” po tych 90 dniach nauki."
+    },
+    {
+      "id": "b11-c37", "month": 3, "topic": 11,
+      "en": "I'm **looking ahead** to a much calmer autumn.",
+      "pl": "Patrzę w przyszłość z nadzieją na znacznie spokojniejszą jesień.",
+      "phrasePl": "patrzeć w przyszłość / wybiegać myślą naprzód",
+      "note": "Naturalna para z „looking back” (patrząc wstecz).",
+      "prompt": "Powiedz, co widzisz, kiedy „look ahead” na następne pół roku."
+    },
+    {
+      "id": "b11-c38", "month": 3, "topic": 11,
+      "en": "**With any luck**, we'll be home before dark.",
+      "pl": "Przy odrobinie szczęścia będziemy w domu przed zmrokiem.",
+      "phrasePl": "przy odrobinie szczęścia",
+      "note": "Lekkie, optymistyczne otwarcie zdania o bliskiej przyszłości.",
+      "prompt": "Powiedz o czymś, co „With any luck” uda się w tym tygodniu."
+    },
+    {
+      "id": "b11-c39", "month": 3, "topic": 11,
+      "en": "I'd **never dream of** moving without visiting first.",
+      "pl": "Nawet by mi nie przyszło do głowy się przeprowadzać bez wcześniejszej wizyty.",
+      "phrasePl": "nawet by mi nie przyszło do głowy",
+      "note": "Po „dream of” zawsze czasownik z -ing.",
+      "prompt": "Powiedz o jednej ryzykownej rzeczy, której „never dream of” zrobić."
+    },
+    {
+      "id": "b11-c40", "month": 3, "topic": 11,
+      "en": "We're **on the verge of** signing a huge deal.",
+      "pl": "Jesteśmy o krok od podpisania wielkiej umowy.",
+      "phrasePl": "być na skraju / o krok od",
+      "note": "Działa dla sukcesów i kryzysów: „on the verge of a breakthrough / on the verge of giving up”.",
+      "prompt": "Ułóż zdanie z „on the verge of”."
+    },
+    {
+      "id": "b11-c41", "month": 3, "topic": 11,
+      "en": "It **depends on how things go** over the next few weeks.",
+      "pl": "To zależy od tego, jak potoczą się sprawy w ciągu najbliższych tygodni.",
+      "phrasePl": "zależy od tego, jak się potoczy",
+      "note": "Naturalna, elastyczna odpowiedź na pytania o dalsze plany.",
+      "prompt": "Odpowiedz na pytanie o plany na lato, używając „depends on how things go”."
+    },
+    {
+      "id": "b11-c42", "month": 3, "topic": 11,
+      "en": "I'll **take my chances** and apply anyway.",
+      "pl": "Zaryzykuję (spróbuję szczęścia) i tak czy siak złożę aplikację.",
+      "phrasePl": "zaryzykować / spróbować szczęścia",
+      "note": "Świetne, kiedy szanse nie są pewne, ale warto spróbować.",
+      "prompt": "Powiedz o sytuacji, w której warto „take your chances”."
+    },
+    {
+      "id": "b11-c43", "month": 3, "topic": 11,
+      "en": "Don't **count your chickens** before they hatch.",
+      "pl": "Nie dziel skóry na niedźwiedziu (nie ciesz się przed czasem).",
+      "phrasePl": "nie dzielić skóry na niedźwiedziu",
+      "note": "Jeden z najbardziej rozpoznawalnych angielskich przysłów.",
+      "prompt": "Ostrzeż żartobliwie kolegę przed zbyt wczesnym świętowaniem, używając tego zwrotu."
+    },
+    {
+      "id": "b11-c44", "month": 3, "topic": 11,
+      "en": "I'm **optimistic about** where this is headed.",
+      "pl": "Jestem optymistą co do tego, w jakim kierunku to zmierza.",
+      "phrasePl": "być optymistą co do",
+      "note": "Przeciwieństwo: „pessimistic about” / „skeptical about”.",
+      "prompt": "Powiedz, wobec czego w swoim życiu jesteś „optimistic about”."
+    },
+    {
+      "id": "b11-c45", "month": 3, "topic": 11,
+      "en": "**Fingers crossed**, everything will go smoothly tomorrow!",
+      "pl": "Trzymajmy kciuki — oby jutro wszystko poszło gładko!",
+      "phrasePl": "trzymam kciuki",
+      "note": "„Go smoothly” = pójść gładko / bezproblemowo.",
+      "prompt": "Życz sobie lub znajomemu powodzenia przed ważnym dniem, używając „Fingers crossed”."
+    }
+  ],
+  "words": [
+    { "id": "b11-w001", "month": 3, "topic": 11, "en": "future", "pl": "przyszłość" },
+    { "id": "b11-w002", "month": 3, "topic": 11, "en": "ambition", "pl": "ambicja" },
+    { "id": "b11-w003", "month": 3, "topic": 11, "en": "dream", "pl": "marzenie" },
+    { "id": "b11-w004", "month": 3, "topic": 11, "en": "vision", "pl": "wizja" },
+    { "id": "b11-w005", "month": 3, "topic": 11, "en": "intention", "pl": "zamiar / intencja" },
+    { "id": "b11-w006", "month": 3, "topic": 11, "en": "decision", "pl": "decyzja" },
+    { "id": "b11-w007", "month": 3, "topic": 11, "en": "choice", "pl": "wybór" },
+    { "id": "b11-w008", "month": 3, "topic": 11, "en": "risk", "pl": "ryzyko" },
+    { "id": "b11-w009", "month": 3, "topic": 11, "en": "uncertainty", "pl": "niepewność" },
+    { "id": "b11-w010", "month": 3, "topic": 11, "en": "possibility", "pl": "możliwość" },
+    { "id": "b11-w011", "month": 3, "topic": 11, "en": "probability", "pl": "prawdopodobieństwo" },
+    { "id": "b11-w012", "month": 3, "topic": 11, "en": "odds", "pl": "szanse (statystyczne)" },
+    { "id": "b11-w013", "month": 3, "topic": 11, "en": "prediction", "pl": "przewidywanie" },
+    { "id": "b11-w014", "month": 3, "topic": 11, "en": "scenario", "pl": "scenariusz" },
+    { "id": "b11-w015", "month": 3, "topic": 11, "en": "potential", "pl": "potencjał" },
+    { "id": "b11-w016", "month": 3, "topic": 11, "en": "prospect", "pl": "perspektywa / szansa" },
+    { "id": "b11-w017", "month": 3, "topic": 11, "en": "obstacle", "pl": "przeszkoda" },
+    { "id": "b11-w018", "month": 3, "topic": 11, "en": "setback", "pl": "potknięcie / krok w tył" },
+    { "id": "b11-w019", "month": 3, "topic": 11, "en": "breakthrough", "pl": "przełom" },
+    { "id": "b11-w020", "month": 3, "topic": 11, "en": "success", "pl": "sukces" },
+    { "id": "b11-w021", "month": 3, "topic": 11, "en": "failure", "pl": "porażka" },
+    { "id": "b11-w022", "month": 3, "topic": 11, "en": "commitment", "pl": "zaangażowanie / zobowiązanie" },
+    { "id": "b11-w023", "month": 3, "topic": 11, "en": "discipline", "pl": "dyscyplina" },
+    { "id": "b11-w024", "month": 3, "topic": 11, "en": "consistency", "pl": "konsekwencja / regularność" },
+    { "id": "b11-w025", "month": 3, "topic": 11, "en": "motivation", "pl": "motywacja" },
+    { "id": "b11-w026", "month": 3, "topic": 11, "en": "determination", "pl": "determinacja" },
+    { "id": "b11-w027", "month": 3, "topic": 11, "en": "doubt", "pl": "wątpliwość" },
+    { "id": "b11-w028", "month": 3, "topic": 11, "en": "hesitation", "pl": "wahanie" },
+    { "id": "b11-w029", "month": 3, "topic": 11, "en": "precaution", "pl": "środek ostrożności" },
+    { "id": "b11-w030", "month": 3, "topic": 11, "en": "preparation", "pl": "przygotowanie" },
+    { "id": "b11-w031", "month": 3, "topic": 11, "en": "likely", "pl": "prawdopodobny" },
+    { "id": "b11-w032", "month": 3, "topic": 11, "en": "unlikely", "pl": "mało prawdopodobny" },
+    { "id": "b11-w033", "month": 3, "topic": 11, "en": "certain", "pl": "pewny" },
+    { "id": "b11-w034", "month": 3, "topic": 11, "en": "uncertain", "pl": "niepewny" },
+    { "id": "b11-w035", "month": 3, "topic": 11, "en": "inevitable", "pl": "nieunikniony" },
+    { "id": "b11-w036", "month": 3, "topic": 11, "en": "avoidable", "pl": "do uniknięcia" },
+    { "id": "b11-w037", "month": 3, "topic": 11, "en": "possible", "pl": "możliwy" },
+    { "id": "b11-w038", "month": 3, "topic": 11, "en": "impossible", "pl": "niemożliwy" },
+    { "id": "b11-w039", "month": 3, "topic": 11, "en": "hypothetical", "pl": "hipotetyczny" },
+    { "id": "b11-w040", "month": 3, "topic": 11, "en": "theoretical", "pl": "teoretyczny" },
+    { "id": "b11-w041", "month": 3, "topic": 11, "en": "ambitious", "pl": "ambitny" },
+    { "id": "b11-w042", "month": 3, "topic": 11, "en": "achievable", "pl": "osiągalny" },
+    { "id": "b11-w043", "month": 3, "topic": 11, "en": "sustainable", "pl": "zrównoważony / do utrzymania" },
+    { "id": "b11-w044", "month": 3, "topic": 11, "en": "temporary", "pl": "tymczasowy" },
+    { "id": "b11-w045", "month": 3, "topic": 11, "en": "permanent", "pl": "stały / trwały" },
+    { "id": "b11-w046", "month": 3, "topic": 11, "en": "upcoming", "pl": "nadchodzący" },
+    { "id": "b11-w047", "month": 3, "topic": 11, "en": "forthcoming", "pl": "zbliżający się" },
+    { "id": "b11-w048", "month": 3, "topic": 11, "en": "tentative", "pl": "wstępny / niepewny (plan)" },
+    { "id": "b11-w049", "month": 3, "topic": 11, "en": "decisive", "pl": "zdecydowany / rozstrzygający" },
+    { "id": "b11-w050", "month": 3, "topic": 11, "en": "indecisive", "pl": "niezdecydowany" },
+    { "id": "b11-w051", "month": 3, "topic": 11, "en": "cautious", "pl": "ostrożny" },
+    { "id": "b11-w052", "month": 3, "topic": 11, "en": "bold", "pl": "śmiały / odważny" },
+    { "id": "b11-w053", "month": 3, "topic": 11, "en": "optimistic", "pl": "optymistyczny" },
+    { "id": "b11-w054", "month": 3, "topic": 11, "en": "pessimistic", "pl": "pesymistyczny" },
+    { "id": "b11-w055", "month": 3, "topic": 11, "en": "skeptical", "pl": "sceptyczny" },
+    { "id": "b11-w056", "month": 3, "topic": 11, "en": "eager", "pl": "chętny / pełen zapału" },
+    { "id": "b11-w057", "month": 3, "topic": 11, "en": "willing", "pl": "skłonny / gotowy" },
+    { "id": "b11-w058", "month": 3, "topic": 11, "en": "to predict", "pl": "przewidywać" },
+    { "id": "b11-w059", "month": 3, "topic": 11, "en": "to anticipate", "pl": "spodziewać się / przewidywać" },
+    { "id": "b11-w060", "month": 3, "topic": 11, "en": "to foresee", "pl": "przewidzieć z góry" },
+    { "id": "b11-w061", "month": 3, "topic": 11, "en": "to intend", "pl": "zamierzać" },
+    { "id": "b11-w062", "month": 3, "topic": 11, "en": "to aim", "pl": "celować / dążyć" },
+    { "id": "b11-w063", "month": 3, "topic": 11, "en": "to pursue", "pl": "dążyć do / realizować" },
+    { "id": "b11-w064", "month": 3, "topic": 11, "en": "to achieve", "pl": "osiągnąć" },
+    { "id": "b11-w065", "month": 3, "topic": 11, "en": "to accomplish", "pl": "dokonać / zrealizować" },
+    { "id": "b11-w066", "month": 3, "topic": 11, "en": "to succeed", "pl": "odnieść sukces" },
+    { "id": "b11-w067", "month": 3, "topic": 11, "en": "to fail", "pl": "ponieść porażkę" },
+    { "id": "b11-w068", "month": 3, "topic": 11, "en": "to adapt", "pl": "dostosować się" },
+    { "id": "b11-w069", "month": 3, "topic": 11, "en": "to adjust", "pl": "skorygować / dopasować" },
+    { "id": "b11-w070", "month": 3, "topic": 11, "en": "to commit", "pl": "zobowiązać się" },
+    { "id": "b11-w071", "month": 3, "topic": 11, "en": "to invest", "pl": "inwestować" },
+    { "id": "b11-w072", "month": 3, "topic": 11, "en": "to prepare", "pl": "przygotować się" },
+    { "id": "b11-w073", "month": 3, "topic": 11, "en": "to imagine", "pl": "wyobrazić sobie" },
+    { "id": "b11-w074", "month": 3, "topic": 11, "en": "to picture", "pl": "wyobrazić sobie (obrazowo)" },
+    { "id": "b11-w075", "month": 3, "topic": 11, "en": "to suppose", "pl": "przypuszczać / założyć" },
+    { "id": "b11-w076", "month": 3, "topic": 11, "en": "to bet", "pl": "założyć się" },
+    { "id": "b11-w077", "month": 3, "topic": 11, "en": "to risk", "pl": "zaryzykować" },
+    { "id": "b11-w078", "month": 3, "topic": 11, "en": "to dare", "pl": "odważyć się" },
+    { "id": "b11-w079", "month": 3, "topic": 11, "en": "to delay", "pl": "opóźnić / zwlekać" },
+    { "id": "b11-w080", "month": 3, "topic": 11, "en": "to reconsider", "pl": "przemyśleć ponownie" },
+    { "id": "b11-w081", "month": 3, "topic": 11, "en": "to settle for", "pl": "zadowolić się (czymś gorszym)" },
+    { "id": "b11-w082", "month": 3, "topic": 11, "en": "to go for it", "pl": "zdecydować się i spróbować" },
+    { "id": "b11-w083", "month": 3, "topic": 11, "en": "to back out", "pl": "wycofać się (z umowy / planu)" },
+    { "id": "b11-w084", "month": 3, "topic": 11, "en": "to move forward", "pl": "iść naprzód" },
+    { "id": "b11-w085", "month": 3, "topic": 11, "en": "to pay off", "pl": "opłacić się" },
+    { "id": "b11-w086", "month": 3, "topic": 11, "en": "to pan out", "pl": "wypalić / wyjść (plan)" },
+    { "id": "b11-w087", "month": 3, "topic": 11, "en": "to fall through", "pl": "nie wypalić / spalić na panewce" },
+    { "id": "b11-w088", "month": 3, "topic": 11, "en": "short-term", "pl": "krótkoterminowy" },
+    { "id": "b11-w089", "month": 3, "topic": 11, "en": "long-term", "pl": "długoterminowy" },
+    { "id": "b11-w090", "month": 3, "topic": 11, "en": "someday", "pl": "kiedyś (w przyszłości)" },
+    { "id": "b11-w091", "month": 3, "topic": 11, "en": "soon", "pl": "wkrótce" },
+    { "id": "b11-w092", "month": 3, "topic": 11, "en": "shortly", "pl": "niebawem" },
+    { "id": "b11-w093", "month": 3, "topic": 11, "en": "in the near future", "pl": "w niedalekiej przyszłości" },
+    { "id": "b11-w094", "month": 3, "topic": 11, "en": "down the road", "pl": "w dalszej przyszłości / za jakiś czas" },
+    { "id": "b11-w095", "month": 3, "topic": 11, "en": "anytime soon", "pl": "w najbliższym czasie" },
+    { "id": "b11-w096", "month": 3, "topic": 11, "en": "by then", "pl": "do tamtej pory" },
+    { "id": "b11-w097", "month": 3, "topic": 11, "en": "until then", "pl": "do tego czasu" },
+    { "id": "b11-w098", "month": 3, "topic": 11, "en": "from now on", "pl": "od teraz" },
+    { "id": "b11-w099", "month": 3, "topic": 11, "en": "potentially", "pl": "potencjalnie" },
+    { "id": "b11-w100", "month": 3, "topic": 11, "en": "possibly", "pl": "ewentualnie / być może" },
+    { "id": "b11-w101", "month": 3, "topic": 11, "en": "perhaps", "pl": "być może" },
+    { "id": "b11-w102", "month": 3, "topic": 11, "en": "hopefully", "pl": "oby / miejmy nadzieję" },
+    { "id": "b11-w103", "month": 3, "topic": 11, "en": "ideally", "pl": "w idealnym przypadku" },
+    { "id": "b11-w104", "month": 3, "topic": 11, "en": "in case", "pl": "na wypadek gdyby" },
+    { "id": "b11-w105", "month": 3, "topic": 11, "en": "unless", "pl": "chyba że" },
+    { "id": "b11-w106", "month": 3, "topic": 11, "en": "whether", "pl": "czy" },
+    { "id": "b11-w107", "month": 3, "topic": 11, "en": "supposing", "pl": "przypuszczając że" },
+    { "id": "b11-w108", "month": 3, "topic": 11, "en": "if only", "pl": "gdyby tylko" },
+    { "id": "b11-w109", "month": 3, "topic": 11, "en": "whatsoever", "pl": "jakikolwiek" },
+    { "id": "b11-w110", "month": 3, "topic": 11, "en": "no matter how", "pl": "nieważne jak" },
+    { "id": "b11-w111", "month": 3, "topic": 11, "en": "time will tell", "pl": "czas pokaże" },
+    { "id": "b11-w112", "month": 3, "topic": 11, "en": "we'll see", "pl": "zobaczymy" },
+    { "id": "b11-w113", "month": 3, "topic": 11, "en": "who knows", "pl": "kto wie" },
+    { "id": "b11-w114", "month": 3, "topic": 11, "en": "you never know", "pl": "nigdy nie wiadomo" },
+    { "id": "b11-w115", "month": 3, "topic": 11, "en": "just in case", "pl": "na wszelki wypadek" },
+    { "id": "b11-w116", "month": 3, "topic": 11, "en": "for good", "pl": "na dobre / na zawsze" },
+    { "id": "b11-w117", "month": 3, "topic": 11, "en": "bucket list", "pl": "lista marzeń do spełnienia" },
+    { "id": "b11-w118", "month": 3, "topic": 11, "en": "fresh start", "pl": "nowy początek" },
+    { "id": "b11-w119", "month": 3, "topic": 11, "en": "next step", "pl": "następny krok" },
+    { "id": "b11-w120", "month": 3, "topic": 11, "en": "game plan", "pl": "plan działania" }
+  ]
+}

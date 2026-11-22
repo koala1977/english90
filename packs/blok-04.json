@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 4,
+    "month": 1,
+    "title": "Zakupy, pieniądze i załatwianie spraw"
+  },
+  "cards": [
+    {
+      "id": "b04-c01", "month": 1, "topic": 4,
+      "en": "The jacket wasn't cheap, but it's **worth the money**.",
+      "pl": "Kurtka nie była tania, ale jest warta tych pieniędzy.",
+      "phrasePl": "warte swojej ceny",
+      "note": "Też krócej: „It's totally worth it!” (Totalnie warto!).",
+      "prompt": "Powiedz o jednej rzeczy, którą kupiłeś i która była „worth the money”."
+    },
+    {
+      "id": "b04-c02", "month": 1, "topic": 4,
+      "en": "Ten dollars for a bottle of water? That's **a rip-off**!",
+      "pl": "Dziesięć dolarów za butelkę wody? To zdzierstwo!",
+      "phrasePl": "zdzierstwo / przesadzona cena",
+      "note": "Bardzo potoczne i naturalne, gdy coś jest absurdalnie drogie.",
+      "prompt": "Opisz sytuację (np. na lotnisku lub w kurorcie), gdzie coś było „a total rip-off”."
+    },
+    {
+      "id": "b04-c03", "month": 1, "topic": 4,
+      "en": "I can't **afford** a new car right now.",
+      "pl": "Nie stać mnie teraz na nowy samochód.",
+      "phrasePl": "móc sobie pozwolić (finansowo)",
+      "note": "Prawie zawsze z „can / can't” lub „be able to”. Też z czasem: „I can't afford to waste time.”",
+      "prompt": "Powiedz o czymś, na co obecnie nie chcesz lub nie możesz sobie „afford”."
+    },
+    {
+      "id": "b04-c04", "month": 1, "topic": 4,
+      "en": "Shall we **split the bill**?",
+      "pl": "Podzielimy rachunek na pół?",
+      "phrasePl": "podzielić rachunek",
+      "note": "W restauracji ze znajomymi. Inny wariant: „Can we pay separately?”",
+      "prompt": "Kończycie kolację ze znajomym. Zaproponuj podzielenie rachunku używając „split the bill”."
+    },
+    {
+      "id": "b04-c05", "month": 1, "topic": 4,
+      "en": "Put your wallet away — **it's on me** tonight.",
+      "pl": "Schowaj portfel — dziś ja stawiam.",
+      "phrasePl": "ja stawiam (na mój koszt)",
+      "note": "Krótki, naturalny zwrot przy płaceniu za kawę albo kolację.",
+      "prompt": "Zaproponuj koledze kawę na Twój koszt, mówiąc „it's on me”."
+    },
+    {
+      "id": "b04-c06", "month": 1, "topic": 4,
+      "en": "Do you have this shirt **in a smaller size**?",
+      "pl": "Czy macie tę koszulę w mniejszym rozmiarze?",
+      "phrasePl": "w mniejszym rozmiarze",
+      "note": "Podobnie: „in a larger size”, „in medium”, „in another color”.",
+      "prompt": "Jesteś w sklepie odzieżowym. Zapytaj sprzedawcę o inny rozmiar lub kolor."
+    },
+    {
+      "id": "b04-c07", "month": 1, "topic": 4,
+      "en": "Where can I **try this on**?",
+      "pl": "Gdzie mogę to przymierzyć?",
+      "phrasePl": "przymierzyć (ubranie / buty)",
+      "note": "Zawsze „try on” (nie samo „try”). Przymierzalnia = fitting room / changing room.",
+      "prompt": "Zapytaj w sklepie, gdzie jest przymierzalnia i czy możesz „try these shoes on”."
+    },
+    {
+      "id": "b04-c08", "month": 1, "topic": 4,
+      "en": "These jeans **fit** great, I'll take them.",
+      "pl": "Te dżinsy leżą świetnie, biorę je.",
+      "phrasePl": "pasować (rozmiarem)",
+      "note": "Uwaga na różnicę: „fit” = pasuje rozmiarem, „suit” = pasuje do Ciebie (wyglądasz w tym dobrze).",
+      "prompt": "Powiedz, że kurtka świetnie na Ciebie „fits”, ale kolor Ci nie pasuje."
+    },
+    {
+      "id": "b04-c09", "month": 1, "topic": 4,
+      "en": "I'm **just browsing**, thanks!",
+      "pl": "Tylko się rozglądam, dzięki!",
+      "phrasePl": "tylko się rozglądam (w sklepie)",
+      "note": "Najlepsza odpowiedź na „Can I help you?” od sprzedawcy. Też: „I'm just looking.”",
+      "prompt": "Sprzedawca podchodzi i pyta, czy pomóc. Odpowiedz uprzejmie z „just browsing”."
+    },
+    {
+      "id": "b04-c10", "month": 1, "topic": 4,
+      "en": "Is this item **on sale**?",
+      "pl": "Czy ten produkt jest na promocji?",
+      "phrasePl": "na promocji / w przecenie",
+      "note": "„On sale” = przeceniony; „for sale” = na sprzedaż (np. dom albo auto).",
+      "prompt": "Zapytaj w sklepie, czy dany produkt jest „on sale” albo kiedy zaczynają się wyprzedaże."
+    },
+    {
+      "id": "b04-c11", "month": 1, "topic": 4,
+      "en": "I got **a great deal** on these headphones.",
+      "pl": "Udało mi się kupić te słuchawki w świetnej cenie.",
+      "phrasePl": "świetna okazja / dobra cena",
+      "note": "Synonim: „a bargain”.",
+      "prompt": "Pochwal się na głos ostatnim udanym zakupem, używając „a great deal”."
+    },
+    {
+      "id": "b04-c12", "month": 1, "topic": 4,
+      "en": "I'd like to **return this** and get a refund, please.",
+      "pl": "Chciałbym to zwrócić i otrzymać zwrot pieniędzy, proszę.",
+      "phrasePl": "zwrócić (towar)",
+      "note": "„Get a refund” = zwrot pieniędzy; „exchange it” = wymienić na inny egzemplarz.",
+      "prompt": "Zwracasz wadliwy produkt w sklepie. Powiedz, co jest nie tak, i poproś o zwrot („return this”)."
+    },
+    {
+      "id": "b04-c13", "month": 1, "topic": 4,
+      "en": "Do you **take cards**, or is it cash only?",
+      "pl": "Czy przyjmujecie karty, czy tylko gotówkę?",
+      "phrasePl": "przyjmować płatność kartą",
+      "note": "Bardzo naturalne: „Do you take Apple Pay / contactless / Visa?”",
+      "prompt": "Zapytaj w małej kawiarni, czy możesz zapłacić kartą („take cards”)."
+    },
+    {
+      "id": "b04-c14", "month": 1, "topic": 4,
+      "en": "Could I **have the bill**, please?",
+      "pl": "Czy mogę prosić o rachunek?",
+      "phrasePl": "poprosić o rachunek",
+      "note": "UK: the bill; US: the check („Check, please!”).",
+      "prompt": "Poproś kelnera o rachunek i zapytaj, czy napiwek jest wliczony."
+    },
+    {
+      "id": "b04-c15", "month": 1, "topic": 4,
+      "en": "I'm **on a tight budget** this month.",
+      "pl": "Mam w tym miesiącu napięty budżet.",
+      "phrasePl": "mieć napięty budżet",
+      "note": "Kulturalny sposób, żeby powiedzieć, że oszczędzasz pieniądze.",
+      "prompt": "Wyjaśnij znajomemu, dlaczego wybierasz tańszą opcję, używając „on a tight budget”."
+    },
+    {
+      "id": "b04-c16", "month": 1, "topic": 4,
+      "en": "I'm **saving up for** a trip to Japan.",
+      "pl": "Oszczędzam na wyjazd do Japonii.",
+      "phrasePl": "odkładać / oszczędzać na coś",
+      "note": "„Save up for + cel” = zbierać pieniądze na konkretny zakup lub wyjazd.",
+      "prompt": "Powiedz, na co obecnie albo w przyszłości chciałbyś „save up for”."
+    },
+    {
+      "id": "b04-c17", "month": 1, "topic": 4,
+      "en": "Don't **waste money on** things you'll never use.",
+      "pl": "Nie marnuj pieniędzy na rzeczy, których nigdy nie użyjesz.",
+      "phrasePl": "marnować pieniądze na",
+      "note": "Zawsze „waste money on” (nie „for”).",
+      "prompt": "Powiedz, na co Twoim zdaniem ludzie najczęściej „waste money on”."
+    },
+    {
+      "id": "b04-c18", "month": 1, "topic": 4,
+      "en": "Sorry, we're **out of stock** right now.",
+      "pl": "Przepraszamy, obecnie nie mamy tego na stanie.",
+      "phrasePl": "brak na stanie / wyprzedane",
+      "note": "Przeciwieństwo: „in stock” (dostępne od ręki).",
+      "prompt": "Zapytaj sprzedawcę, kiedy produkt, który jest „out of stock”, wróci do sklepu."
+    },
+    {
+      "id": "b04-c19", "month": 1, "topic": 4,
+      "en": "Does this come with **a warranty**?",
+      "pl": "Czy to ma gwarancję?",
+      "phrasePl": "gwarancja",
+      "note": "Przydatne przy elektronice i sprzęcie: „two-year warranty”, „still under warranty”.",
+      "prompt": "Kupujesz laptopa. Zapytaj, jak długa jest gwarancja („warranty”)."
+    },
+    {
+      "id": "b04-c20", "month": 1, "topic": 4,
+      "en": "You **overcharged** me by ten euros.",
+      "pl": "Policzyłeś mi o dziesięć euro za dużo.",
+      "phrasePl": "policzyć za dużo / zawyżyć rachunek",
+      "note": "Konkretne i uprzejme słowo przy reklamacji rachunku (bez oskarżania o oszustwo).",
+      "prompt": "Sprawdzasz paragon i widzisz błąd. Zwróć uwagę kasjerowi, używając „overcharged”."
+    },
+    {
+      "id": "b04-c21", "month": 1, "topic": 4,
+      "en": "Can I **make an appointment** for Thursday afternoon?",
+      "pl": "Czy mogę umówić się na wizytę w czwartek po południu?",
+      "phrasePl": "umówić wizytę / spotkanie",
+      "note": "Używane u lekarza, fryzjera, w urzędzie i serwisie. Zawsze „make an appointment”.",
+      "prompt": "Zadzwoń (na niby) do fryzjera lub dentysty i umów termin używając „make an appointment”."
+    },
+    {
+      "id": "b04-c22", "month": 1, "topic": 4,
+      "en": "Could we **reschedule** my appointment for next week?",
+      "pl": "Czy moglibyśmy przełożyć moją wizytę na przyszły tydzień?",
+      "phrasePl": "przełożyć termin",
+      "note": "Bardzo przydatne w telefonach i mailach. Przeciwieństwo całkowitego odwołania („cancel”).",
+      "prompt": "Poproś o przełożenie wizyty na inny dzień, używając „reschedule”."
+    },
+    {
+      "id": "b04-c23", "month": 1, "topic": 4,
+      "en": "I'd like to **place an order** for delivery.",
+      "pl": "Chciałbym złożyć zamówienie z dostawą.",
+      "phrasePl": "złożyć zamówienie",
+      "note": "Naturalna kolokacja z „order”: place an order (złożyć), cancel an order (anulować), track an order (śledzić).",
+      "prompt": "Złóż krótkie zamówienie telefoniczne, zaczynając od „I'd like to place an order…”."
+    },
+    {
+      "id": "b04-c24", "month": 1, "topic": 4,
+      "en": "Can I get this **to go**, please?",
+      "pl": "Czy mogę to dostać na wynos, proszę?",
+      "phrasePl": "na wynos",
+      "note": "US: „to go” / „for here or to go?”; UK: „takeaway” / „eat in or take away?”.",
+      "prompt": "Zamów kawę i kanapkę na wynos, używając „to go”."
+    },
+    {
+      "id": "b04-c25", "month": 1, "topic": 4,
+      "en": "What do you **recommend** from the menu?",
+      "pl": "Co polecasz z menu?",
+      "phrasePl": "polecać",
+      "note": "Najlepsze pytanie do kelnera, kiedy nie możesz się zdecydować.",
+      "prompt": "Zapytaj kelnera, jakie danie dnia poleca, używając „recommend”."
+    },
+    {
+      "id": "b04-c26", "month": 1, "topic": 4,
+      "en": "I'll **have the** grilled salmon with a side salad.",
+      "pl": "Poproszę grillowanego łososia z sałatką jako dodatkiem.",
+      "phrasePl": "poproszę / wezmę (przy zamawianiu)",
+      "note": "W restauracji mówimy „I'll have…” albo „Can I get…”, rzadziej „I want…”.",
+      "prompt": "Zamów pełny obiad (danie + napój), zaczynając od „I'll have…”."
+    },
+    {
+      "id": "b04-c27", "month": 1, "topic": 4,
+      "en": "Is **service included**, or should we leave a tip?",
+      "pl": "Czy obsługa jest wliczona, czy powinniśmy zostawić napiwek?",
+      "phrasePl": "czy obsługa/napiwek jest wliczony",
+      "note": "Przydatne szczególnie w UK i USA, gdzie zasady napiwków bardzo się różnią.",
+      "prompt": "Zapytaj przy płaceniu, czy „service is included”."
+    },
+    {
+      "id": "b04-c28", "month": 1, "topic": 4,
+      "en": "I need to **withdraw some cash** from an ATM.",
+      "pl": "Muszę wypłacić trochę gotówki z bankomatu.",
+      "phrasePl": "wypłacić gotówkę",
+      "note": "Potocznie też: „take out some cash”.",
+      "prompt": "Powiedz, jak często musisz „withdraw cash”, a jak często płacisz kartą."
+    },
+    {
+      "id": "b04-c29", "month": 1, "topic": 4,
+      "en": "My card was **declined** — let me try another one.",
+      "pl": "Moja karta została odrzucona — spróbuję inną.",
+      "phrasePl": "odrzucona (płatność / karta)",
+      "note": "Dokładne słowo, które pojawia się na terminalu płatniczym.",
+      "prompt": "Wyobraź sobie, że terminal odrzuca kartę. Zareaguj spokojnie używając „declined”."
+    },
+    {
+      "id": "b04-c30", "month": 1, "topic": 4,
+      "en": "Do you have **change** for a fifty?",
+      "pl": "Czy masz wydać z pięćdziesiątki?",
+      "phrasePl": "reszta / drobne do wydania",
+      "note": "„Keep the change” = „Reszty nie trzeba”.",
+      "prompt": "Płacisz gotówką — zapytaj o wydanie reszty albo powiedz „Keep the change”."
+    },
+    {
+      "id": "b04-c31", "month": 1, "topic": 4,
+      "en": "There's a **hidden fee** for paying by credit card.",
+      "pl": "Jest ukryta opłata za płatność kartą kredytową.",
+      "phrasePl": "ukryta opłata",
+      "note": "„Fee” to opłata za usługę (delivery fee, booking fee, cancellation fee).",
+      "prompt": "Zapytaj w wypożyczalni lub hotelu, czy są jakieś „extra / hidden fees”."
+    },
+    {
+      "id": "b04-c32", "month": 1, "topic": 4,
+      "en": "I'd like to **cancel my subscription** before it renews.",
+      "pl": "Chciałbym anulować subskrypcję, zanim się odnowi.",
+      "phrasePl": "anulować subskrypcję",
+      "note": "„Renew” = odnowić się (np. abonament, karnet).",
+      "prompt": "Powiedz, jaką subskrypcję ostatnio założyłeś albo chciałeś „cancel”."
+    },
+    {
+      "id": "b04-c33", "month": 1, "topic": 4,
+      "en": "My package **hasn't arrived** yet — can I track it?",
+      "pl": "Moja paczka jeszcze nie dotarła — czy mogę ją śledzić?",
+      "phrasePl": "jeszcze nie dotarła",
+      "note": "„Tracking number” = numer przesyłki do śledzenia.",
+      "prompt": "Zgłoś na czacie obsługi klienta, że Twoja paczka „hasn't arrived yet”."
+    },
+    {
+      "id": "b04-c34", "month": 1, "topic": 4,
+      "en": "I need to **fill out a form** to open an account.",
+      "pl": "Muszę wypełnić formularz, żeby otworzyć konto.",
+      "phrasePl": "wypełnić formularz",
+      "note": "US: fill out; UK: fill in. Oba znaczą dokładnie to samo.",
+      "prompt": "Powiedz, gdzie ostatnio musiałeś „fill out a form”."
+    },
+    {
+      "id": "b04-c35", "month": 1, "topic": 4,
+      "en": "Could you **put me through to** customer service?",
+      "pl": "Czy mógłbyś przełączyć mnie do obsługi klienta?",
+      "phrasePl": "przełączyć (rozmowę telefoniczną)",
+      "note": "Podstawowy zwrot przy dzwonieniu na infolinię lub do recepcji.",
+      "prompt": "Zadzwoń na infolinię i poproś o przełączenie do działu reklamacji („put me through to…”)."
+    },
+    {
+      "id": "b04-c36", "month": 1, "topic": 4,
+      "en": "I've been **on hold** for twenty minutes!",
+      "pl": "Czekam na linii już dwadzieścia minut!",
+      "phrasePl": "czekać na linii (na infolinii)",
+      "note": "„Please hold” = „Proszę poczekać na linii”.",
+      "prompt": "Poskarż się znajomemu na długie czekanie na infolinii, używając „on hold”."
+    },
+    {
+      "id": "b04-c37", "month": 1, "topic": 4,
+      "en": "I'm **paying in installments** over twelve months.",
+      "pl": "Płacę w ratach przez dwanaście miesięcy.",
+      "phrasePl": "płacić w ratach",
+      "note": "Przeciwieństwo: „pay upfront” (zapłacić z góry za całość).",
+      "prompt": "Powiedz, czy wolisz płacić za większe zakupy od razu, czy „in installments”."
+    },
+    {
+      "id": "b04-c38", "month": 1, "topic": 4,
+      "en": "Is there any **discount** if I buy two?",
+      "pl": "Czy jest jakaś zniżka, jeśli kupię dwa?",
+      "phrasePl": "zniżka / rabat",
+      "note": "Też: „student discount”, „get 20% off”.",
+      "prompt": "Zapytaj sprzedawcę o zniżkę przy większym zakupie, używając „discount”."
+    },
+    {
+      "id": "b04-c39", "month": 1, "topic": 4,
+      "en": "I always **compare prices** online before buying anything.",
+      "pl": "Zawsze porównuję ceny w internecie, zanim cokolwiek kupię.",
+      "phrasePl": "porównywać ceny",
+      "note": "Bardzo naturalny zwrot przy opisywaniu nawyków zakupowych.",
+      "prompt": "Powiedz, czy przed zakupem zawsze „compare prices”, czy kupujesz impulsywnie."
+    },
+    {
+      "id": "b04-c40", "month": 1, "topic": 4,
+      "en": "It **cost an arm and a leg** to repair the car.",
+      "pl": "Naprawa samochodu kosztowała majątek.",
+      "phrasePl": "kosztować majątek / fortunę",
+      "note": "Bardzo popularny idiom na coś kosmicznie drogiego.",
+      "prompt": "Powiedz o jednej usłudze lub rzeczy, która dziś „costs an arm and a leg”."
+    },
+    {
+      "id": "b04-c41", "month": 1, "topic": 4,
+      "en": "Could I get a **receipt** for my records?",
+      "pl": "Czy mógłbym dostać paragon / potwierdzenie dla siebie?",
+      "phrasePl": "paragon / pokwitowanie",
+      "note": "Uwaga na wymowę: litera „p” jest niema (/ri-sit/).",
+      "prompt": "Poproś w sklepie o paragon albo fakturę („invoice”), używając „receipt”."
+    },
+    {
+      "id": "b04-c42", "month": 1, "topic": 4,
+      "en": "The **delivery** should arrive between two and four.",
+      "pl": "Dostawa powinna dotrzeć między drugą a czwartą.",
+      "phrasePl": "dostawa",
+      "note": "„Free delivery / free shipping” = darmowa dostawa.",
+      "prompt": "Powiedz, czy wolisz dostawę kurierem („delivery”) czy odbiór w paczkomacie („pickup”)."
+    },
+    {
+      "id": "b04-c43", "month": 1, "topic": 4,
+      "en": "I'm **short on cash** right now — can I transfer you the money?",
+      "pl": "Mam teraz mało gotówki — mogę Ci zrobić przelew?",
+      "phrasePl": "mieć mało gotówki / pieniędzy",
+      "note": "„Bank transfer” = przelew bankowy.",
+      "prompt": "Powiedz koledze, że jesteś „short on cash” i zapytaj, czy możesz mu przelać pieniądze."
+    },
+    {
+      "id": "b04-c44", "month": 1, "topic": 4,
+      "en": "This product is **damaged**, I'd like a replacement.",
+      "pl": "Ten produkt jest uszkodzony, chciałbym wymianę na nowy.",
+      "phrasePl": "uszkodzony",
+      "note": "Przydatne przy reklamacjach: damaged (uszkodzony fizycznie), faulty / defective (wadliwy technicznie).",
+      "prompt": "Zgłoś w sklepie, że przesyłka przyszła „damaged”, i poproś o nowy egzemplarz."
+    },
+    {
+      "id": "b04-c45", "month": 1, "topic": 4,
+      "en": "Let's **shop around** a bit before we decide.",
+      "pl": "Rozejrzyjmy się trochę po sklepach (porównajmy oferty), zanim zdecydujemy.",
+      "phrasePl": "rozejrzeć się za lepszą ofertą",
+      "note": "„Shop around” znaczy szukać najlepszej ceny lub oferty w kilku miejscach.",
+      "prompt": "Poradź znajomemu przed zakupem telefonu lub ubezpieczenia, żeby najpierw „shop around”."
+    }
+  ],
+  "words": [
+    { "id": "b04-w001", "month": 1, "topic": 4, "en": "price tag", "pl": "metka z ceną" },
+    { "id": "b04-w002", "month": 1, "topic": 4, "en": "bargain", "pl": "okazja cenowa" },
+    { "id": "b04-w003", "month": 1, "topic": 4, "en": "affordable", "pl": "przystępny cenowo" },
+    { "id": "b04-w004", "month": 1, "topic": 4, "en": "overpriced", "pl": "przepłacony / za drogi" },
+    { "id": "b04-w005", "month": 1, "topic": 4, "en": "reasonable", "pl": "rozsądny (np. cena)" },
+    { "id": "b04-w006", "month": 1, "topic": 4, "en": "cash", "pl": "gotówka" },
+    { "id": "b04-w007", "month": 1, "topic": 4, "en": "credit card", "pl": "karta kredytowa" },
+    { "id": "b04-w008", "month": 1, "topic": 4, "en": "debit card", "pl": "karta debetowa" },
+    { "id": "b04-w009", "month": 1, "topic": 4, "en": "contactless", "pl": "zbliżeniowo" },
+    { "id": "b04-w010", "month": 1, "topic": 4, "en": "PIN code", "pl": "kod PIN" },
+    { "id": "b04-w011", "month": 1, "topic": 4, "en": "ATM", "pl": "bankomat" },
+    { "id": "b04-w012", "month": 1, "topic": 4, "en": "bank account", "pl": "konto bankowe" },
+    { "id": "b04-w013", "month": 1, "topic": 4, "en": "balance", "pl": "saldo" },
+    { "id": "b04-w014", "month": 1, "topic": 4, "en": "transfer", "pl": "przelew" },
+    { "id": "b04-w015", "month": 1, "topic": 4, "en": "currency", "pl": "waluta" },
+    { "id": "b04-w016", "month": 1, "topic": 4, "en": "exchange rate", "pl": "kurs wymiany walut" },
+    { "id": "b04-w017", "month": 1, "topic": 4, "en": "invoice", "pl": "faktura" },
+    { "id": "b04-w018", "month": 1, "topic": 4, "en": "refund", "pl": "zwrot pieniędzy" },
+    { "id": "b04-w019", "month": 1, "topic": 4, "en": "exchange", "pl": "wymiana" },
+    { "id": "b04-w020", "month": 1, "topic": 4, "en": "voucher", "pl": "kupon / bon" },
+    { "id": "b04-w021", "month": 1, "topic": 4, "en": "gift card", "pl": "karta podarunkowa" },
+    { "id": "b04-w022", "month": 1, "topic": 4, "en": "coupon", "pl": "kupon rabatowy" },
+    { "id": "b04-w023", "month": 1, "topic": 4, "en": "loyalty card", "pl": "karta stałego klienta" },
+    { "id": "b04-w024", "month": 1, "topic": 4, "en": "checkout", "pl": "kasa (w sklepie / online)" },
+    { "id": "b04-w025", "month": 1, "topic": 4, "en": "cashier", "pl": "kasjer / kasjerka" },
+    { "id": "b04-w026", "month": 1, "topic": 4, "en": "queue", "pl": "kolejka (UK)" },
+    { "id": "b04-w027", "month": 1, "topic": 4, "en": "line", "pl": "kolejka (US)" },
+    { "id": "b04-w028", "month": 1, "topic": 4, "en": "shopping cart", "pl": "wózek sklepowy" },
+    { "id": "b04-w029", "month": 1, "topic": 4, "en": "basket", "pl": "koszyk" },
+    { "id": "b04-w030", "month": 1, "topic": 4, "en": "aisle", "pl": "alejka w sklepie" },
+    { "id": "b04-w031", "month": 1, "topic": 4, "en": "fitting room", "pl": "przymierzalnia" },
+    { "id": "b04-w032", "month": 1, "topic": 4, "en": "size", "pl": "rozmiar" },
+    { "id": "b04-w033", "month": 1, "topic": 4, "en": "tight", "pl": "ciasny / obcisły" },
+    { "id": "b04-w034", "month": 1, "topic": 4, "en": "loose", "pl": "luźny" },
+    { "id": "b04-w035", "month": 1, "topic": 4, "en": "brand", "pl": "marka" },
+    { "id": "b04-w036", "month": 1, "topic": 4, "en": "quality", "pl": "jakość" },
+    { "id": "b04-w037", "month": 1, "topic": 4, "en": "durable", "pl": "trwały / wytrzymały" },
+    { "id": "b04-w038", "month": 1, "topic": 4, "en": "faulty", "pl": "wadliwy" },
+    { "id": "b04-w039", "month": 1, "topic": 4, "en": "broken", "pl": "zepsuty" },
+    { "id": "b04-w040", "month": 1, "topic": 4, "en": "scratched", "pl": "porysowany" },
+    { "id": "b04-w041", "month": 1, "topic": 4, "en": "complaint", "pl": "reklamacja / skarga" },
+    { "id": "b04-w042", "month": 1, "topic": 4, "en": "customer service", "pl": "obsługa klienta" },
+    { "id": "b04-w043", "month": 1, "topic": 4, "en": "shipping", "pl": "wysyłka" },
+    { "id": "b04-w044", "month": 1, "topic": 4, "en": "courier", "pl": "kurier" },
+    { "id": "b04-w045", "month": 1, "topic": 4, "en": "pickup point", "pl": "punkt odbioru" },
+    { "id": "b04-w046", "month": 1, "topic": 4, "en": "return policy", "pl": "zasady zwrotów" },
+    { "id": "b04-w047", "month": 1, "topic": 4, "en": "in stock", "pl": "dostępny na stanie" },
+    { "id": "b04-w048", "month": 1, "topic": 4, "en": "sold out", "pl": "wyprzedany" },
+    { "id": "b04-w049", "month": 1, "topic": 4, "en": "clearance", "pl": "wyprzedaż końcówek" },
+    { "id": "b04-w050", "month": 1, "topic": 4, "en": "second-hand", "pl": "używany (z drugiej ręki)" },
+    { "id": "b04-w051", "month": 1, "topic": 4, "en": "brand new", "pl": "fabrycznie nowy" },
+    { "id": "b04-w052", "month": 1, "topic": 4, "en": "budget", "pl": "budżet" },
+    { "id": "b04-w053", "month": 1, "topic": 4, "en": "savings", "pl": "oszczędności" },
+    { "id": "b04-w054", "month": 1, "topic": 4, "en": "income", "pl": "dochód" },
+    { "id": "b04-w055", "month": 1, "topic": 4, "en": "expenses", "pl": "wydatki" },
+    { "id": "b04-w056", "month": 1, "topic": 4, "en": "debt", "pl": "dług" },
+    { "id": "b04-w057", "month": 1, "topic": 4, "en": "loan", "pl": "pożyczka / kredyt" },
+    { "id": "b04-w058", "month": 1, "topic": 4, "en": "mortgage", "pl": "kredyt hipoteczny" },
+    { "id": "b04-w059", "month": 1, "topic": 4, "en": "interest rate", "pl": "oprocentowanie" },
+    { "id": "b04-w060", "month": 1, "topic": 4, "en": "tax", "pl": "podatek" },
+    { "id": "b04-w061", "month": 1, "topic": 4, "en": "tip", "pl": "napiwek" },
+    { "id": "b04-w062", "month": 1, "topic": 4, "en": "fee", "pl": "opłata / prowizja" },
+    { "id": "b04-w063", "month": 1, "topic": 4, "en": "deposit", "pl": "kaucja / zaliczka" },
+    { "id": "b04-w064", "month": 1, "topic": 4, "en": "fine", "pl": "mandat / kara pieniężna" },
+    { "id": "b04-w065", "month": 1, "topic": 4, "en": "insurance", "pl": "ubezpieczenie" },
+    { "id": "b04-w066", "month": 1, "topic": 4, "en": "contract", "pl": "umowa" },
+    { "id": "b04-w067", "month": 1, "topic": 4, "en": "signature", "pl": "podpis" },
+    { "id": "b04-w068", "month": 1, "topic": 4, "en": "ID card", "pl": "dowód osobisty" },
+    { "id": "b04-w069", "month": 1, "topic": 4, "en": "document", "pl": "dokument" },
+    { "id": "b04-w070", "month": 1, "topic": 4, "en": "application", "pl": "wniosek" },
+    { "id": "b04-w071", "month": 1, "topic": 4, "en": "to apply for", "pl": "ubiegać się o" },
+    { "id": "b04-w072", "month": 1, "topic": 4, "en": "to sign", "pl": "podpisać" },
+    { "id": "b04-w073", "month": 1, "topic": 4, "en": "to confirm", "pl": "potwierdzić" },
+    { "id": "b04-w074", "month": 1, "topic": 4, "en": "to charge", "pl": "naliczyć opłatę" },
+    { "id": "b04-w075", "month": 1, "topic": 4, "en": "to spend", "pl": "wydawać (pieniądze)" },
+    { "id": "b04-w076", "month": 1, "topic": 4, "en": "to earn", "pl": "zarabiać" },
+    { "id": "b04-w077", "month": 1, "topic": 4, "en": "to owe", "pl": "być winnym (pieniądze)" },
+    { "id": "b04-w078", "month": 1, "topic": 4, "en": "to pay back", "pl": "oddać pieniądze" },
+    { "id": "b04-w079", "month": 1, "topic": 4, "en": "broke", "pl": "spłukany (bez kasy)" },
+    { "id": "b04-w080", "month": 1, "topic": 4, "en": "wealthy", "pl": "zamożny" },
+    { "id": "b04-w081", "month": 1, "topic": 4, "en": "free of charge", "pl": "bezpłatnie" },
+    { "id": "b04-w082", "month": 1, "topic": 4, "en": "starter", "pl": "przystawka" },
+    { "id": "b04-w083", "month": 1, "topic": 4, "en": "main course", "pl": "danie główne" },
+    { "id": "b04-w084", "month": 1, "topic": 4, "en": "side dish", "pl": "dodatek do dania" },
+    { "id": "b04-w085", "month": 1, "topic": 4, "en": "dessert", "pl": "deser" },
+    { "id": "b04-w086", "month": 1, "topic": 4, "en": "beverage", "pl": "napój" },
+    { "id": "b04-w087", "month": 1, "topic": 4, "en": "sparkling water", "pl": "woda gazowana" },
+    { "id": "b04-w088", "month": 1, "topic": 4, "en": "still water", "pl": "woda niegazowana" },
+    { "id": "b04-w089", "month": 1, "topic": 4, "en": "tap water", "pl": "woda z kranu" },
+    { "id": "b04-w090", "month": 1, "topic": 4, "en": "waiter", "pl": "kelner" },
+    { "id": "b04-w091", "month": 1, "topic": 4, "en": "reservation", "pl": "rezerwacja" },
+    { "id": "b04-w092", "month": 1, "topic": 4, "en": "table for two", "pl": "stolik dla dwóch osób" },
+    { "id": "b04-w093", "month": 1, "topic": 4, "en": "allergic to", "pl": "uczulony na" },
+    { "id": "b04-w094", "month": 1, "topic": 4, "en": "spicy", "pl": "ostry / pikantny" },
+    { "id": "b04-w095", "month": 1, "topic": 4, "en": "mild", "pl": "łagodny (w smaku)" },
+    { "id": "b04-w096", "month": 1, "topic": 4, "en": "delicious", "pl": "pyszny" },
+    { "id": "b04-w097", "month": 1, "topic": 4, "en": "pharmacy", "pl": "apteka" },
+    { "id": "b04-w098", "month": 1, "topic": 4, "en": "post office", "pl": "poczta" },
+    { "id": "b04-w099", "month": 1, "topic": 4, "en": "dry cleaner's", "pl": "pralnia chemiczna" },
+    { "id": "b04-w100", "month": 1, "topic": 4, "en": "barber", "pl": "barber / fryzjer męski" },
+    { "id": "b04-w101", "month": 1, "topic": 4, "en": "hairdresser", "pl": "fryzjer" },
+    { "id": "b04-w102", "month": 1, "topic": 4, "en": "repair shop", "pl": "punkt napraw / serwis" },
+    { "id": "b04-w103", "month": 1, "topic": 4, "en": "grocery store", "pl": "sklep spożywczy" },
+    { "id": "b04-w104", "month": 1, "topic": 4, "en": "bakery", "pl": "piekarnia" },
+    { "id": "b04-w105", "month": 1, "topic": 4, "en": "hardware store", "pl": "sklep budowlany / z narzędziami" },
+    { "id": "b04-w106", "month": 1, "topic": 4, "en": "mall", "pl": "galeria handlowa" },
+    { "id": "b04-w107", "month": 1, "topic": 4, "en": "opening hours", "pl": "godziny otwarcia" },
+    { "id": "b04-w108", "month": 1, "topic": 4, "en": "to negotiate", "pl": "negocjować" },
+    { "id": "b04-w109", "month": 1, "topic": 4, "en": "to haggle", "pl": "targować się" },
+    { "id": "b04-w110", "month": 1, "topic": 4, "en": "estimate", "pl": "wycena / kosztorys" },
+    { "id": "b04-w111", "month": 1, "topic": 4, "en": "quote", "pl": "oferta cenowa / wycena" },
+    { "id": "b04-w112", "month": 1, "topic": 4, "en": "subtotal", "pl": "suma częściowa" },
+    { "id": "b04-w113", "month": 1, "topic": 4, "en": "total", "pl": "razem / suma końcowa" },
+    { "id": "b04-w114", "month": 1, "topic": 4, "en": "bag", "pl": "torba / reklamówka" },
+    { "id": "b04-w115", "month": 1, "topic": 4, "en": "gift wrap", "pl": "opakowanie prezentowe" },
+    { "id": "b04-w116", "month": 1, "topic": 4, "en": "to weigh", "pl": "zważyć" },
+    { "id": "b04-w117", "month": 1, "topic": 4, "en": "to scan", "pl": "zeskanować" },
+    { "id": "b04-w118", "month": 1, "topic": 4, "en": "self-checkout", "pl": "kasa samoobsługowa" },
+    { "id": "b04-w119", "month": 1, "topic": 4, "en": "member", "pl": "członek (np. programu lojalnościowego)" },
+    { "id": "b04-w120", "month": 1, "topic": 4, "en": "terms and conditions", "pl": "regulamin / warunki" }
+  ]
+}

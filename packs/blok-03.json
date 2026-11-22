@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 3,
+    "month": 1,
+    "title": "Relacje, emocje i reakcje"
+  },
+  "cards": [
+    {
+      "id": "b03-c01", "month": 1, "topic": 3,
+      "en": "I'm really **looking forward to** seeing you next week.",
+      "pl": "Naprawdę nie mogę się doczekać spotkania z Tobą w przyszłym tygodniu.",
+      "phrasePl": "nie móc się doczekać",
+      "note": "Po „look forward to” zawsze czasownik z -ing (seeing, going, meeting) albo rzeczownik.",
+      "prompt": "Powiedz, na co w najbliższym czasie czekasz z niecierpliwością, używając „looking forward to”."
+    },
+    {
+      "id": "b03-c02", "month": 1, "topic": 3,
+      "en": "I **see what you mean**, let's look at it differently.",
+      "pl": "Rozumiem, o co Ci chodzi — spójrzmy na to inaczej.",
+      "phrasePl": "rozumiem, o co Ci chodzi",
+      "note": "Ciepła, naturalna reakcja pokazująca zrozumienie dla drugiej osoby.",
+      "prompt": "Zareaguj empatycznie na czyjąś opinię, zaczynając od „I see what you mean…”."
+    },
+    {
+      "id": "b03-c03", "month": 1, "topic": 3,
+      "en": "I'm so **frustrated with** how slow this process is.",
+      "pl": "Jestem taki sfrustrowany tym, jak wolny jest ten proces.",
+      "phrasePl": "sfrustrowany czymś",
+      "note": "„Frustrated” opisuje Twoje uczucie; „frustrating” opisuje rzecz, która Cię denerwuje.",
+      "prompt": "Powiedz, co ostatnio sprawiło, że byłeś „frustrated with” jakąś sytuacją."
+    },
+    {
+      "id": "b03-c04", "month": 1, "topic": 3,
+      "en": "We **get along** really well, even though we're quite different.",
+      "pl": "Naprawdę świetnie się dogadujemy, mimo że jesteśmy dość różni.",
+      "phrasePl": "dobrze się dogadywać",
+      "note": "UK często mówi też „get on well”. Z osobą: „get along with someone”.",
+      "prompt": "Opowiedz jednym zdaniem o kimś, z kim świetnie się „get along”."
+    },
+    {
+      "id": "b03-c05", "month": 1, "topic": 3,
+      "en": "Let's **keep in touch** after you move abroad.",
+      "pl": "Bądźmy w kontakcie, jak już się przeprowadzisz za granicę.",
+      "phrasePl": "utrzymywać kontakt",
+      "note": "Można też mówić „stay in touch”. „Lose touch” = stracić kontakt.",
+      "prompt": "Pożegnaj się na niby ze znajomym przed dłuższym wyjazdem, używając „keep in touch”."
+    },
+    {
+      "id": "b03-c06", "month": 1, "topic": 3,
+      "en": "I'm **sorry to hear that** — is there anything I can do?",
+      "pl": "Przykro mi to słyszeć — czy mogę w czymś pomóc?",
+      "phrasePl": "przykro mi to słyszeć",
+      "note": "Podstawowa, uprzejma reakcja na złą wiadomość (choroba, problem w pracy, zepsute auto).",
+      "prompt": "Znajomy mówi, że złamał nogę. Zareaguj serdecznie, zaczynając od „I'm sorry to hear that…”."
+    },
+    {
+      "id": "b03-c07", "month": 1, "topic": 3,
+      "en": "**Good for you!** You really earned that promotion.",
+      "pl": "Super / świetnie dla Ciebie! Naprawdę zasłużyłeś na ten awans.",
+      "phrasePl": "super! / cieszę się Twoim szczęściem",
+      "note": "Wypowiedziane ciepło = szczere gratulacje. Bardzo częste w mowie potocznej.",
+      "prompt": "Znajomy chwali się, że przebiegł pierwszy maraton. Pogratuluj mu używając „Good for you!”."
+    },
+    {
+      "id": "b03-c08", "month": 1, "topic": 3,
+      "en": "I'd love to, **but I'll have to pass** this time.",
+      "pl": "Bardzo chętnie, ale tym razem muszę odpuścić.",
+      "phrasePl": "tym razem odpuszczę (łagodna odmowa)",
+      "note": "Kulturalny, bezkonfliktowy sposób na odmowę zaproszenia bez wymyślania wymówek.",
+      "prompt": "Odmów uprzejmie wyjścia na imprezę w środku tygodnia, używając „I'll have to pass”."
+    },
+    {
+      "id": "b03-c09", "month": 1, "topic": 3,
+      "en": "Can I **take a rain check** on dinner tonight?",
+      "pl": "Czy możemy przełożyć tę kolację na inny raz?",
+      "phrasePl": "przełożyć na inny raz",
+      "note": "Świetny idiom (szczególnie w US) — odmawiasz dziś, ale jasno pokazujesz, że chcesz się spotkać innym razem.",
+      "prompt": "Przełóż spotkanie ze znajomym na przyszły tydzień, używając „take a rain check”."
+    },
+    {
+      "id": "b03-c10", "month": 1, "topic": 3,
+      "en": "Please **don't take it personally**, I'm just stressed today.",
+      "pl": "Proszę, nie bierz tego do siebie, po prostu jestem dziś zestresowany.",
+      "phrasePl": "nie brać tego do siebie",
+      "note": "Rozładowuje napięcie w rozmowie, kiedy coś mogło zabrzmieć zbyt ostro.",
+      "prompt": "Przeproś za szorstki ton i poproś rozmówcę, żeby „didn't take it personally”."
+    },
+    {
+      "id": "b03-c11", "month": 1, "topic": 3,
+      "en": "You can always **count on** me if you need help.",
+      "pl": "Zawsze możesz na mnie liczyć, jeśli potrzebujesz pomocy.",
+      "phrasePl": "liczyć na kogoś",
+      "note": "Synonim: „rely on”. Bardzo naturalne zapewnienie wsparcia.",
+      "prompt": "Powiedz komuś bliskiemu na głos, że może na Ciebie „count on” w ważnej sytuacji."
+    },
+    {
+      "id": "b03-c12", "month": 1, "topic": 3,
+      "en": "I hate to **let you down**, but I can't make it.",
+      "pl": "Nie chcę Cię zawieść, ale nie dam rady przyjść.",
+      "phrasePl": "zawieść kogoś",
+      "note": "„Let someone down” = rozczarować / zawieść. Rzeczownik: „a letdown” (rozczarowanie).",
+      "prompt": "Ułóż zdanie o sytuacji, w której ktoś Cię zawiódł albo Ty nie chciałeś kogoś „let down”."
+    },
+    {
+      "id": "b03-c13", "month": 1, "topic": 3,
+      "en": "**Cheer up!** Things will get better soon.",
+      "pl": "Głowa do góry! Wkrótce będzie lepiej.",
+      "phrasePl": "głowa do góry / rozchmurz się",
+      "note": "Też z osobą: „Let's go grab ice cream to cheer you up.”",
+      "prompt": "Pociesz znajomego po gorszym dniu, używając „Cheer up!”."
+    },
+    {
+      "id": "b03-c14", "month": 1, "topic": 3,
+      "en": "I'm **fed up with** waiting in line every morning.",
+      "pl": "Mam już dość stania w kolejce każdego ranka.",
+      "phrasePl": "mieć już dość czegoś",
+      "note": "Bardzo naturalny sposób na wyrażenie irytacji. Po „with” rzeczownik lub -ing.",
+      "prompt": "Powiedz, jakiej drobnej codziennej rzeczy masz już dość („fed up with”)."
+    },
+    {
+      "id": "b03-c15", "month": 1, "topic": 3,
+      "en": "I'm really **proud of** how far you've come.",
+      "pl": "Jestem naprawdę dumny z tego, jak daleko zaszedłeś.",
+      "phrasePl": "dumny z",
+      "note": "Zawsze „proud of” (nie „from”).",
+      "prompt": "Powiedz o czymś, z czego jesteś ostatnio „proud of”."
+    },
+    {
+      "id": "b03-c16", "month": 1, "topic": 3,
+      "en": "He **gets on my nerves** when he interrupts me.",
+      "pl": "On działa mi na nerwy, kiedy mi przerywa.",
+      "phrasePl": "działać komuś na nerwy",
+      "note": "Dokładny odpowiednik polskiego zwrotu — bardzo często używany w mowie.",
+      "prompt": "Powiedz, jakie zachowanie najbardziej „gets on your nerves”."
+    },
+    {
+      "id": "b03-c17", "month": 1, "topic": 3,
+      "en": "I'm **a bit nervous about** the interview tomorrow.",
+      "pl": "Trochę się denerwuję jutrzejszą rozmową kwalifikacyjną.",
+      "phrasePl": "denerwować się czymś (przed wydarzeniem)",
+      "note": "„Nervous” to trema / lekki stres przed czymś (nie znaczy „zły / wściekły”!).",
+      "prompt": "Opowiedz o sytuacji, przed którą zazwyczaj jesteś „nervous about”."
+    },
+    {
+      "id": "b03-c18", "month": 1, "topic": 3,
+      "en": "What a **relief** to hear that everyone is safe!",
+      "pl": "Co za ulga usłyszeć, że wszyscy są bezpieczni!",
+      "phrasePl": "ulga",
+      "note": "Przymiotnik: „relieved” („I'm so relieved!” = „Ale mi ulżyło!”).",
+      "prompt": "Zareaguj na dobrą wiadomość po stresującej sytuacji, używając „What a relief!”."
+    },
+    {
+      "id": "b03-c19", "month": 1, "topic": 3,
+      "en": "I **owe you one** for helping me move.",
+      "pl": "Jestem Ci dłużny przysługę za pomoc w przeprowadzce.",
+      "phrasePl": "być komuś dłużnym przysługę",
+      "note": "Ciepły, koleżeński sposób na podziękowanie za większą pomoc.",
+      "prompt": "Podziękuj koledze za wyświadczoną przysługę, dodając „I owe you one!”."
+    },
+    {
+      "id": "b03-c20", "month": 1, "topic": 3,
+      "en": "I really **appreciate** you taking the time to explain this.",
+      "pl": "Naprawdę doceniam, że poświęciłeś czas, żeby to wyjaśnić.",
+      "phrasePl": "doceniać",
+      "note": "Bardziej osobiste i mocniejsze niż zwykłe „thank you”.",
+      "prompt": "Podziękuj komuś za konkretną pomoc, używając „I really appreciate…”."
+    },
+    {
+      "id": "b03-c21", "month": 1, "topic": 3,
+      "en": "I'm **in a great mood** today because the sun is out.",
+      "pl": "Mam dziś świetny humor, bo wyszło słońce.",
+      "phrasePl": "w świetnym nastroju",
+      "note": "Też: „in a bad mood” (w złym humorze), „not in the mood for…” (nie mam ochoty na…).",
+      "prompt": "Powiedz, co zazwyczaj wprawia Cię „in a good mood”."
+    },
+    {
+      "id": "b03-c22", "month": 1, "topic": 3,
+      "en": "I'm **not in the mood** for a noisy bar tonight.",
+      "pl": "Nie mam dziś nastroju na głośny bar.",
+      "phrasePl": "nie mieć nastroju / ochoty na",
+      "note": "Uprzejme wyjaśnienie, dlaczego wolisz dziś coś spokojniejszego.",
+      "prompt": "Powiedz, na co dziś nie masz ochoty, zaczynając od „I'm not in the mood for…”."
+    },
+    {
+      "id": "b03-c23", "month": 1, "topic": 3,
+      "en": "We **have a lot in common**, so talking is easy.",
+      "pl": "Mamy ze sobą wiele wspólnego, więc łatwo nam się rozmawia.",
+      "phrasePl": "mieć wiele wspólnego",
+      "note": "Przeczenie: „We have nothing in common.”",
+      "prompt": "Powiedz o znajomym, z którym „have a lot in common” — co Was łączy?"
+    },
+    {
+      "id": "b03-c24", "month": 1, "topic": 3,
+      "en": "I **felt bad about** forgetting his birthday.",
+      "pl": "Było mi głupio / źle z tym, że zapomniałem o jego urodzinach.",
+      "phrasePl": "czuć się źle z powodu / mieć wyrzuty",
+      "note": "Naturalne wyrażenie żalu: „I feel bad about being late.”",
+      "prompt": "Powiedz o drobnej sytuacji, po której „felt bad about” czymś."
+    },
+    {
+      "id": "b03-c25", "month": 1, "topic": 3,
+      "en": "Don't **be too hard on yourself** — everyone makes mistakes.",
+      "pl": "Nie bądź dla siebie zbyt surowy — każdy popełnia błędy.",
+      "phrasePl": "być dla siebie zbyt surowym",
+      "note": "Świetne zdanie wsparcia dla znajomego (i dla siebie przy nauce języka!).",
+      "prompt": "Wesprzyj kolegę, który zawalił prezentację, używając „Don't be too hard on yourself”."
+    },
+    {
+      "id": "b03-c26", "month": 1, "topic": 3,
+      "en": "I **can't stand** when people talk during a movie.",
+      "pl": "Nie znoszę, kiedy ludzie rozmawiają w trakcie filmu.",
+      "phrasePl": "nie znosić czegoś",
+      "note": "Mocniejsze niż „I don't like”. Po „can't stand” rzeczownik, -ing albo „when…”.",
+      "prompt": "Powiedz o jednej rzeczy, której naprawdę „can't stand”."
+    },
+    {
+      "id": "b03-c27", "month": 1, "topic": 3,
+      "en": "She's really **easy to talk to**, you'll like her.",
+      "pl": "Bardzo łatwo się z nią rozmawia, polubisz ją.",
+      "phrasePl": "łatwo się z kimś rozmawia",
+      "note": "Ciepły komplement opisujący otwartą, przyjazną osobę.",
+      "prompt": "Opisz bliską osobę jako „easy to talk to” i dodaj jeszcze jedną jej zaletę."
+    },
+    {
+      "id": "b03-c28", "month": 1, "topic": 3,
+      "en": "I'm **overwhelmed** with all these messages right now.",
+      "pl": "Jestem teraz przytłoczony tymi wszystkimi wiadomościami.",
+      "phrasePl": "przytłoczony",
+      "note": "Bardzo precyzyjne słowo na stan, gdy wszystkiego jest za dużo naraz.",
+      "prompt": "Powiedz, co czasem sprawia, że czujesz się „overwhelmed”."
+    },
+    {
+      "id": "b03-c29", "month": 1, "topic": 3,
+      "en": "That's **such a shame** — I was hoping you could come.",
+      "pl": "Wielka szkoda — miałem nadzieję, że przyjdziesz.",
+      "phrasePl": "wielka szkoda",
+      "note": "„A shame” w tym kontekście nie oznacza „wstydu”, tylko „szkoda”. Synonim: „What a pity”.",
+      "prompt": "Zareaguj na informację o odwołanym koncercie, używając „That's such a shame”."
+    },
+    {
+      "id": "b03-c30", "month": 1, "topic": 3,
+      "en": "**No hard feelings**, okay?",
+      "pl": "Bez urazy, okej?",
+      "phrasePl": "bez urazy / bez żalu",
+      "note": "Zamyka drobną sprzeczkę lub niezręczną sytuację na czysto.",
+      "prompt": "Zakończ wyimaginowany spór ze znajomym przyjaznym „No hard feelings”."
+    },
+    {
+      "id": "b03-c31", "month": 1, "topic": 3,
+      "en": "I **didn't mean to** hurt your feelings.",
+      "pl": "Nie chciałem zranić Twoich uczuć.",
+      "phrasePl": "nie miałem zamiaru / nie chciałem",
+      "note": "Klasyczne przeprosiny za coś niechcący: „I didn't mean to wake you up / interrupt you.”",
+      "prompt": "Przeproś za przypadkowe przerwanie komuś rozmowy, używając „I didn't mean to…”."
+    },
+    {
+      "id": "b03-c32", "month": 1, "topic": 3,
+      "en": "We **had a falling out** a few years ago, but we're fine now.",
+      "pl": "Pokłóciliśmy się poważnie kilka lat temu, ale teraz jest już w porządku.",
+      "phrasePl": "pokłócić się / poróżnić",
+      "note": "Czasownik: „fall out with someone” = pokłócić się i na jakiś czas urwać kontakt.",
+      "prompt": "Ułóż krótkie zdanie z „had a falling out” (może być z filmu lub zmyślone)."
+    },
+    {
+      "id": "b03-c33", "month": 1, "topic": 3,
+      "en": "They finally **made up** after the argument.",
+      "pl": "Wreszcie się pogodzili po kłótni.",
+      "phrasePl": "pogodzić się",
+      "note": "„Make up” ma kilka znaczeń — w relacjach znaczy „pogodzić się” (też „nadrobić” i „zmyślić”).",
+      "prompt": "Powiedz, jak najszybciej ludzie mogą „make up” po nieporozumieniu."
+    },
+    {
+      "id": "b03-c34", "month": 1, "topic": 3,
+      "en": "I'm **thrilled** for you — congratulations!",
+      "pl": "Strasznie się cieszę Twoim szczęściem — gratulacje!",
+      "phrasePl": "zachwycony / podekscytowany",
+      "note": "Mocniejsze i bardziej eleganckie niż zwykłe „happy” przy ważnych okazjach.",
+      "prompt": "Złóż komuś gratulacje z powodu nowej pracy, używając „I'm thrilled for you”."
+    },
+    {
+      "id": "b03-c35", "month": 1, "topic": 3,
+      "en": "You **made my day** with that message!",
+      "pl": "Zrobiłeś mi dzień tą wiadomością!",
+      "phrasePl": "zrobić komuś dzień (sprawić wielką radość)",
+      "note": "Bardzo ciepły komplement, gdy ktoś sprawił Ci niespodziewaną radość.",
+      "prompt": "Powiedz, co ostatnio „made your day”."
+    },
+    {
+      "id": "b03-c36", "month": 1, "topic": 3,
+      "en": "**Take care of yourself** and get some rest.",
+      "pl": "Dbaj o siebie i trochę odpocznij.",
+      "phrasePl": "dbać o siebie",
+      "note": "Samo „Take care!” na pożegnanie znaczy „Trzymaj się!”.",
+      "prompt": "Pożegnaj się z chorym znajomym, używając „Take care of yourself”."
+    },
+    {
+      "id": "b03-c37", "month": 1, "topic": 3,
+      "en": "I **really miss** hanging out with my college friends.",
+      "pl": "Naprawdę brakuje mi spotkań ze znajomymi ze studiów.",
+      "phrasePl": "bardzo tęsknić za",
+      "note": "Po „miss” bezpośrednio osoba albo czasownik z -ing (bez „for”!).",
+      "prompt": "Powiedz, za czym lub za kim ostatnio tęsknisz, używając „I really miss…”."
+    },
+    {
+      "id": "b03-c38", "month": 1, "topic": 3,
+      "en": "It **means a lot** to me that you showed up.",
+      "pl": "Wiele dla mnie znaczy, że się pojawiłeś.",
+      "phrasePl": "wiele znaczyć (emocjonalnie)",
+      "note": "Szczery, prosty zwrot budujący bliską relację.",
+      "prompt": "Podziękuj przyjacielowi za obecność w ważnym dniu, mówiąc „It means a lot to me…”."
+    },
+    {
+      "id": "b03-c39", "month": 1, "topic": 3,
+      "en": "I **totally get it**, no need to explain.",
+      "pl": "Całkowicie to rozumiem, nie musisz tłumaczyć.",
+      "phrasePl": "całkowicie to rozumiem",
+      "note": "Potoczne „get it” = rozumieć. Bardzo przyjazne i zdejmuje presję z rozmówcy.",
+      "prompt": "Znajomy tłumaczy się ze spóźnienia. Uspokój go mówiąc „I totally get it…”."
+    },
+    {
+      "id": "b03-c40", "month": 1, "topic": 3,
+      "en": "He **has a great sense of humor**.",
+      "pl": "On ma świetne poczucie humoru.",
+      "phrasePl": "mieć świetne poczucie humoru",
+      "note": "US: humor; UK: humour. Stała kolokacja z „have”.",
+      "prompt": "Opisz kogoś ze swojego otoczenia, kto „has a great sense of humor”."
+    },
+    {
+      "id": "b03-c41", "month": 1, "topic": 3,
+      "en": "I'm **touched** that you remembered.",
+      "pl": "Jestem wzruszony, że pamiętałeś.",
+      "phrasePl": "wzruszony",
+      "note": "Rzecz wzruszająca to „touching” („That's so touching”).",
+      "prompt": "Zareaguj na miły gest znajomego słowami „I'm really touched…”."
+    },
+    {
+      "id": "b03-c42", "month": 1, "topic": 3,
+      "en": "Don't **jump to conclusions** before hearing his side.",
+      "pl": "Nie wyciągaj pochopnych wniosków, zanim wysłuchasz jego wersji.",
+      "phrasePl": "wyciągać pochopne wnioski",
+      "note": "Bardzo przydatny zwrot przy plotkach, sporach i nieporozumieniach.",
+      "prompt": "Powiedz koledze, żeby nie oceniał sytuacji zbyt szybko, używając „jump to conclusions”."
+    },
+    {
+      "id": "b03-c43", "month": 1, "topic": 3,
+      "en": "I'm **glad** we talked this through.",
+      "pl": "Cieszę się, że to przegadaliśmy.",
+      "phrasePl": "cieszę się (że…)",
+      "note": "„Talk something through” = dokładnie coś omówić, żeby rozwiązać problem.",
+      "prompt": "Zakończ trudną rozmowę pozytywnym zdaniem zaczynającym się od „I'm glad…”."
+    },
+    {
+      "id": "b03-c44", "month": 1, "topic": 3,
+      "en": "I **lost my temper** for a second and yelled.",
+      "pl": "Straciłem na sekundę panowanie nad sobą i krzyknąłem.",
+      "phrasePl": "stracić panowanie nad sobą",
+      "note": "Przeciwieństwo: „keep your cool” (zachować spokój).",
+      "prompt": "Powiedz, co zrobić, żeby nie „lose your temper” w korku lub w pracy."
+    },
+    {
+      "id": "b03-c45", "month": 1, "topic": 3,
+      "en": "**Feel free to** text me anytime you want to chat.",
+      "pl": "Śmiało napisz do mnie, kiedy tylko będziesz chciał pogadać.",
+      "phrasePl": "śmiało / nie krępuj się",
+      "note": "Otwarte, przyjazne zaproszenie do kontaktu lub pytania.",
+      "prompt": "Zakończ rozmowę z nowym znajomym, używając „Feel free to…”."
+    }
+  ],
+  "words": [
+    { "id": "b03-w001", "month": 1, "topic": 3, "en": "excited", "pl": "podekscytowany" },
+    { "id": "b03-w002", "month": 1, "topic": 3, "en": "disappointed", "pl": "rozczarowany" },
+    { "id": "b03-w003", "month": 1, "topic": 3, "en": "annoyed", "pl": "poirytowany" },
+    { "id": "b03-w004", "month": 1, "topic": 3, "en": "furious", "pl": "wściekły" },
+    { "id": "b03-w005", "month": 1, "topic": 3, "en": "anxious", "pl": "zaniepokojony / pełen lęku" },
+    { "id": "b03-w006", "month": 1, "topic": 3, "en": "worried", "pl": "zmartwiony" },
+    { "id": "b03-w007", "month": 1, "topic": 3, "en": "confused", "pl": "zdezorientowany" },
+    { "id": "b03-w008", "month": 1, "topic": 3, "en": "embarrassed", "pl": "zażenowany / zawstydzony" },
+    { "id": "b03-w009", "month": 1, "topic": 3, "en": "ashamed", "pl": "zawstydzony (z poczuciem winy)" },
+    { "id": "b03-w010", "month": 1, "topic": 3, "en": "guilty", "pl": "winny" },
+    { "id": "b03-w011", "month": 1, "topic": 3, "en": "jealous", "pl": "zazdrosny" },
+    { "id": "b03-w012", "month": 1, "topic": 3, "en": "envious", "pl": "zawistny" },
+    { "id": "b03-w013", "month": 1, "topic": 3, "en": "grateful", "pl": "wdzięczny" },
+    { "id": "b03-w014", "month": 1, "topic": 3, "en": "thankful", "pl": "wdzięczny / pełen podzięki" },
+    { "id": "b03-w015", "month": 1, "topic": 3, "en": "lonely", "pl": "samotny" },
+    { "id": "b03-w016", "month": 1, "topic": 3, "en": "bored", "pl": "znudzony" },
+    { "id": "b03-w017", "month": 1, "topic": 3, "en": "curious", "pl": "ciekawy / zaciekawiony" },
+    { "id": "b03-w018", "month": 1, "topic": 3, "en": "amazed", "pl": "zdumiony / zachwycony" },
+    { "id": "b03-w019", "month": 1, "topic": 3, "en": "shocked", "pl": "zszokowany" },
+    { "id": "b03-w020", "month": 1, "topic": 3, "en": "upset", "pl": "zdenerwowany / przygnębiony" },
+    { "id": "b03-w021", "month": 1, "topic": 3, "en": "heartbroken", "pl": "załamany (ze złamanym sercem)" },
+    { "id": "b03-w022", "month": 1, "topic": 3, "en": "hopeful", "pl": "pełen nadziei" },
+    { "id": "b03-w023", "month": 1, "topic": 3, "en": "confident", "pl": "pewny siebie" },
+    { "id": "b03-w024", "month": 1, "topic": 3, "en": "insecure", "pl": "niepewny siebie" },
+    { "id": "b03-w025", "month": 1, "topic": 3, "en": "calm", "pl": "spokojny" },
+    { "id": "b03-w026", "month": 1, "topic": 3, "en": "relaxed", "pl": "zrelaksowany" },
+    { "id": "b03-w027", "month": 1, "topic": 3, "en": "stressed", "pl": "zestresowany" },
+    { "id": "b03-w028", "month": 1, "topic": 3, "en": "mood", "pl": "nastrój" },
+    { "id": "b03-w029", "month": 1, "topic": 3, "en": "feeling", "pl": "uczucie" },
+    { "id": "b03-w030", "month": 1, "topic": 3, "en": "emotion", "pl": "emocja" },
+    { "id": "b03-w031", "month": 1, "topic": 3, "en": "kind", "pl": "uprzejmy / życzliwy" },
+    { "id": "b03-w032", "month": 1, "topic": 3, "en": "generous", "pl": "hojny" },
+    { "id": "b03-w033", "month": 1, "topic": 3, "en": "selfish", "pl": "samolubny" },
+    { "id": "b03-w034", "month": 1, "topic": 3, "en": "honest", "pl": "uczciwy / szczery" },
+    { "id": "b03-w035", "month": 1, "topic": 3, "en": "loyal", "pl": "lojalny" },
+    { "id": "b03-w036", "month": 1, "topic": 3, "en": "patient", "pl": "cierpliwy" },
+    { "id": "b03-w037", "month": 1, "topic": 3, "en": "impatient", "pl": "niecierpliwy" },
+    { "id": "b03-w038", "month": 1, "topic": 3, "en": "polite", "pl": "grzeczny" },
+    { "id": "b03-w039", "month": 1, "topic": 3, "en": "rude", "pl": "niegrzeczny / chamski" },
+    { "id": "b03-w040", "month": 1, "topic": 3, "en": "shy", "pl": "nieśmiały" },
+    { "id": "b03-w041", "month": 1, "topic": 3, "en": "outgoing", "pl": "towarzyski / otwarty" },
+    { "id": "b03-w042", "month": 1, "topic": 3, "en": "thoughtful", "pl": "troskliwy / uważny" },
+    { "id": "b03-w043", "month": 1, "topic": 3, "en": "supportive", "pl": "wspierający" },
+    { "id": "b03-w044", "month": 1, "topic": 3, "en": "sensitive", "pl": "wrażliwy" },
+    { "id": "b03-w045", "month": 1, "topic": 3, "en": "sensible", "pl": "rozsądny" },
+    { "id": "b03-w046", "month": 1, "topic": 3, "en": "easygoing", "pl": "wyluzowany / bezproblemowy" },
+    { "id": "b03-w047", "month": 1, "topic": 3, "en": "moody", "pl": "humorzasty" },
+    { "id": "b03-w048", "month": 1, "topic": 3, "en": "trustworthy", "pl": "godny zaufania" },
+    { "id": "b03-w049", "month": 1, "topic": 3, "en": "relationship", "pl": "relacja / związek" },
+    { "id": "b03-w050", "month": 1, "topic": 3, "en": "friendship", "pl": "przyjaźń" },
+    { "id": "b03-w051", "month": 1, "topic": 3, "en": "acquaintance", "pl": "znajomy (dalszy)" },
+    { "id": "b03-w052", "month": 1, "topic": 3, "en": "colleague", "pl": "kolega z pracy" },
+    { "id": "b03-w053", "month": 1, "topic": 3, "en": "partner", "pl": "partner" },
+    { "id": "b03-w054", "month": 1, "topic": 3, "en": "spouse", "pl": "małżonek / małżonka" },
+    { "id": "b03-w055", "month": 1, "topic": 3, "en": "relatives", "pl": "krewni" },
+    { "id": "b03-w056", "month": 1, "topic": 3, "en": "sibling", "pl": "rodzeństwo (brat lub siostra)" },
+    { "id": "b03-w057", "month": 1, "topic": 3, "en": "in-laws", "pl": "teściowie" },
+    { "id": "b03-w058", "month": 1, "topic": 3, "en": "to trust", "pl": "ufać" },
+    { "id": "b03-w059", "month": 1, "topic": 3, "en": "to forgive", "pl": "wybaczyć" },
+    { "id": "b03-w060", "month": 1, "topic": 3, "en": "to blame", "pl": "obwiniać" },
+    { "id": "b03-w061", "month": 1, "topic": 3, "en": "to argue", "pl": "kłócić się" },
+    { "id": "b03-w062", "month": 1, "topic": 3, "en": "argument", "pl": "kłótnia / spór" },
+    { "id": "b03-w063", "month": 1, "topic": 3, "en": "misunderstanding", "pl": "nieporozumienie" },
+    { "id": "b03-w064", "month": 1, "topic": 3, "en": "to compliment", "pl": "komplementować" },
+    { "id": "b03-w065", "month": 1, "topic": 3, "en": "to encourage", "pl": "zachęcać / dodawać otuchy" },
+    { "id": "b03-w066", "month": 1, "topic": 3, "en": "to comfort", "pl": "pocieszać" },
+    { "id": "b03-w067", "month": 1, "topic": 3, "en": "to respect", "pl": "szanować" },
+    { "id": "b03-w068", "month": 1, "topic": 3, "en": "to admire", "pl": "podziwiać" },
+    { "id": "b03-w069", "month": 1, "topic": 3, "en": "to bother", "pl": "przeszkadzać / zawracać głowę" },
+    { "id": "b03-w070", "month": 1, "topic": 3, "en": "to interrupt", "pl": "przerywać (komuś)" },
+    { "id": "b03-w071", "month": 1, "topic": 3, "en": "to ignore", "pl": "ignorować" },
+    { "id": "b03-w072", "month": 1, "topic": 3, "en": "to promise", "pl": "obiecać" },
+    { "id": "b03-w073", "month": 1, "topic": 3, "en": "to remind", "pl": "przypomnieć (komuś)" },
+    { "id": "b03-w074", "month": 1, "topic": 3, "en": "to invite", "pl": "zaprosić" },
+    { "id": "b03-w075", "month": 1, "topic": 3, "en": "to decline", "pl": "grzecznie odmówić" },
+    { "id": "b03-w076", "month": 1, "topic": 3, "en": "to hug", "pl": "przytulić" },
+    { "id": "b03-w077", "month": 1, "topic": 3, "en": "to smile", "pl": "uśmiechnąć się" },
+    { "id": "b03-w078", "month": 1, "topic": 3, "en": "to laugh", "pl": "śmiać się" },
+    { "id": "b03-w079", "month": 1, "topic": 3, "en": "to sigh", "pl": "westchnąć" },
+    { "id": "b03-w080", "month": 1, "topic": 3, "en": "to nod", "pl": "skinąć głową" },
+    { "id": "b03-w081", "month": 1, "topic": 3, "en": "to shrug", "pl": "wzruszyć ramionami" },
+    { "id": "b03-w082", "month": 1, "topic": 3, "en": "awesome", "pl": "świetny / ekstra" },
+    { "id": "b03-w083", "month": 1, "topic": 3, "en": "amazing", "pl": "niesamowity" },
+    { "id": "b03-w084", "month": 1, "topic": 3, "en": "terrible", "pl": "okropny" },
+    { "id": "b03-w085", "month": 1, "topic": 3, "en": "awful", "pl": "straszny" },
+    { "id": "b03-w086", "month": 1, "topic": 3, "en": "weird", "pl": "dziwny" },
+    { "id": "b03-w087", "month": 1, "topic": 3, "en": "hilarious", "pl": "przekomiczny" },
+    { "id": "b03-w088", "month": 1, "topic": 3, "en": "sweet", "pl": "miły / kochany" },
+    { "id": "b03-w089", "month": 1, "topic": 3, "en": "mean", "pl": "złośliwy / niemiły" },
+    { "id": "b03-w090", "month": 1, "topic": 3, "en": "unfair", "pl": "niesprawiedliwy" },
+    { "id": "b03-w091", "month": 1, "topic": 3, "en": "congratulations", "pl": "gratulacje" },
+    { "id": "b03-w092", "month": 1, "topic": 3, "en": "well done", "pl": "dobra robota" },
+    { "id": "b03-w093", "month": 1, "topic": 3, "en": "best of luck", "pl": "powodzenia" },
+    { "id": "b03-w094", "month": 1, "topic": 3, "en": "fingers crossed", "pl": "trzymam kciuki" },
+    { "id": "b03-w095", "month": 1, "topic": 3, "en": "what a pity", "pl": "jaka szkoda" },
+    { "id": "b03-w096", "month": 1, "topic": 3, "en": "poor thing", "pl": "biedactwo" },
+    { "id": "b03-w097", "month": 1, "topic": 3, "en": "my bad", "pl": "moja wina (potocznie)" },
+    { "id": "b03-w098", "month": 1, "topic": 3, "en": "forgive me", "pl": "wybacz mi" },
+    { "id": "b03-w099", "month": 1, "topic": 3, "en": "you're welcome", "pl": "nie ma za co" },
+    { "id": "b03-w100", "month": 1, "topic": 3, "en": "my pleasure", "pl": "cała przyjemność po mojej stronie" },
+    { "id": "b03-w101", "month": 1, "topic": 3, "en": "anytime", "pl": "zawsze chętnie / nie ma sprawy" },
+    { "id": "b03-w102", "month": 1, "topic": 3, "en": "really?", "pl": "naprawdę?" },
+    { "id": "b03-w103", "month": 1, "topic": 3, "en": "no kidding", "pl": "serio? / nie żartuj" },
+    { "id": "b03-w104", "month": 1, "topic": 3, "en": "that's crazy", "pl": "to szalone" },
+    { "id": "b03-w105", "month": 1, "topic": 3, "en": "that's awesome", "pl": "to super" },
+    { "id": "b03-w106", "month": 1, "topic": 3, "en": "I'm impressed", "pl": "jestem pod wrażeniem" },
+    { "id": "b03-w107", "month": 1, "topic": 3, "en": "I'm speechless", "pl": "brak mi słów" },
+    { "id": "b03-w108", "month": 1, "topic": 3, "en": "it happens", "pl": "zdarza się" },
+    { "id": "b03-w109", "month": 1, "topic": 3, "en": "don't mention it", "pl": "nie ma o czym mówić" },
+    { "id": "b03-w110", "month": 1, "topic": 3, "en": "don't worry about it", "pl": "nie przejmuj się tym" },
+    { "id": "b03-w111", "month": 1, "topic": 3, "en": "maybe next time", "pl": "może następnym razem" },
+    { "id": "b03-w112", "month": 1, "topic": 3, "en": "count me in", "pl": "piszę się na to" },
+    { "id": "b03-w113", "month": 1, "topic": 3, "en": "count me out", "pl": "ja odpadam" },
+    { "id": "b03-w114", "month": 1, "topic": 3, "en": "to gossip", "pl": "plotkować" },
+    { "id": "b03-w115", "month": 1, "topic": 3, "en": "to tease", "pl": "droczyć się" },
+    { "id": "b03-w116", "month": 1, "topic": 3, "en": "to bond", "pl": "zbliżyć się / nawiązać więź" },
+    { "id": "b03-w117", "month": 1, "topic": 3, "en": "to break up", "pl": "rozstać się (w związku)" },
+    { "id": "b03-w118", "month": 1, "topic": 3, "en": "to get engaged", "pl": "zaręczyć się" },
+    { "id": "b03-w119", "month": 1, "topic": 3, "en": "to get married", "pl": "wziąć ślub" },
+    { "id": "b03-w120", "month": 1, "topic": 3, "en": "close friend", "pl": "bliski przyjaciel" }
+  ]
+}

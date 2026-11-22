@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 1,
+    "month": 1,
+    "title": "Wypełniacze i „klej” konwersacyjny"
+  },
+  "cards": [
+    {
+      "id": "b01-c01", "month": 1, "topic": 1,
+      "en": "**Actually**, I changed my mind about the trip.",
+      "pl": "Właściwie to zmieniłem zdanie co do wyjazdu.",
+      "phrasePl": "właściwie / tak naprawdę",
+      "note": "Nie znaczy „aktualnie” (to „currently”). Świetnie służy do grzecznego poprawiania kogoś albo zmiany zdania.",
+      "prompt": "Powiedz na głos, o czym ostatnio zmieniłeś zdanie, zaczynając od „Actually…”."
+    },
+    {
+      "id": "b01-c02", "month": 1, "topic": 1,
+      "en": "**Basically**, we just need to wait for their reply.",
+      "pl": "W skrócie — musimy po prostu poczekać na ich odpowiedź.",
+      "phrasePl": "w skrócie / zasadniczo",
+      "note": "Streszcza skomplikowaną sytuację w jednym prostym zdaniu. Jeden z najczęstszych łączników w mowie.",
+      "prompt": "Streść jednym zdaniem swój dzisiejszy dzień, zaczynając od „Basically…”."
+    },
+    {
+      "id": "b01-c03", "month": 1, "topic": 1,
+      "en": "It's **kind of** expensive, don't you think?",
+      "pl": "To jest trochę drogie, nie uważasz?",
+      "phrasePl": "trochę / jakby",
+      "note": "Łagodzi przymiotniki (często wymawiane „kinda”). Zamiast ostrego „It's boring” mówisz „It's kind of boring”.",
+      "prompt": "Opisz łagodnie coś, co ostatnio było średnie (film, pogoda, kawa), używając „kind of”."
+    },
+    {
+      "id": "b01-c04", "month": 1, "topic": 1,
+      "en": "I'm **sort of** tired, so I might stay in.",
+      "pl": "Jestem trochę zmęczony, więc może zostanę w domu.",
+      "phrasePl": "trochę / w pewnym sensie",
+      "note": "Bliski synonim „kind of” (często wymawiane „sorta”). Daje naturalny, niesztywny ton.",
+      "prompt": "Powiedz, jak się dziś czujesz i jakie masz plany na wieczór, używając „sort of”."
+    },
+    {
+      "id": "b01-c05", "month": 1, "topic": 1,
+      "en": "**On the other hand**, working from home saves a lot of time.",
+      "pl": "Z drugiej strony praca z domu oszczędza sporo czasu.",
+      "phrasePl": "z drugiej strony",
+      "note": "Wprowadza kontrargument lub drugą stronę medalu. Nie musisz wcześniej mówić „on the one hand”.",
+      "prompt": "Podaj jedną wadę i jedną zaletę mieszkania w dużym mieście — drugą część zacznij od „On the other hand…”."
+    },
+    {
+      "id": "b01-c06", "month": 1, "topic": 1,
+      "en": "**By the way**, did you get my message yesterday?",
+      "pl": "Przy okazji, dostałeś wczoraj moją wiadomość?",
+      "phrasePl": "przy okazji / a propos",
+      "note": "Najprostszy sposób, żeby płynnie zmienić temat rozmowy lub wtrącić luźną uwagę.",
+      "prompt": "Zmień temat rozmowy i zapytaj znajomego o jakąś zaległą sprawę, zaczynając od „By the way…”."
+    },
+    {
+      "id": "b01-c07", "month": 1, "topic": 1,
+      "en": "**In other words**, we have to start over.",
+      "pl": "Innymi słowy, musimy zacząć od nowa.",
+      "phrasePl": "innymi słowy",
+      "note": "Służy do uproszczenia albo podsumowania tego, co właśnie usłyszałeś lub powiedziałeś.",
+      "prompt": "Powiedz coś ogólnie, a potem podsumuj to prościej zaczynając od „In other words…”."
+    },
+    {
+      "id": "b01-c08", "month": 1, "topic": 1,
+      "en": "**To make a long story short**, we missed the last train.",
+      "pl": "Krótko mówiąc, spóźniliśmy się na ostatni pociąg.",
+      "phrasePl": "krótko mówiąc (w skrócie)",
+      "note": "Idealne, gdy nie chcesz zanudzać szczegółami historii i przechodzisz od razu do puenty.",
+      "prompt": "Podsumuj krótko jakąś zabawną lub stresującą przygodę z podróży, używając tego zwrotu."
+    },
+    {
+      "id": "b01-c09", "month": 1, "topic": 1,
+      "en": "**As far as I know**, the shop is open until nine.",
+      "pl": "O ile wiem, sklep jest otwarty do dziewiątej.",
+      "phrasePl": "o ile wiem",
+      "note": "Zabezpiecza Cię, gdy nie masz stuprocentowej pewności co do faktu.",
+      "prompt": "Odpowiedz na pytanie o godzinę otwarcia albo termin spotkania, zaczynając od „As far as I know…”."
+    },
+    {
+      "id": "b01-c10", "month": 1, "topic": 1,
+      "en": "**If I'm not mistaken**, we met at Tom's wedding.",
+      "pl": "Jeśli się nie mylę, poznaliśmy się na ślubie Toma.",
+      "phrasePl": "jeśli się nie mylę",
+      "note": "Uprzejme zastrzeżenie, kiedy przypominasz sobie imię, miejsce albo datę.",
+      "prompt": "Przypomnij komuś na głos jakieś ustalenie lub datę, zaczynając od „If I'm not mistaken…”."
+    },
+    {
+      "id": "b01-c11", "month": 1, "topic": 1,
+      "en": "**At the end of the day**, your health is what matters most.",
+      "pl": "Koniec końców, to Twoje zdrowie jest najważniejsze.",
+      "phrasePl": "koniec końców / w ostatecznym rozrachunku",
+      "note": "Bardzo popularny zwrot podsumowujący dyskusję i wskazujący sedno sprawy.",
+      "prompt": "Zakończ krótką myśl o pracy lub nauce, używając „At the end of the day…”."
+    },
+    {
+      "id": "b01-c12", "month": 1, "topic": 1,
+      "en": "**First of all**, thank you for coming today.",
+      "pl": "Po pierwsze, dziękuję, że dziś przyszedłeś.",
+      "phrasePl": "po pierwsze / przede wszystkim",
+      "note": "Porządkuje wypowiedź na starcie i daje Ci sekundę na zebranie myśli.",
+      "prompt": "Wymień dwie rzeczy, które musisz dziś zrobić — pierwszą zacznij od „First of all…”."
+    },
+    {
+      "id": "b01-c13", "month": 1, "topic": 1,
+      "en": "**On top of that**, it started raining heavily.",
+      "pl": "Na domiar tego zaczęło mocno padać.",
+      "phrasePl": "na dodatek / oprócz tego",
+      "note": "Dodaje kolejny argument (często negatywny albo wzmacniający historię).",
+      "prompt": "Opowiedz o ciężkim dniu i dołóż jeszcze jeden pechowy detal z „On top of that…”."
+    },
+    {
+      "id": "b01-c14", "month": 1, "topic": 1,
+      "en": "**In fact**, I've never been to London.",
+      "pl": "Właściwie / szczerze mówiąc, nigdy nie byłem w Londynie.",
+      "phrasePl": "w gruncie rzeczy / właściwie",
+      "note": "Wzmacnia albo lekko zaskakuje informacją, którą dopowiadasz do poprzedniego zdania.",
+      "prompt": "Dodaj zaskakujący fakt o sobie, zaczynając od „In fact…”."
+    },
+    {
+      "id": "b01-c15", "month": 1, "topic": 1,
+      "en": "**Speaking of** coffee, do you want another cup?",
+      "pl": "A propos kawy, chcesz jeszcze jedną filiżankę?",
+      "phrasePl": "skoro mowa o / a propos",
+      "note": "Po „speaking of” zawsze dajesz rzeczownik lub czasownik z -ing. Płynnie nawiązuje do słowa, które właśnie padło.",
+      "prompt": "Nawiąż do tematu weekendu lub jedzenia, zaczynając pytanie od „Speaking of…”."
+    },
+    {
+      "id": "b01-c16", "month": 1, "topic": 1,
+      "en": "**You know what**, let's just order pizza tonight.",
+      "pl": "Wiesz co, zamówmy po prostu pizzę na dziś wieczór.",
+      "phrasePl": "wiesz co",
+      "note": "Wprowadza nagły, spontaniczny pomysł albo decyzję. Bardzo naturalne w rozmowie ze znajomymi.",
+      "prompt": "Zaproponuj nagłą zmianę planów na wieczór, zaczynając od „You know what…”."
+    },
+    {
+      "id": "b01-c17", "month": 1, "topic": 1,
+      "en": "**I mean**, it wasn't bad, just a bit too loud.",
+      "pl": "To znaczy, nie było źle, tylko trochę za głośno.",
+      "phrasePl": "to znaczy / mam na myśli",
+      "note": "Absolutny numer 1 wśród wypełniaczy — pozwala doprecyzować, złagodzić albo poprawić własne zdanie.",
+      "prompt": "Wyraź mieszaną opinię o restauracji lub filmie, doprecyzowując ją przez „I mean…”."
+    },
+    {
+      "id": "b01-c18", "month": 1, "topic": 1,
+      "en": "**To tell you the truth**, I completely forgot about it.",
+      "pl": "Prawdę mówiąc, zupełnie o tym zapomniałem.",
+      "phrasePl": "prawdę mówiąc",
+      "note": "Świetna alternatywa dla „To be honest”, gdy chcesz się do czegoś szczerze przyznać.",
+      "prompt": "Przyznaj się na głos do drobnej wpadki, zaczynając od „To tell you the truth…”."
+    },
+    {
+      "id": "b01-c19", "month": 1, "topic": 1,
+      "en": "**Believe it or not**, I learned this in one week.",
+      "pl": "Wierz lub nie, ale nauczyłem się tego w tydzień.",
+      "phrasePl": "wierz lub nie",
+      "note": "Przyciąga uwagę rozmówcy przed ciekawą lub mało prawdopodobną informacją.",
+      "prompt": "Powiedz coś zaskakującego o sobie lub swoim mieście, zaczynając od „Believe it or not…”."
+    },
+    {
+      "id": "b01-c20", "month": 1, "topic": 1,
+      "en": "**Guess what** — I got the tickets for the concert!",
+      "pl": "Zgadnij co — zdobyłem bilety na koncert!",
+      "phrasePl": "zgadnij co",
+      "note": "Klasyczne otwarcie dobrej (lub zaskakującej) wiadomości. Możesz zrobić krótką pauzę po „Guess what”.",
+      "prompt": "Przekaż wyimaginowaną dobrą wiadomość znajomemu, zaczynając od „Guess what…”."
+    },
+    {
+      "id": "b01-c21", "month": 1, "topic": 1,
+      "en": "**Wait a second**, let me check my calendar first.",
+      "pl": "Chwileczkę, sprawdzę najpierw w kalendarzu.",
+      "phrasePl": "chwileczkę / poczekaj sekundę",
+      "note": "Kupuje czas w rozmowie bez niezręcznej ciszy. Wersja jeszcze krótsza: „Hold on a sec.”",
+      "prompt": "Ktoś proponuje spotkanie w piątek. Zatrzymaj rozmowę na chwilę używając „Wait a second…”."
+    },
+    {
+      "id": "b01-c22", "month": 1, "topic": 1,
+      "en": "**Let's see**… what time does the movie start?",
+      "pl": "Zobaczmy… o której zaczyna się film?",
+      "phrasePl": "zobaczmy / niech no pomyślę",
+      "note": "Naturalny wypełniacz, gdy czegoś szukasz w telefonie albo przypominasz sobie odpowiedź.",
+      "prompt": "Udawaj, że szukasz czegoś w głowie i zacznij odpowiedź od „Let's see…”."
+    },
+    {
+      "id": "b01-c23", "month": 1, "topic": 1,
+      "en": "**How should I put it**… he's not very reliable.",
+      "pl": "Jak by to ująć… on nie jest zbyt rzetelny.",
+      "phrasePl": "jak by to ująć",
+      "note": "Daje czas, kiedy szukasz dyplomatycznego albo precyzyjnego słowa.",
+      "prompt": "Opisz delikatnie czyjąś wadę, dając sobie chwilę przez „How should I put it…”."
+    },
+    {
+      "id": "b01-c24", "month": 1, "topic": 1,
+      "en": "**The thing is**, I already promised to help my brother.",
+      "pl": "Rzecz w tym, że już obiecałem pomóc bratu.",
+      "phrasePl": "rzecz w tym, że",
+      "note": "Genialny sposób na grzeczne wyjaśnienie problemu albo odmowę. Brzmi bardzo naturalnie.",
+      "prompt": "Odmów grzecznie zaproszenia, tłumacząc powód zwrotem „The thing is…”."
+    },
+    {
+      "id": "b01-c25", "month": 1, "topic": 1,
+      "en": "**That being said**, I still think it's worth a try.",
+      "pl": "Mając to na uwadze / mimo to, nadal uważam, że warto spróbować.",
+      "phrasePl": "mimo to / z tym zastrzeżeniem",
+      "note": "Elegancki łącznik między wadą a wnioskiem. Świetny w pracy i w normalnej rozmowie.",
+      "prompt": "Powiedz coś krytycznego o nowym pomyśle, a potem przejdź do plusu przez „That being said…”."
+    },
+    {
+      "id": "b01-c26", "month": 1, "topic": 1,
+      "en": "**Either way**, we'll figure something out.",
+      "pl": "Tak czy inaczej, coś wymyślimy.",
+      "phrasePl": "tak czy inaczej",
+      "note": "Używasz, gdy są dwie opcje, ale wniosek w obu przypadkach pozostaje ten sam.",
+      "prompt": "Powiedz o dwóch możliwych scenariuszach pogody na weekend i podsumuj przez „Either way…”."
+    },
+    {
+      "id": "b01-c27", "month": 1, "topic": 1,
+      "en": "**No wonder** you're exhausted — you worked twelve hours!",
+      "pl": "Nic dziwnego, że jesteś wykończony — pracowałeś dwanaście godzin!",
+      "phrasePl": "nic dziwnego",
+      "note": "Szybka, empatyczna reakcja, gdy nagle rozumiesz przyczynę sytuacji.",
+      "prompt": "Zareaguj na wiadomość, że znajomy nie spał całą noc, używając „No wonder…”."
+    },
+    {
+      "id": "b01-c28", "month": 1, "topic": 1,
+      "en": "**For some reason**, my phone won't connect to Wi-Fi.",
+      "pl": "Z jakiegoś powodu mój telefon nie chce się połączyć z Wi-Fi.",
+      "phrasePl": "z jakiegoś powodu",
+      "note": "Bardzo częsty zwrot, gdy coś się dzieje, a nie znasz przyczyny.",
+      "prompt": "Opisz drobną zagadkową sytuację z dziś, zaczynając od „For some reason…”."
+    },
+    {
+      "id": "b01-c29", "month": 1, "topic": 1,
+      "en": "**Sooner or later**, we'll have to talk about it.",
+      "pl": "Prędzej czy później będziemy musieli o tym porozmawiać.",
+      "phrasePl": "prędzej czy później",
+      "note": "Stała para słów (tzw. binomial). Zawsze w tej kolejności: sooner or later.",
+      "prompt": "Powiedz o rzeczy, której nie da się odkładać w nieskończoność, używając „sooner or later”."
+    },
+    {
+      "id": "b01-c30", "month": 1, "topic": 1,
+      "en": "**More or less**, the project is finished.",
+      "pl": "Mniej więcej projekt jest skończony.",
+      "phrasePl": "mniej więcej",
+      "note": "Wygodne przybliżenie — może stać na początku, w środku albo na końcu zdania.",
+      "prompt": "Odpowiedz na pytanie, ile czasu zajmuje Ci dojazd lub nauka, używając „more or less”."
+    },
+    {
+      "id": "b01-c31", "month": 1, "topic": 1,
+      "en": "I don't know **for sure**, but I think he left early.",
+      "pl": "Nie wiem na pewno, ale myślę, że wyszedł wcześniej.",
+      "phrasePl": "na pewno",
+      "note": "„For sure” w przeczeniu = nie na pewno; samo „For sure!” jako reakcja = „Jasne / Pewnie!”.",
+      "prompt": "Użyj „for sure” raz jako odpowiedź „Jasne!”, a raz w zdaniu „I don't know for sure…”."
+    },
+    {
+      "id": "b01-c32", "month": 1, "topic": 1,
+      "en": "**In that case**, let's reschedule for Monday.",
+      "pl": "W takim razie przełóżmy to na poniedziałek.",
+      "phrasePl": "w takim razie",
+      "note": "Natychmiast reaguje na nową informację od rozmówcy i proponuje kolejne działanie.",
+      "prompt": "Ktoś mówi, że restauracja jest zamknięta. Zaproponuj inny plan, zaczynając od „In that case…”."
+    },
+    {
+      "id": "b01-c33", "month": 1, "topic": 1,
+      "en": "**As a matter of fact**, I just finished reading that book.",
+      "pl": "Tak się składa, że właśnie skończyłem czytać tę książkę.",
+      "phrasePl": "tak się składa / właściwie",
+      "note": "Brzmi bardzo naturalnie, gdy dodajesz dokładniejszy szczegół albo lekko poprawiasz rozmówcę.",
+      "prompt": "Odpowiedz na pytanie, czy znasz jakiś temat, dodając szczegół przez „As a matter of fact…”."
+    },
+    {
+      "id": "b01-c34", "month": 1, "topic": 1,
+      "en": "**After all**, nobody is perfect.",
+      "pl": "W końcu nikt nie jest idealny.",
+      "phrasePl": "w końcu / przecież",
+      "note": "Przypomina oczywisty fakt, który tłumaczy wcześniejsze zdanie (nie mylić z „finally”).",
+      "prompt": "Pociesz kogoś, kto popełnił błąd, kończąc lub zaczynając od „After all…”."
+    },
+    {
+      "id": "b01-c35", "month": 1, "topic": 1,
+      "en": "**In general**, people here are very friendly.",
+      "pl": "Ogólnie rzecz biorąc, ludzie tutaj są bardzo przyjaźni.",
+      "phrasePl": "ogólnie rzecz biorąc",
+      "note": "Pozwala uogólnić opinię bez mówienia „always” albo „everybody”.",
+      "prompt": "Powiedz ogólne zdanie o pogodzie lub jedzeniu w Polsce, zaczynając od „In general…”."
+    },
+    {
+      "id": "b01-c36", "month": 1, "topic": 1,
+      "en": "**For example**, you could practice while walking.",
+      "pl": "Na przykład możesz ćwiczyć podczas spaceru.",
+      "phrasePl": "na przykład",
+      "note": "Podstawowy łącznik rozwijający myśl. Równie naturalny synonim: „For instance”.",
+      "prompt": "Podaj prosty przykład dobrego nawyku, używając „For example…”."
+    },
+    {
+      "id": "b01-c37", "month": 1, "topic": 1,
+      "en": "**To be fair**, he warned us about the delay.",
+      "pl": "Trzeba przyznać / uczciwie mówiąc, ostrzegał nas przed opóźnieniem.",
+      "phrasePl": "uczciwie mówiąc / trzeba przyznać",
+      "note": "Broni czyjegoś punktu widzenia albo równoważy krytykę — bardzo częste u native speakerów.",
+      "prompt": "Złagodź krytykę jakiejś sytuacji, dodając argument z „To be fair…”."
+    },
+    {
+      "id": "b01-c38", "month": 1, "topic": 1,
+      "en": "**Not really**, I prefer tea over coffee.",
+      "pl": "Nie bardzo, wolę herbatę od kawy.",
+      "phrasePl": "nie bardzo / niespecjalnie",
+      "note": "Miękkie „nie” — brzmi dużo uprzejmiej niż suche „No.” w odpowiedzi na pytanie o gust.",
+      "prompt": "Ktoś pyta, czy lubisz zimę. Odpowiedz miękko używając „Not really…” i dodaj co wolisz."
+    },
+    {
+      "id": "b01-c39", "month": 1, "topic": 1,
+      "en": "**Good point** — I hadn't thought about that.",
+      "pl": "Słuszna uwaga — nie pomyślałem o tym.",
+      "phrasePl": "słuszna uwaga / dobra myśl",
+      "note": "Świetna, krótka reakcja pokazująca, że aktywnie słuchasz rozmówcy.",
+      "prompt": "Zareaguj na dobrą sugestię znajomego słowami „Good point” i dopowiedz drugie zdanie."
+    },
+    {
+      "id": "b01-c40", "month": 1, "topic": 1,
+      "en": "**No way**, are you serious?",
+      "pl": "Nie ma mowy / niemożliwe, mówisz poważnie?",
+      "phrasePl": "niemożliwe! / nie ma mowy",
+      "note": "W zależności od intonacji: niedowierzanie („Niemożliwe!”) albo kategoryczna odmowa („Nie ma mowy!”).",
+      "prompt": "Zareaguj z zaskoczeniem na niesamowitą wiadomość, używając „No way…”."
+    },
+    {
+      "id": "b01-c41", "month": 1, "topic": 1,
+      "en": "**You're kidding**, right?",
+      "pl": "Żartujesz, prawda?",
+      "phrasePl": "żartujesz sobie",
+      "note": "Naturalna reakcja na coś śmiesznego lub zaskakującego. Wariant: „Are you kidding me?”",
+      "prompt": "Ktoś mówi, że wygrał wycieczkę. Zareaguj naturalnie z „You're kidding”."
+    },
+    {
+      "id": "b01-c42", "month": 1, "topic": 1,
+      "en": "**Long story short**, we decided to stay another night.",
+      "pl": "W skrócie — postanowiliśmy zostać jeszcze jedną noc.",
+      "phrasePl": "w skrócie / krótko mówiąc",
+      "note": "Krótsza, jeszcze częstsza w mowie wersja „To make a long story short”.",
+      "prompt": "Zakończ krótką historię z ostatniego tygodnia zaczynając od „Long story short…”."
+    },
+    {
+      "id": "b01-c43", "month": 1, "topic": 1,
+      "en": "**Just in case**, bring an umbrella with you.",
+      "pl": "Na wszelki wypadek weź ze sobą parasol.",
+      "phrasePl": "na wszelki wypadek",
+      "note": "Może stać na początku albo na końcu zdania („Bring an umbrella, just in case.”).",
+      "prompt": "Daj komuś radę przed wyjazdem, kończąc lub zaczynając od „just in case”."
+    },
+    {
+      "id": "b01-c44", "month": 1, "topic": 1,
+      "en": "**By all means**, go ahead and ask.",
+      "pl": "Jak najbardziej / śmiało, pytaj.",
+      "phrasePl": "jak najbardziej / śmiało",
+      "note": "Uprzejme, entuzjastyczne pozwolenie lub zachęta. Świetne w rozmowach zawodowych i towarzyskich.",
+      "prompt": "Ktoś pyta, czy może usiąść albo zadać pytanie. Odpowiedz otwarcie z „By all means”."
+    },
+    {
+      "id": "b01-c45", "month": 1, "topic": 1,
+      "en": "**Anyway**, how have you been lately?",
+      "pl": "W każdym razie, co u Ciebie słychać ostatnio?",
+      "phrasePl": "w każdym razie / tak czy siak",
+      "note": "Najwygodniejszy przycisk „reset” w rozmowie: ucina dygresję albo zamyka temat i idzie dalej.",
+      "prompt": "Przerwij krótką dygresję i zapytaj rozmówcę o coś innego, zaczynając od „Anyway…”."
+    }
+  ],
+  "words": [
+    { "id": "b01-w001", "month": 1, "topic": 1, "en": "honestly", "pl": "szczerze mówiąc" },
+    { "id": "b01-w002", "month": 1, "topic": 1, "en": "frankly", "pl": "otwarcie / szczerze" },
+    { "id": "b01-w003", "month": 1, "topic": 1, "en": "obviously", "pl": "oczywiście" },
+    { "id": "b01-w004", "month": 1, "topic": 1, "en": "clearly", "pl": "wyraźnie / ewidentnie" },
+    { "id": "b01-w005", "month": 1, "topic": 1, "en": "probably", "pl": "prawdopodobnie" },
+    { "id": "b01-w006", "month": 1, "topic": 1, "en": "definitely", "pl": "zdecydowanie / na pewno" },
+    { "id": "b01-w007", "month": 1, "topic": 1, "en": "absolutely", "pl": "absolutnie / całkowicie" },
+    { "id": "b01-w008", "month": 1, "topic": 1, "en": "exactly", "pl": "dokładnie" },
+    { "id": "b01-w009", "month": 1, "topic": 1, "en": "literally", "pl": "dosłownie" },
+    { "id": "b01-w010", "month": 1, "topic": 1, "en": "seriously", "pl": "poważnie / serio" },
+    { "id": "b01-w011", "month": 1, "topic": 1, "en": "luckily", "pl": "na szczęście" },
+    { "id": "b01-w012", "month": 1, "topic": 1, "en": "unfortunately", "pl": "niestety" },
+    { "id": "b01-w013", "month": 1, "topic": 1, "en": "hopefully", "pl": "miejmy nadzieję" },
+    { "id": "b01-w014", "month": 1, "topic": 1, "en": "surprisingly", "pl": "o dziwo / zaskakująco" },
+    { "id": "b01-w015", "month": 1, "topic": 1, "en": "suddenly", "pl": "nagle" },
+    { "id": "b01-w016", "month": 1, "topic": 1, "en": "immediately", "pl": "natychmiast" },
+    { "id": "b01-w017", "month": 1, "topic": 1, "en": "eventually", "pl": "w końcu / ostatecznie" },
+    { "id": "b01-w018", "month": 1, "topic": 1, "en": "meanwhile", "pl": "tymczasem" },
+    { "id": "b01-w019", "month": 1, "topic": 1, "en": "otherwise", "pl": "w przeciwnym razie" },
+    { "id": "b01-w020", "month": 1, "topic": 1, "en": "instead", "pl": "zamiast tego" },
+    { "id": "b01-w021", "month": 1, "topic": 1, "en": "besides", "pl": "poza tym" },
+    { "id": "b01-w022", "month": 1, "topic": 1, "en": "furthermore", "pl": "co więcej" },
+    { "id": "b01-w023", "month": 1, "topic": 1, "en": "moreover", "pl": "ponadto" },
+    { "id": "b01-w024", "month": 1, "topic": 1, "en": "therefore", "pl": "dlatego / w związku z tym" },
+    { "id": "b01-w025", "month": 1, "topic": 1, "en": "though", "pl": "jednak / chociaż (na końcu zdania)" },
+    { "id": "b01-w026", "month": 1, "topic": 1, "en": "even though", "pl": "mimo że" },
+    { "id": "b01-w027", "month": 1, "topic": 1, "en": "unless", "pl": "chyba że" },
+    { "id": "b01-w028", "month": 1, "topic": 1, "en": "as long as", "pl": "dopóki / pod warunkiem że" },
+    { "id": "b01-w029", "month": 1, "topic": 1, "en": "as soon as", "pl": "jak tylko" },
+    { "id": "b01-w030", "month": 1, "topic": 1, "en": "so that", "pl": "żeby / tak aby" },
+    { "id": "b01-w031", "month": 1, "topic": 1, "en": "because of", "pl": "z powodu" },
+    { "id": "b01-w032", "month": 1, "topic": 1, "en": "due to", "pl": "ze względu na" },
+    { "id": "b01-w033", "month": 1, "topic": 1, "en": "in spite of", "pl": "pomimo" },
+    { "id": "b01-w034", "month": 1, "topic": 1, "en": "despite", "pl": "mimo" },
+    { "id": "b01-w035", "month": 1, "topic": 1, "en": "according to", "pl": "według" },
+    { "id": "b01-w036", "month": 1, "topic": 1, "en": "as for", "pl": "co do / jeśli chodzi o" },
+    { "id": "b01-w037", "month": 1, "topic": 1, "en": "regarding", "pl": "odnośnie / w sprawie" },
+    { "id": "b01-w038", "month": 1, "topic": 1, "en": "compared to", "pl": "w porównaniu z" },
+    { "id": "b01-w039", "month": 1, "topic": 1, "en": "at least", "pl": "przynajmniej" },
+    { "id": "b01-w040", "month": 1, "topic": 1, "en": "at most", "pl": "co najwyżej" },
+    { "id": "b01-w041", "month": 1, "topic": 1, "en": "at first", "pl": "na początku" },
+    { "id": "b01-w042", "month": 1, "topic": 1, "en": "at last", "pl": "wreszcie" },
+    { "id": "b01-w043", "month": 1, "topic": 1, "en": "at once", "pl": "od razu / naraz" },
+    { "id": "b01-w044", "month": 1, "topic": 1, "en": "by chance", "pl": "przypadkiem" },
+    { "id": "b01-w045", "month": 1, "topic": 1, "en": "on purpose", "pl": "celowo / specjalnie" },
+    { "id": "b01-w046", "month": 1, "topic": 1, "en": "in advance", "pl": "z wyprzedzeniem" },
+    { "id": "b01-w047", "month": 1, "topic": 1, "en": "in time", "pl": "na czas / w porę" },
+    { "id": "b01-w048", "month": 1, "topic": 1, "en": "on time", "pl": "punktualnie" },
+    { "id": "b01-w049", "month": 1, "topic": 1, "en": "right away", "pl": "natychmiast / od ręki" },
+    { "id": "b01-w050", "month": 1, "topic": 1, "en": "so far", "pl": "jak dotąd" },
+    { "id": "b01-w051", "month": 1, "topic": 1, "en": "from now on", "pl": "od teraz" },
+    { "id": "b01-w052", "month": 1, "topic": 1, "en": "for now", "pl": "na razie" },
+    { "id": "b01-w053", "month": 1, "topic": 1, "en": "for a while", "pl": "przez chwilę / na jakiś czas" },
+    { "id": "b01-w054", "month": 1, "topic": 1, "en": "once in a while", "pl": "raz na jakiś czas" },
+    { "id": "b01-w055", "month": 1, "topic": 1, "en": "all of a sudden", "pl": "ni stąd, ni zowąd / nagle" },
+    { "id": "b01-w056", "month": 1, "topic": 1, "en": "in the meantime", "pl": "w międzyczasie" },
+    { "id": "b01-w057", "month": 1, "topic": 1, "en": "little by little", "pl": "stopniowo / krok po kroku" },
+    { "id": "b01-w058", "month": 1, "topic": 1, "en": "step by step", "pl": "krok po kroku" },
+    { "id": "b01-w059", "month": 1, "topic": 1, "en": "face to face", "pl": "twarzą w twarz" },
+    { "id": "b01-w060", "month": 1, "topic": 1, "en": "side by side", "pl": "obok siebie" },
+    { "id": "b01-w061", "month": 1, "topic": 1, "en": "in short", "pl": "w skrócie" },
+    { "id": "b01-w062", "month": 1, "topic": 1, "en": "in brief", "pl": "pokrótce" },
+    { "id": "b01-w063", "month": 1, "topic": 1, "en": "in particular", "pl": "w szczególności" },
+    { "id": "b01-w064", "month": 1, "topic": 1, "en": "for instance", "pl": "na przykład" },
+    { "id": "b01-w065", "month": 1, "topic": 1, "en": "such as", "pl": "taki jak" },
+    { "id": "b01-w066", "month": 1, "topic": 1, "en": "and so on", "pl": "i tak dalej" },
+    { "id": "b01-w067", "month": 1, "topic": 1, "en": "or something", "pl": "albo coś w tym stylu" },
+    { "id": "b01-w068", "month": 1, "topic": 1, "en": "stuff like that", "pl": "tego typu rzeczy" },
+    { "id": "b01-w069", "month": 1, "topic": 1, "en": "you know", "pl": "wiesz (wypełniacz)" },
+    { "id": "b01-w070", "month": 1, "topic": 1, "en": "well", "pl": "no cóż / cóż" },
+    { "id": "b01-w071", "month": 1, "topic": 1, "en": "you see", "pl": "widzisz / rozumiesz" },
+    { "id": "b01-w072", "month": 1, "topic": 1, "en": "look", "pl": "słuchaj / spójrz (zwrócenie uwagi)" },
+    { "id": "b01-w073", "month": 1, "topic": 1, "en": "listen", "pl": "posłuchaj" },
+    { "id": "b01-w074", "month": 1, "topic": 1, "en": "hold on", "pl": "zaczekaj / chwila" },
+    { "id": "b01-w075", "month": 1, "topic": 1, "en": "hang on", "pl": "poczekaj sekundę" },
+    { "id": "b01-w076", "month": 1, "topic": 1, "en": "never mind", "pl": "nieważne / nie przejmuj się" },
+    { "id": "b01-w077", "month": 1, "topic": 1, "en": "no worries", "pl": "nie ma sprawy / spoko" },
+    { "id": "b01-w078", "month": 1, "topic": 1, "en": "no problem", "pl": "żaden problem" },
+    { "id": "b01-w079", "month": 1, "topic": 1, "en": "of course", "pl": "oczywiście" },
+    { "id": "b01-w080", "month": 1, "topic": 1, "en": "sure thing", "pl": "pewnie / jasna sprawa" },
+    { "id": "b01-w081", "month": 1, "topic": 1, "en": "sounds good", "pl": "brzmi dobrze" },
+    { "id": "b01-w082", "month": 1, "topic": 1, "en": "makes sense", "pl": "ma sens" },
+    { "id": "b01-w083", "month": 1, "topic": 1, "en": "true", "pl": "prawda / racja" },
+    { "id": "b01-w084", "month": 1, "topic": 1, "en": "I guess", "pl": "chyba / przypuszczam" },
+    { "id": "b01-w085", "month": 1, "topic": 1, "en": "I suppose", "pl": "przypuszczam / zakładam" },
+    { "id": "b01-w086", "month": 1, "topic": 1, "en": "I bet", "pl": "założę się" },
+    { "id": "b01-w087", "month": 1, "topic": 1, "en": "I doubt it", "pl": "wątpię w to" },
+    { "id": "b01-w088", "month": 1, "topic": 1, "en": "I hope so", "pl": "mam taką nadzieję" },
+    { "id": "b01-w089", "month": 1, "topic": 1, "en": "I hope not", "pl": "mam nadzieję, że nie" },
+    { "id": "b01-w090", "month": 1, "topic": 1, "en": "I think so", "pl": "tak mi się wydaje" },
+    { "id": "b01-w091", "month": 1, "topic": 1, "en": "I don't think so", "pl": "nie sądzę" },
+    { "id": "b01-w092", "month": 1, "topic": 1, "en": "not at all", "pl": "wcale nie / nie ma za co" },
+    { "id": "b01-w093", "month": 1, "topic": 1, "en": "not yet", "pl": "jeszcze nie" },
+    { "id": "b01-w094", "month": 1, "topic": 1, "en": "not anymore", "pl": "już nie" },
+    { "id": "b01-w095", "month": 1, "topic": 1, "en": "kind of thing", "pl": "tego rodzaju rzecz" },
+    { "id": "b01-w096", "month": 1, "topic": 1, "en": "to some extent", "pl": "do pewnego stopnia" },
+    { "id": "b01-w097", "month": 1, "topic": 1, "en": "in a way", "pl": "w pewnym sensie" },
+    { "id": "b01-w098", "month": 1, "topic": 1, "en": "in any case", "pl": "w każdym razie" },
+    { "id": "b01-w099", "month": 1, "topic": 1, "en": "for the most part", "pl": "w przeważającej mierze" },
+    { "id": "b01-w100", "month": 1, "topic": 1, "en": "in reality", "pl": "w rzeczywistości / naprawdę" },
+    { "id": "b01-w101", "month": 1, "topic": 1, "en": "to be precise", "pl": "ściśle mówiąc" },
+    { "id": "b01-w102", "month": 1, "topic": 1, "en": "roughly", "pl": "z grubsza / mniej więcej" },
+    { "id": "b01-w103", "month": 1, "topic": 1, "en": "almost", "pl": "prawie" },
+    { "id": "b01-w104", "month": 1, "topic": 1, "en": "barely", "pl": "ledwo" },
+    { "id": "b01-w105", "month": 1, "topic": 1, "en": "hardly", "pl": "prawie wcale / ledwie" },
+    { "id": "b01-w106", "month": 1, "topic": 1, "en": "mostly", "pl": "głównie / przeważnie" },
+    { "id": "b01-w107", "month": 1, "topic": 1, "en": "mainly", "pl": "głównie" },
+    { "id": "b01-w108", "month": 1, "topic": 1, "en": "especially", "pl": "zwłaszcza" },
+    { "id": "b01-w109", "month": 1, "topic": 1, "en": "particularly", "pl": "szczególnie" },
+    { "id": "b01-w110", "month": 1, "topic": 1, "en": "as a result", "pl": "w rezultacie / w konsekwencji" },
+    { "id": "b01-w111", "month": 1, "topic": 1, "en": "overall", "pl": "ogólnie / w sumie" },
+    { "id": "b01-w112", "month": 1, "topic": 1, "en": "still", "pl": "wciąż / mimo wszystko" },
+    { "id": "b01-w113", "month": 1, "topic": 1, "en": "on the whole", "pl": "biorąc wszystko pod uwagę" },
+    { "id": "b01-w114", "month": 1, "topic": 1, "en": "rather", "pl": "raczej" },
+    { "id": "b01-w115", "month": 1, "topic": 1, "en": "pretty much", "pl": "w zasadzie / praktycznie" },
+    { "id": "b01-w116", "month": 1, "topic": 1, "en": "by the time", "pl": "zanim / do czasu gdy" },
+    { "id": "b01-w117", "month": 1, "topic": 1, "en": "no matter what", "pl": "bez względu na wszystko" },
+    { "id": "b01-w118", "month": 1, "topic": 1, "en": "whatsoever", "pl": "jakikolwiek (w przeczeniach)" },
+    { "id": "b01-w119", "month": 1, "topic": 1, "en": "in case", "pl": "na wypadek gdyby" },
+    { "id": "b01-w120", "month": 1, "topic": 1, "en": "that's why", "pl": "dlatego właśnie" }
+  ]
+}

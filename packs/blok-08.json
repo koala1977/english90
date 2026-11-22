@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 8,
+    "month": 2,
+    "title": "Czas wolny, hobby i kultura"
+  },
+  "cards": [
+    {
+      "id": "b08-c01", "month": 2, "topic": 8,
+      "en": "I'm really **into** sci-fi podcasts lately.",
+      "pl": "Ostatnio bardzo wkręciłem się w podcasty sci-fi.",
+      "phrasePl": "kręcić się wokół / interesować się czymś",
+      "note": "Najbardziej naturalny sposób na mówienie o zainteresowaniach — dużo lżejszy niż „I am interested in”.",
+      "prompt": "Powiedz o dwóch rzeczach, w które jesteś ostatnio „really into”."
+    },
+    {
+      "id": "b08-c02", "month": 2, "topic": 8,
+      "en": "We **binge-watched** the whole season in one weekend.",
+      "pl": "Obejrzeliśmy cały sezon jednym ciągiem w jeden weekend.",
+      "phrasePl": "oglądać serial ciurkiem (odcinek za odcinkiem)",
+      "note": "Bardzo nowoczesne, codzienne słowo — znane każdemu widzowi Netflixa.",
+      "prompt": "Wymień serial, który ostatnio „binge-watched”."
+    },
+    {
+      "id": "b08-c03", "month": 2, "topic": 8,
+      "en": "Do you want to **hang out** this Saturday?",
+      "pl": "Masz ochotę się spotkać / posiedzieć razem w tę sobotę?",
+      "phrasePl": "spędzać razem czas / spotkać się na luzie",
+      "note": "Najczęstszy zwrot do umawiania luźnych spotkań ze znajomymi.",
+      "prompt": "Zaproponuj znajomemu luźne spotkanie w weekend, używając „hang out”."
+    },
+    {
+      "id": "b08-c04", "month": 2, "topic": 8,
+      "en": "That new documentary is definitely **worth watching**.",
+      "pl": "Ten nowy dokument zdecydowanie warto obejrzeć.",
+      "phrasePl": "warto obejrzeć",
+      "note": "Schemat: „worth + czasownik z -ing”: worth reading, worth visiting, worth trying!",
+      "prompt": "Poleć jeden film lub serial, używając „worth watching”."
+    },
+    {
+      "id": "b08-c05", "month": 2, "topic": 8,
+      "en": "No **spoilers**, please — I haven't seen the finale yet!",
+      "pl": "Bez spoilerów, proszę — jeszcze nie widziałem finału!",
+      "phrasePl": "spoilery (zdradzanie fabuły)",
+      "note": "Czasownik: „Don't spoil it for me!” (Nie psuj mi zabawy!).",
+      "prompt": "Powstrzymaj kolegę przed zdradzeniem zakończenia filmu, używając „spoilers”."
+    },
+    {
+      "id": "b08-c06", "month": 2, "topic": 8,
+      "en": "The movie **lived up to the hype** — it was fantastic.",
+      "pl": "Film sprostał szumowi (oczekiwaniom) — był fantastyczny.",
+      "phrasePl": "sprostać oczekiwaniom / szumowi",
+      "note": "Często też w przeczeniu: „It didn't live up to the hype” (nie był aż tak dobry, jak mówili).",
+      "prompt": "Powiedz o jednym głośnym filmie lub miejscu — czy „lived up to the hype”?"
+    },
+    {
+      "id": "b08-c07", "month": 2, "topic": 8,
+      "en": "I **couldn't put the book down** — I read until 2 a.m.",
+      "pl": "Nie mogłem się oderwać od tej książki — czytałem do drugiej w nocy.",
+      "phrasePl": "nie móc się oderwać (od książki)",
+      "note": "Świetny komplement dla wciągającej książki (też: „a real page-turner”).",
+      "prompt": "Wymień książkę lub serial, od którego „couldn't put it down”."
+    },
+    {
+      "id": "b08-c08", "month": 2, "topic": 8,
+      "en": "I'm **hooked on** this new mystery series.",
+      "pl": "Wciągnąłem się na maksa w ten nowy serial kryminalny.",
+      "phrasePl": "wciągnąć się / uzależnić się od czegoś",
+      "note": "Bardzo naturalne dla seriali, gier, muzyki i hobby.",
+      "prompt": "Powiedz, na co ostatnio jesteś „hooked on”."
+    },
+    {
+      "id": "b08-c09", "month": 2, "topic": 8,
+      "en": "The **plot twist** at the end blew my mind.",
+      "pl": "Zwrot akcji na końcu zwalił mnie z nóg.",
+      "phrasePl": "zwrot akcji",
+      "note": "„Blow someone's mind” = zrobić ogromne wrażenie / zaszokować.",
+      "prompt": "Powiedz, czy lubisz filmy z mocnym „plot twist”."
+    },
+    {
+      "id": "b08-c10", "month": 2, "topic": 8,
+      "en": "Horror movies are **not really my cup of tea**.",
+      "pl": "Horrory to niespecjalnie moja bajka.",
+      "phrasePl": "nie moja bajka / nie w moim guście",
+      "note": "Bardzo uprzejmy i stylowy idiom na wyrażenie własnego gustu.",
+      "prompt": "Wymień gatunek muzyki lub filmów, który jest „not your cup of tea”."
+    },
+    {
+      "id": "b08-c11", "month": 2, "topic": 8,
+      "en": "We're **throwing a party** for Anna's birthday on Friday.",
+      "pl": "Robimy imprezę na urodziny Anny w piątek.",
+      "phrasePl": "urządzać imprezę",
+      "note": "Zawsze „throw a party” albo „host a party” (nie „make a party”).",
+      "prompt": "Zaproś znajomego na urodziny, używając „throwing a party”."
+    },
+    {
+      "id": "b08-c12", "month": 2, "topic": 8,
+      "en": "We **had a blast** at the concert last night!",
+      "pl": "Świetnie się bawiliśmy wczoraj na koncercie!",
+      "phrasePl": "świetnie się bawić",
+      "note": "Żywsze i bardziej entuzjastyczne niż szkolne „We had a good time”.",
+      "prompt": "Opowiedz jednym zdaniem o wyjściu, na którym „had a blast”."
+    },
+    {
+      "id": "b08-c13", "month": 2, "topic": 8,
+      "en": "I recently **took up** photography as a hobby.",
+      "pl": "Niedawno zacząłem zajmować się fotografią jako hobby.",
+      "phrasePl": "zacząć uprawiać (nowe hobby / sport)",
+      "note": "Idealny phrasal verb na nowe zajęcia: take up running, take up guitar, take up painting.",
+      "prompt": "Powiedz, jakie nowe hobby chciałbyś w tym roku „take up”."
+    },
+    {
+      "id": "b08-c14", "month": 2, "topic": 8,
+      "en": "Let's **grab a bite** before the movie starts.",
+      "pl": "Zjedzmy coś szybkiego przed filmem.",
+      "phrasePl": "przekąsić coś / zjeść coś szybkiego",
+      "note": "Bardzo naturalne przed kinem, koncertem lub spotkaniem.",
+      "prompt": "Zaproponuj znajomemu szybkie jedzenie przed wyjściem, używając „grab a bite”."
+    },
+    {
+      "id": "b08-c15", "month": 2, "topic": 8,
+      "en": "Are you **up for** a board game night?",
+      "pl": "Piszesz się na wieczór z grami planszowymi?",
+      "phrasePl": "mieć ochotę na / pisać się na coś",
+      "note": "Odpowiedź: „Sure, I'm up for it!” albo „I'm down!” (potocznie US).",
+      "prompt": "Zapytaj kolegę, czy jest „up for” jakieś wyjście w ten weekend."
+    },
+    {
+      "id": "b08-c16", "month": 2, "topic": 8,
+      "en": "This song has been **stuck in my head** all day.",
+      "pl": "Ta piosenka chodzi za mną (utknęła mi w głowie) cały dzień.",
+      "phrasePl": "utknąć w głowie (piosenka / melodia)",
+      "note": "Bardzo częsty, naturalny zwrot o chwytliwych („catchy”) piosenkach.",
+      "prompt": "Powiedz, jaka piosenka ostatnio była „stuck in your head”."
+    },
+    {
+      "id": "b08-c17", "month": 2, "topic": 8,
+      "en": "Tickets for the festival **sold out** in ten minutes.",
+      "pl": "Bilety na festiwal wyprzedały się w dziesięć minut.",
+      "phrasePl": "wyprzedać się",
+      "note": "Też jako przymiotnik: „a sold-out show” (wyprzedany koncert / spektakl).",
+      "prompt": "Powiedz o koncercie lub wydarzeniu, na które bilety szybko „sold out”."
+    },
+    {
+      "id": "b08-c18", "month": 2, "topic": 8,
+      "en": "I prefer watching foreign movies **with subtitles**.",
+      "pl": "Wolę oglądać zagraniczne filmy z napisami.",
+      "phrasePl": "z napisami",
+      "note": "Przeciwieństwo: „dubbed” (z dubbingiem). Świetny nawyk przy nauce angielskiego!",
+      "prompt": "Powiedz, czy oglądasz angielskie seriale „with subtitles” (angielskimi czy polskimi)."
+    },
+    {
+      "id": "b08-c19", "month": 2, "topic": 8,
+      "en": "The **acting** was brilliant, even though the story was slow.",
+      "pl": "Gra aktorska była genialna, mimo że fabuła była powolna.",
+      "phrasePl": "gra aktorska",
+      "note": "Inne elementy filmu: „cast” (obsada), „soundtrack” (ścieżka dźwiękowa), „cinematography” (zdjęcia).",
+      "prompt": "Oceń krótko ostatni obejrzany film, wspominając o „acting” albo „story”."
+    },
+    {
+      "id": "b08-c20", "month": 2, "topic": 8,
+      "en": "I love going to **live music** venues on weekends.",
+      "pl": "Uwielbiam chodzić w weekendy do miejsc z muzyką na żywo.",
+      "phrasePl": "muzyka na żywo",
+      "note": "Uwaga na wymowę: „live” w znaczeniu „na żywo” wymawiamy /lajw/ (nie /liw/).",
+      "prompt": "Powiedz, kiedy ostatnio byłeś na koncercie z „live music”."
+    },
+    {
+      "id": "b08-c21", "month": 2, "topic": 8,
+      "en": "It's a great way to **unwind** after a busy week.",
+      "pl": "To świetny sposób, żeby się odprężyć po zabieganym tygodniu.",
+      "phrasePl": "odprężyć się / zrelaksować",
+      "note": "Wymowa /an-wajnd/. Synonim „wind down”.",
+      "prompt": "Powiedz, co pomaga Ci najlepiej „unwind” w piątkowy wieczór."
+    },
+    {
+      "id": "b08-c22", "month": 2, "topic": 8,
+      "en": "I'm a **big fan of** classic rock and jazz.",
+      "pl": "Jestem wielkim fanem klasycznego rocka i jazzu.",
+      "phrasePl": "być wielkim fanem",
+      "note": "Łatwy, naturalny szkielet do rozmów o muzyce, sporcie, kuchni i kinie.",
+      "prompt": "Powiedz, czego jesteś „a big fan of” — wymień dwie rzeczy."
+    },
+    {
+      "id": "b08-c23", "month": 2, "topic": 8,
+      "en": "The museum has a new **exhibition** on modern art.",
+      "pl": "Muzeum ma nową wystawę sztuki współczesnej.",
+      "phrasePl": "wystawa",
+      "note": "„On display” = na wystawie / eksponowane.",
+      "prompt": "Powiedz, czy lubisz chodzić na wystawy („exhibitions”) i jakie tematy Cię ciekawią."
+    },
+    {
+      "id": "b08-c24", "month": 2, "topic": 8,
+      "en": "Let's **play it by ear** and see how we feel later.",
+      "pl": "Zdecydujmy na bieżąco (zobaczymy w praniu), jak się będziemy później czuć.",
+      "phrasePl": "zdecydować na bieżąco / spontanicznie",
+      "note": "Genialny idiom na brak sztywnych planów na weekend.",
+      "prompt": "Znajomy pyta o plan na sobotę. Zaproponuj spontaniczne podejście z „play it by ear”."
+    },
+    {
+      "id": "b08-c25", "month": 2, "topic": 8,
+      "en": "I **scroll through** social media way too much before bed.",
+      "pl": "Zdecydowanie za dużo przewijam media społecznościowe przed snem.",
+      "phrasePl": "przewijać (ekran / feed)",
+      "note": "Bardzo aktualny zwrot codzienny.",
+      "prompt": "Powiedz szczerze, ile czasu dziennie „scroll through” telefon."
+    },
+    {
+      "id": "b08-c26", "month": 2, "topic": 8,
+      "en": "That comedian is **hilarious** — my stomach hurt from laughing.",
+      "pl": "Ten komik jest przekomiczny — aż brzuch mnie bolał ze śmiechu.",
+      "phrasePl": "przekomiczny / niesamowicie zabawny",
+      "note": "Mocniejsze i bardziej naturalne niż „very funny”.",
+      "prompt": "Wymień komedię albo komika, który jest Twoim zdaniem „hilarious”."
+    },
+    {
+      "id": "b08-c27", "month": 2, "topic": 8,
+      "en": "It was a bit **predictable**, I guessed the ending halfway through.",
+      "pl": "To było trochę przewidywalne, zgadłem zakończenie w połowie.",
+      "phrasePl": "przewidywalny",
+      "note": "Przeciwieństwo: „unpredictable” (nieprzewidywalny).",
+      "prompt": "Powiedz, co psuje Ci film najbardziej — czy to, że jest „predictable”?"
+    },
+    {
+      "id": "b08-c28", "month": 2, "topic": 8,
+      "en": "I'm **in the middle of** a really good novel right now.",
+      "pl": "Jestem teraz w połowie naprawdę dobrej powieści.",
+      "phrasePl": "być w trakcie (książki / serialu / pracy)",
+      "note": "Też: „Sorry, I'm in the middle of something” (jestem w trakcie czegoś).",
+      "prompt": "Powiedz, jakiej książki lub serialu jesteś teraz „in the middle of”."
+    },
+    {
+      "id": "b08-c29", "month": 2, "topic": 8,
+      "en": "We're **having friends over** for dinner tonight.",
+      "pl": "Mamy dziś znajomych w gościach na kolacji.",
+      "phrasePl": "zaprosić / gościć kogoś u siebie w domu",
+      "note": "„Come over” = wpaść do kogoś do domu; „have someone over” = zaprosić do siebie.",
+      "prompt": "Powiedz, jak często lubisz „have friends over” do domu."
+    },
+    {
+      "id": "b08-c30", "month": 2, "topic": 8,
+      "en": "I love **cooking from scratch** when I have time on Sunday.",
+      "pl": "Uwielbiam gotować od podstaw (ze świeżych składników), kiedy mam czas w niedzielę.",
+      "phrasePl": "od zera / od podstaw",
+      "note": "Używane w kuchni i projektach: „build something from scratch”.",
+      "prompt": "Powiedz, jakie danie lubisz przygotować „from scratch”."
+    },
+    {
+      "id": "b08-c31", "month": 2, "topic": 8,
+      "en": "The sequel wasn't **as good as** the original.",
+      "pl": "Druga część nie była tak dobra jak oryginał.",
+      "phrasePl": "tak dobry jak",
+      "note": "„Sequel” = kontynuacja filmu/książki; „remake” = nowa wersja.",
+      "prompt": "Porównaj dwie części znanego filmu, używając „as good as”."
+    },
+    {
+      "id": "b08-c32", "month": 2, "topic": 8,
+      "en": "I listen to **audiobooks** while driving or walking.",
+      "pl": "Słucham audiobooków podczas jazdy autem albo spaceru.",
+      "phrasePl": "audiobooki",
+      "note": "Świetny nawyk łączący przyjemne z pożytecznym!",
+      "prompt": "Powiedz, czy wolisz papierowe książki, e-booki czy „audiobooks”."
+    },
+    {
+      "id": "b08-c33", "month": 2, "topic": 8,
+      "en": "That café has a really **chill vibe**.",
+      "pl": "Ta kawiarnia ma naprawdę luźny, fajny klimat.",
+      "phrasePl": "luźny / fajny klimat",
+      "note": "„Vibe” = klimat / atmosfera miejsca albo osoby. Bardzo powszechne słowo.",
+      "prompt": "Opisz swoje ulubione miejsce na kawę, używając słowa „vibe”."
+    },
+    {
+      "id": "b08-c34", "month": 2, "topic": 8,
+      "en": "I'm **a bit rusty** at playing the guitar — I haven't practiced in months.",
+      "pl": "Trochę wyszedłem z wprawy w grze na gitarze — nie ćwiczyłem od miesięcy.",
+      "phrasePl": "wyjść z wprawy (zardzewieć)",
+      "note": "Często używane przy językach obcych: „My Spanish is a bit rusty.”",
+      "prompt": "Powiedz, w jakiej umiejętności jesteś obecnie „a bit rusty”."
+    },
+    {
+      "id": "b08-c35", "month": 2, "topic": 8,
+      "en": "We went **bar hopping** in the old town.",
+      "pl": "Chodziliśmy od baru do baru na starym mieście.",
+      "phrasePl": "chodzić od baru do baru",
+      "note": "Też: „café hopping” (odwiedzanie kilku kawiarni).",
+      "prompt": "Powiedz, czy wolisz jedno spokojne miejsce na cały wieczór, czy „bar hopping”."
+    },
+    {
+      "id": "b08-c36", "month": 2, "topic": 8,
+      "en": "This game is super **addictive** — I can't stop playing.",
+      "pl": "Ta gra jest strasznie wciągająca — nie mogę przestać grać.",
+      "phrasePl": "wciągający / uzależniający",
+      "note": "Używane dla gier, seriali, przekąsek i aplikacji.",
+      "prompt": "Wymień grę lub serial, który był dla Ciebie super „addictive”."
+    },
+    {
+      "id": "b08-c37", "month": 2, "topic": 8,
+      "en": "Let's **book seats** in the middle row at the cinema.",
+      "pl": "Zarezerwujmy miejsca w środkowym rzędzie w kinie.",
+      "phrasePl": "zarezerwować miejsca",
+      "note": "„Cinema” (UK) / „movie theater” (US).",
+      "prompt": "Powiedz, w którym rzędzie w kinie najbardziej lubisz „book seats”."
+    },
+    {
+      "id": "b08-c38", "month": 2, "topic": 8,
+      "en": "It's **based on a true story**, which makes it even better.",
+      "pl": "To jest oparte na prawdziwej historii, co czyni to jeszcze lepszym.",
+      "phrasePl": "oparte na prawdziwej historii",
+      "note": "Zawsze „based on” (nie „in”).",
+      "prompt": "Powiedz, czy chętniej oglądasz filmy „based on a true story” czy czystą fikcję."
+    },
+    {
+      "id": "b08-c39", "month": 2, "topic": 8,
+      "en": "I like to **spend time outdoors** whenever the weather is nice.",
+      "pl": "Lubię spędzać czas na świeżym powietrzu, kiedy tylko pogoda dopisuje.",
+      "phrasePl": "spędzać czas na zewnątrz / na dworze",
+      "note": "Przeciwieństwo: „indoors” (w pomieszczeniu).",
+      "prompt": "Powiedz, jak najchętniej „spend time outdoors” latem."
+    },
+    {
+      "id": "b08-c40", "month": 2, "topic": 8,
+      "en": "They're **going on tour** across Europe next summer.",
+      "pl": "Ruszają w trasę koncertową po Europie przyszłego lata.",
+      "phrasePl": "ruszyć w trasę koncertową",
+      "note": "„See a band live” = zobaczyć zespół na żywo.",
+      "prompt": "Powiedz, jaki zespół lub artystę chciałbyś zobaczyć, gdyby „went on tour” w Polsce."
+    },
+    {
+      "id": "b08-c41", "month": 2, "topic": 8,
+      "en": "I got **goosebumps** during the final scene.",
+      "pl": "Dostałem gęsiej skórki podczas finałowej sceny.",
+      "phrasePl": "gęsia skórka / ciarki",
+      "note": "Też od zimna albo świetnej muzyki.",
+      "prompt": "Powiedz, jaka piosenka lub scena filmowa przyprawia Cię o „goosebumps”."
+    },
+    {
+      "id": "b08-c42", "month": 2, "topic": 8,
+      "en": "It's a **must-see** if you ever visit Paris.",
+      "pl": "To obowiązkowy punkt, jeśli kiedykolwiek odwiedzisz Paryż.",
+      "phrasePl": "obowiązkowe do zobaczenia",
+      "note": "Podobnie: „a must-read” (obowiązkowa lektura), „a must-try” (trzeba spróbować).",
+      "prompt": "Poleć jedną rzecz w Polsce jako „a must-see” dla turysty z zagranicy."
+    },
+    {
+      "id": "b08-c43", "month": 2, "topic": 8,
+      "en": "I'm **catching a movie** with my brother tonight.",
+      "pl": "Wyskakuję dziś wieczorem do kina z bratem.",
+      "phrasePl": "wyskoczyć na film",
+      "note": "Potoczne „catch a movie / catch a show / catch a concert”.",
+      "prompt": "Zaproponuj znajomemu wspólne wyjście do kina, używając „catch a movie”."
+    },
+    {
+      "id": "b08-c44", "month": 2, "topic": 8,
+      "en": "I've been **meaning to** watch that series for ages.",
+      "pl": "Od wieków zabieram się za obejrzenie tego serialu.",
+      "phrasePl": "mieć zamiar / zabierać się za coś (od dłuższego czasu)",
+      "note": "Bardzo naturalny zwrot na rzeczy, które ciągle odkładasz na później.",
+      "prompt": "Powiedz o filmie lub książce, za którą „been meaning to” zabrać się od dawna."
+    },
+    {
+      "id": "b08-c45", "month": 2, "topic": 8,
+      "en": "It **exceeded my expectations** — I'd definitely go again.",
+      "pl": "Przerosło moje oczekiwania — zdecydowanie poszedłbym jeszcze raz.",
+      "phrasePl": "przerosnąć oczekiwania",
+      "note": "Elegancka i mocna rekomendacja dla restauracji, filmu, koncertu albo podróży.",
+      "prompt": "Powiedz o jednym miejscu lub filmie, które „exceeded your expectations”."
+    }
+  ],
+  "words": [
+    { "id": "b08-w001", "month": 2, "topic": 8, "en": "genre", "pl": "gatunek (filmu / muzyki)" },
+    { "id": "b08-w002", "month": 2, "topic": 8, "en": "thriller", "pl": "dreszczowiec / thriller" },
+    { "id": "b08-w003", "month": 2, "topic": 8, "en": "comedy", "pl": "komedia" },
+    { "id": "b08-w004", "month": 2, "topic": 8, "en": "documentary", "pl": "film dokumentalny" },
+    { "id": "b08-w005", "month": 2, "topic": 8, "en": "drama", "pl": "dramat" },
+    { "id": "b08-w006", "month": 2, "topic": 8, "en": "sci-fi", "pl": "science fiction" },
+    { "id": "b08-w007", "month": 2, "topic": 8, "en": "episode", "pl": "odcinek" },
+    { "id": "b08-w008", "month": 2, "topic": 8, "en": "season", "pl": "sezon (serialu)" },
+    { "id": "b08-w009", "month": 2, "topic": 8, "en": "trailer", "pl": "zwiastun" },
+    { "id": "b08-w010", "month": 2, "topic": 8, "en": "plot", "pl": "fabuła" },
+    { "id": "b08-w011", "month": 2, "topic": 8, "en": "character", "pl": "postać / bohater" },
+    { "id": "b08-w012", "month": 2, "topic": 8, "en": "cast", "pl": "obsada" },
+    { "id": "b08-w013", "month": 2, "topic": 8, "en": "director", "pl": "reżyser" },
+    { "id": "b08-w014", "month": 2, "topic": 8, "en": "soundtrack", "pl": "ścieżka dźwiękowa" },
+    { "id": "b08-w015", "month": 2, "topic": 8, "en": "sequel", "pl": "kontynuacja (część 2)" },
+    { "id": "b08-w016", "month": 2, "topic": 8, "en": "ending", "pl": "zakończenie" },
+    { "id": "b08-w017", "month": 2, "topic": 8, "en": "cliffhanger", "pl": "urwane zakończenie w napięciu" },
+    { "id": "b08-w018", "month": 2, "topic": 8, "en": "review", "pl": "recenzja" },
+    { "id": "b08-w019", "month": 2, "topic": 8, "en": "rating", "pl": "ocena" },
+    { "id": "b08-w020", "month": 2, "topic": 8, "en": "masterpiece", "pl": "arcydzieło" },
+    { "id": "b08-w021", "month": 2, "topic": 8, "en": "overrated", "pl": "przeceniany / przereklamowany" },
+    { "id": "b08-w022", "month": 2, "topic": 8, "en": "underrated", "pl": "niedoceniany" },
+    { "id": "b08-w023", "month": 2, "topic": 8, "en": "gripping", "pl": "trzymający w napięciu" },
+    { "id": "b08-w024", "month": 2, "topic": 8, "en": "moving", "pl": "poruszający / wzruszający" },
+    { "id": "b08-w025", "month": 2, "topic": 8, "en": "thought-provoking", "pl": "dający do myślenia" },
+    { "id": "b08-w026", "month": 2, "topic": 8, "en": "dull", "pl": "nudny / mdły" },
+    { "id": "b08-w027", "month": 2, "topic": 8, "en": "cheesy", "pl": "kiczowaty / tandetny" },
+    { "id": "b08-w028", "month": 2, "topic": 8, "en": "entertaining", "pl": "zabawny / rozrywkowy" },
+    { "id": "b08-w029", "month": 2, "topic": 8, "en": "novel", "pl": "powieść" },
+    { "id": "b08-w030", "month": 2, "topic": 8, "en": "non-fiction", "pl": "literatura faktu" },
+    { "id": "b08-w031", "month": 2, "topic": 8, "en": "biography", "pl": "biografia" },
+    { "id": "b08-w032", "month": 2, "topic": 8, "en": "chapter", "pl": "rozdział" },
+    { "id": "b08-w033", "month": 2, "topic": 8, "en": "author", "pl": "autor" },
+    { "id": "b08-w034", "month": 2, "topic": 8, "en": "bestseller", "pl": "bestseller" },
+    { "id": "b08-w035", "month": 2, "topic": 8, "en": "bookstore", "pl": "księgarnia" },
+    { "id": "b08-w036", "month": 2, "topic": 8, "en": "library", "pl": "biblioteka" },
+    { "id": "b08-w037", "month": 2, "topic": 8, "en": "podcast", "pl": "podcast" },
+    { "id": "b08-w038", "month": 2, "topic": 8, "en": "host", "pl": "prowadzący / gospodarz" },
+    { "id": "b08-w039", "month": 2, "topic": 8, "en": "playlist", "pl": "playlista" },
+    { "id": "b08-w040", "month": 2, "topic": 8, "en": "lyrics", "pl": "tekst piosenki" },
+    { "id": "b08-w041", "month": 2, "topic": 8, "en": "catchy", "pl": "chwytliwy (melodia)" },
+    { "id": "b08-w042", "month": 2, "topic": 8, "en": "chorus", "pl": "refren" },
+    { "id": "b08-w043", "month": 2, "topic": 8, "en": "gig", "pl": "koncert (potocznie)" },
+    { "id": "b08-w044", "month": 2, "topic": 8, "en": "venue", "pl": "miejsce wydarzenia / klub" },
+    { "id": "b08-w045", "month": 2, "topic": 8, "en": "stage", "pl": "scena" },
+    { "id": "b08-w046", "month": 2, "topic": 8, "en": "audience", "pl": "publiczność" },
+    { "id": "b08-w047", "month": 2, "topic": 8, "en": "encore", "pl": "bis" },
+    { "id": "b08-w048", "month": 2, "topic": 8, "en": "festival", "pl": "festiwal" },
+    { "id": "b08-w049", "month": 2, "topic": 8, "en": "theater", "pl": "teatr" },
+    { "id": "b08-w050", "month": 2, "topic": 8, "en": "play", "pl": "sztuka teatralna" },
+    { "id": "b08-w051", "month": 2, "topic": 8, "en": "stand-up", "pl": "występ stand-upowy" },
+    { "id": "b08-w052", "month": 2, "topic": 8, "en": "art gallery", "pl": "galeria sztuki" },
+    { "id": "b08-w053", "month": 2, "topic": 8, "en": "painting", "pl": "obraz" },
+    { "id": "b08-w054", "month": 2, "topic": 8, "en": "sculpture", "pl": "rzeźba" },
+    { "id": "b08-w055", "month": 2, "topic": 8, "en": "board game", "pl": "gra planszowa" },
+    { "id": "b08-w056", "month": 2, "topic": 8, "en": "card game", "pl": "gra karciana" },
+    { "id": "b08-w057", "month": 2, "topic": 8, "en": "video game", "pl": "gra wideo" },
+    { "id": "b08-w058", "month": 2, "topic": 8, "en": "puzzle", "pl": "układanka / zagadka" },
+    { "id": "b08-w059", "month": 2, "topic": 8, "en": "trivia", "pl": "quiz z wiedzy ogólnej" },
+    { "id": "b08-w060", "month": 2, "topic": 8, "en": "bowling", "pl": "kręgle" },
+    { "id": "b08-w061", "month": 2, "topic": 8, "en": "pool", "pl": "bilard (US)" },
+    { "id": "b08-w062", "month": 2, "topic": 8, "en": "chess", "pl": "szachy" },
+    { "id": "b08-w063", "month": 2, "topic": 8, "en": "camping", "pl": "biwakowanie / kemping" },
+    { "id": "b08-w064", "month": 2, "topic": 8, "en": "tent", "pl": "namiot" },
+    { "id": "b08-w065", "month": 2, "topic": 8, "en": "campfire", "pl": "ognisko" },
+    { "id": "b08-w066", "month": 2, "topic": 8, "en": "barbecue", "pl": "grill (impreza)" },
+    { "id": "b08-w067", "month": 2, "topic": 8, "en": "picnic", "pl": "piknik" },
+    { "id": "b08-w068", "month": 2, "topic": 8, "en": "fishing", "pl": "wędkowanie" },
+    { "id": "b08-w069", "month": 2, "topic": 8, "en": "gardening", "pl": "ogrodnictwo" },
+    { "id": "b08-w070", "month": 2, "topic": 8, "en": "baking", "pl": "pieczenie (ciast)" },
+    { "id": "b08-w071", "month": 2, "topic": 8, "en": "drawing", "pl": "rysowanie" },
+    { "id": "b08-w072", "month": 2, "topic": 8, "en": "photography", "pl": "fotografia" },
+    { "id": "b08-w073", "month": 2, "topic": 8, "en": "DIY", "pl": "majsterkowanie (zrób to sam)" },
+    { "id": "b08-w074", "month": 2, "topic": 8, "en": "crafts", "pl": "rękodzieło" },
+    { "id": "b08-w075", "month": 2, "topic": 8, "en": "volunteering", "pl": "wolontariat" },
+    { "id": "b08-w076", "month": 2, "topic": 8, "en": "workshop", "pl": "warsztaty" },
+    { "id": "b08-w077", "month": 2, "topic": 8, "en": "club", "pl": "klub" },
+    { "id": "b08-w078", "month": 2, "topic": 8, "en": "pub", "pl": "pub" },
+    { "id": "b08-w079", "month": 2, "topic": 8, "en": "lounge", "pl": "bar z wygodnymi kanapami" },
+    { "id": "b08-w080", "month": 2, "topic": 8, "en": "rooftop bar", "pl": "bar na dachu" },
+    { "id": "b08-w081", "month": 2, "topic": 8, "en": "nightlife", "pl": "życie nocne" },
+    { "id": "b08-w082", "month": 2, "topic": 8, "en": "atmosphere", "pl": "atmosfera" },
+    { "id": "b08-w083", "month": 2, "topic": 8, "en": "crowd", "pl": "tłum" },
+    { "id": "b08-w084", "month": 2, "topic": 8, "en": "guest", "pl": "gość" },
+    { "id": "b08-w085", "month": 2, "topic": 8, "en": "invitation", "pl": "zaproszenie" },
+    { "id": "b08-w086", "month": 2, "topic": 8, "en": "toast", "pl": "toast" },
+    { "id": "b08-w087", "month": 2, "topic": 8, "en": "cheers", "pl": "na zdrowie!" },
+    { "id": "b08-w088", "month": 2, "topic": 8, "en": "craft beer", "pl": "piwo rzemieślnicze" },
+    { "id": "b08-w089", "month": 2, "topic": 8, "en": "mocktail", "pl": "drink bezalkoholowy" },
+    { "id": "b08-w090", "month": 2, "topic": 8, "en": "hangover", "pl": "kac" },
+    { "id": "b08-w091", "month": 2, "topic": 8, "en": "streaming", "pl": "streaming (filmów / muzyki)" },
+    { "id": "b08-w092", "month": 2, "topic": 8, "en": "channel", "pl": "kanał" },
+    { "id": "b08-w093", "month": 2, "topic": 8, "en": "subscriber", "pl": "subskrybent" },
+    { "id": "b08-w094", "month": 2, "topic": 8, "en": "trending", "pl": "na czasie / popularne" },
+    { "id": "b08-w095", "month": 2, "topic": 8, "en": "viral", "pl": "wiralowy (szybko rozchodzący się)" },
+    { "id": "b08-w096", "month": 2, "topic": 8, "en": "meme", "pl": "mem" },
+    { "id": "b08-w097", "month": 2, "topic": 8, "en": "hobbyist", "pl": "hobbysta" },
+    { "id": "b08-w098", "month": 2, "topic": 8, "en": "amateur", "pl": "amator" },
+    { "id": "b08-w099", "month": 2, "topic": 8, "en": "pro", "pl": "profesjonalista" },
+    { "id": "b08-w100", "month": 2, "topic": 8, "en": "talent", "pl": "talent" },
+    { "id": "b08-w101", "month": 2, "topic": 8, "en": "passion", "pl": "pasja" },
+    { "id": "b08-w102", "month": 2, "topic": 8, "en": "pastime", "pl": "rozrywka / sposób spędzania czasu" },
+    { "id": "b08-w103", "month": 2, "topic": 8, "en": "leisure", "pl": "wypoczynek / czas wolny" },
+    { "id": "b08-w104", "month": 2, "topic": 8, "en": "spontaneous", "pl": "spontaniczny" },
+    { "id": "b08-w105", "month": 2, "topic": 8, "en": "memorable", "pl": "zapadający w pamięć" },
+    { "id": "b08-w106", "month": 2, "topic": 8, "en": "unforgettable", "pl": "niezapomniany" },
+    { "id": "b08-w107", "month": 2, "topic": 8, "en": "to chill", "pl": "wyluzować / odpocząć" },
+    { "id": "b08-w108", "month": 2, "topic": 8, "en": "to socialize", "pl": "spotykać się towarzysko" },
+    { "id": "b08-w109", "month": 2, "topic": 8, "en": "to perform", "pl": "występować (na scenie)" },
+    { "id": "b08-w110", "month": 2, "topic": 8, "en": "to rehearse", "pl": "mieć próbę (przed występem)" },
+    { "id": "b08-w111", "month": 2, "topic": 8, "en": "to applaud", "pl": "bić brawo" },
+    { "id": "b08-w112", "month": 2, "topic": 8, "en": "to stream", "pl": "oglądać / słuchać w streamingu" },
+    { "id": "b08-w113", "month": 2, "topic": 8, "en": "to skip", "pl": "pominąć (np. czołówkę / utwór)" },
+    { "id": "b08-w114", "month": 2, "topic": 8, "en": "to rewind", "pl": "przewinąć do tyłu" },
+    { "id": "b08-w115", "month": 2, "topic": 8, "en": "to pause", "pl": "zatrzymać / zapauzować" },
+    { "id": "b08-w116", "month": 2, "topic": 8, "en": "popcorn", "pl": "popcorn" },
+    { "id": "b08-w117", "month": 2, "topic": 8, "en": "box office", "pl": "kasa biletowa" },
+    { "id": "b08-w118", "month": 2, "topic": 8, "en": "front row", "pl": "pierwszy rząd" },
+    { "id": "b08-w119", "month": 2, "topic": 8, "en": "free admission", "pl": "wstęp wolny" },
+    { "id": "b08-w120", "month": 2, "topic": 8, "en": "weekend getaway", "pl": "wypad na weekend" }
+  ]
+}

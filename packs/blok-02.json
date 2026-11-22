@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 2,
+    "month": 1,
+    "title": "Codzienna rutyna, dom i nawyki"
+  },
+  "cards": [
+    {
+      "id": "b02-c01", "month": 1, "topic": 2,
+      "en": "I have to **run some errands** before noon.",
+      "pl": "Muszę załatwić kilka spraw na mieście przed południem.",
+      "phrasePl": "załatwić sprawy na mieście",
+      "note": "„Errands” to drobne codzienne sprawy: poczta, zakupy, apteka, pranie. Zawsze z czasownikiem „run”.",
+      "prompt": "Wymień na głos dwie sprawy, które musisz dziś załatwić, zaczynając od „I have to run some errands…”."
+    },
+    {
+      "id": "b02-c02", "month": 1, "topic": 2,
+      "en": "I love to **sleep in** on Sunday mornings.",
+      "pl": "Uwielbiam pospać dłużej w niedzielne poranki.",
+      "phrasePl": "pospać dłużej / wylegiwać się",
+      "note": "„Sleep in” = spać dłużej niż zwykle z wyboru. Natomiast „oversleep” = zaspać przez przypadek!",
+      "prompt": "Powiedz, w który dzień tygodnia lubisz „sleep in” i do której godziny wtedy śpisz."
+    },
+    {
+      "id": "b02-c03", "month": 1, "topic": 2,
+      "en": "I shouldn't **stay up late** tonight, I have an early meeting.",
+      "pl": "Nie powinienem dziś siedzieć do późna, mam wczesne spotkanie.",
+      "phrasePl": "siedzieć do późna (nie kłaść się spać)",
+      "note": "Bardzo częste w codziennej mowie. Przeciwieństwo: „go to bed early” albo „turn in early”.",
+      "prompt": "Powiedz, dlaczego ostatnio musiałeś „stay up late” — co wtedy robiłeś?"
+    },
+    {
+      "id": "b02-c04", "month": 1, "topic": 2,
+      "en": "I need to **catch up on** some sleep this weekend.",
+      "pl": "Muszę odespać / nadrobić sen w ten weekend.",
+      "phrasePl": "nadrobić zaległości (w czymś)",
+      "note": "„Catch up on + rzeczownik”: catch up on sleep, catch up on work, catch up on emails.",
+      "prompt": "Powiedz, jakie zaległości chcesz nadrobić w ten weekend, używając „catch up on”."
+    },
+    {
+      "id": "b02-c05", "month": 1, "topic": 2,
+      "en": "It took me a while to **get used to** waking up at six.",
+      "pl": "Zajęło mi trochę czasu, żeby przyzwyczaić się do wstawania o szóstej.",
+      "phrasePl": "przyzwyczaić się do",
+      "note": "Po „get used to” zawsze dajesz rzeczownik albo czasownik z końcówką -ing (waking, driving).",
+      "prompt": "Opowiedz o jednym nawyku, do którego trudno było Ci się „get used to”."
+    },
+    {
+      "id": "b02-c06", "month": 1, "topic": 2,
+      "en": "Let's **tidy up** the living room before the guests arrive.",
+      "pl": "Ogarnijmy / posprzątajmy salon zanim przyjdą goście.",
+      "phrasePl": "posprzątać / ogarnąć bałagan",
+      "note": "„Tidy up” to szybkie odkładanie rzeczy na miejsce (bardziej naturalne niż „clean” przy ogarnianiu pokoju).",
+      "prompt": "Powiedz, które pomieszczenie w domu najczęściej musisz „tidy up”."
+    },
+    {
+      "id": "b02-c07", "month": 1, "topic": 2,
+      "en": "Could you **take out the trash** on your way out?",
+      "pl": "Mógłbyś wynieść śmieci po drodze na zewnątrz?",
+      "phrasePl": "wynieść śmieci",
+      "note": "US: trash / garbage; UK: rubbish / bins („take out the bins”).",
+      "prompt": "Poproś domownika na głos o wyniesienie śmieci, używając „Could you take out the trash…”."
+    },
+    {
+      "id": "b02-c08", "month": 1, "topic": 2,
+      "en": "I still need to **do the laundry** and fold my clothes.",
+      "pl": "Muszę jeszcze zrobić pranie i poskładać ubrania.",
+      "phrasePl": "zrobić pranie",
+      "note": "Zawsze „do the laundry” (nigdy „make”). Podobnie: do the dishes, do the groceries.",
+      "prompt": "Powiedz, w który dzień tygodnia zwykle robisz pranie („do the laundry”)."
+    },
+    {
+      "id": "b02-c09", "month": 1, "topic": 2,
+      "en": "I'll **do the dishes** if you cook dinner.",
+      "pl": "Ja pozmywam naczynia, jeśli Ty ugotujesz obiad.",
+      "phrasePl": "pozmywać naczynia",
+      "note": "UK często mówi też „do the washing-up”. Obie wersje są w pełni zrozumiałe.",
+      "prompt": "Zaproponuj podział obowiązków w kuchni, używając „do the dishes”."
+    },
+    {
+      "id": "b02-c10", "month": 1, "topic": 2,
+      "en": "Don't forget to **make your bed** in the morning.",
+      "pl": "Nie zapomnij pościelić łóżka rano.",
+      "phrasePl": "pościelić łóżko",
+      "note": "Tutaj wyjątek — mówimy „make the bed” (nie „do”).",
+      "prompt": "Powiedz szczerze po angielsku, czy codziennie rano ścielisz łóżko („make my bed”)."
+    },
+    {
+      "id": "b02-c11", "month": 1, "topic": 2,
+      "en": "I usually **get ready** for work in twenty minutes.",
+      "pl": "Zazwyczaj szykuję się do pracy w dwadzieścia minut.",
+      "phrasePl": "szykować się / przygotować się",
+      "note": "Uniwersalny zwrot na poranne ogarnianie się: mycie, ubieranie, pakowanie.",
+      "prompt": "Powiedz, ile czasu zajmuje Ci rano, żeby „get ready” do wyjścia."
+    },
+    {
+      "id": "b02-c12", "month": 1, "topic": 2,
+      "en": "My alarm **went off** at seven, but I hit snooze.",
+      "pl": "Mój budzik zadzwonił o siódmej, ale wcisnąłem drzemkę.",
+      "phrasePl": "zadzwonił (budzik / alarm)",
+      "note": "„Go off” dla budzika lub alarmu znaczy „włączyć się / zadzwonić”, a nie „wyłączyć się”!",
+      "prompt": "Powiedz, o której godzinie Twój budzik „goes off” w dni robocze."
+    },
+    {
+      "id": "b02-c13", "month": 1, "topic": 2,
+      "en": "I **overslept** this morning and missed my bus.",
+      "pl": "Zaspałem dziś rano i uciekł mi autobus.",
+      "phrasePl": "zaspać",
+      "note": "Czasownik nieregularny: oversleep – overslept – overslept.",
+      "prompt": "Opowiedz krótko o sytuacji, kiedy ostatnio „overslept”."
+    },
+    {
+      "id": "b02-c14", "month": 1, "topic": 2,
+      "en": "I like to **wind down** with a cup of tea before bed.",
+      "pl": "Lubię się wyciszyć przy kubku herbaty przed snem.",
+      "phrasePl": "wyciszyć się / zrelaksować po dniu",
+      "note": "Wymowa „wind” jak /wajnd/ (nie /łind/ jak wiatr). Świetne słowo na wieczorny relaks.",
+      "prompt": "Powiedz, jak najczęściej lubisz „wind down” po długim dniu."
+    },
+    {
+      "id": "b02-c15", "month": 1, "topic": 2,
+      "en": "I'm going to **take a quick nap** after lunch.",
+      "pl": "Zrobię sobie szybką drzemkę po obiedzie.",
+      "phrasePl": "zrobić sobie drzemkę",
+      "note": "Można też powiedzieć „have a nap”. „Power nap” = krótka, regenerująca drzemka (15–20 min).",
+      "prompt": "Powiedz, czy lubisz „take a nap” w ciągu dnia i jak się potem czujesz."
+    },
+    {
+      "id": "b02-c16", "month": 1, "topic": 2,
+      "en": "I have to **pick up** some groceries on my way home.",
+      "pl": "Muszę zrobić drobne zakupy spożywcze po drodze do domu.",
+      "phrasePl": "kupić po drodze / odebrać",
+      "note": "„Pick up” znaczy zarówno „odebrać kogoś/paczkę”, jak i „kupić coś szybko po drodze”.",
+      "prompt": "Powiedz, co musisz dziś „pick up” po drodze do domu."
+    },
+    {
+      "id": "b02-c17", "month": 1, "topic": 2,
+      "en": "Can you **drop me off** at the station?",
+      "pl": "Możesz mnie podrzucić na dworzec?",
+      "phrasePl": "podrzucić kogoś / zostawić coś",
+      "note": "Przeciwieństwo „pick up”. Używane też dla paczek i ubrań: drop off a package.",
+      "prompt": "Poproś znajomego o podrzucenie w konkretne miejsce, używając „drop me off”."
+    },
+    {
+      "id": "b02-c18", "month": 1, "topic": 2,
+      "en": "I try to **stick to** a regular morning routine.",
+      "pl": "Staram się trzymać stałej porannej rutyny.",
+      "phrasePl": "trzymać się (planu / nawyku)",
+      "note": "„Stick to + plan / diet / schedule” = konsekwentnie się czegoś trzymać.",
+      "prompt": "Powiedz o jednym nawyku, którego starasz się „stick to” w tym miesiącu."
+    },
+    {
+      "id": "b02-c19", "month": 1, "topic": 2,
+      "en": "I'm trying to **get into the habit of** reading every night.",
+      "pl": "Staram się wyrobić nawyk czytania każdego wieczoru.",
+      "phrasePl": "wyrobić sobie nawyk",
+      "note": "Po „of” zawsze czasownik z -ing (reading, walking, practicing).",
+      "prompt": "Powiedz, jaki nawyk chcesz sobie wyrobić, używając „get into the habit of”."
+    },
+    {
+      "id": "b02-c20", "month": 1, "topic": 2,
+      "en": "It's hard to **break the habit** of checking my phone in bed.",
+      "pl": "Trudno zerwać z nawykiem sprawdzania telefonu w łóżku.",
+      "phrasePl": "zerwać z nawykiem",
+      "note": "Naturalna kolokacja z „habit”: build / form a habit (budować), break a habit (zerwać).",
+      "prompt": "Wymień jeden drobny nawyk, z którym chciałbyś „break the habit”."
+    },
+    {
+      "id": "b02-c21", "month": 1, "topic": 2,
+      "en": "I **commute to work** by train every day.",
+      "pl": "Dojeżdżam codziennie do pracy pociągiem.",
+      "phrasePl": "dojeżdżać do pracy",
+      "note": "„Commute” to zarówno czasownik, jak i rzeczownik („My commute takes 30 minutes”).",
+      "prompt": "Powiedz, jak i ile czasu zajmuje Ci dojazd („commute”) lub czy pracujesz z domu."
+    },
+    {
+      "id": "b02-c22", "month": 1, "topic": 2,
+      "en": "I usually **work from home** on Fridays.",
+      "pl": "Zwykle pracuję z domu w piątki.",
+      "phrasePl": "pracować z domu (zdalnie)",
+      "note": "W skrócie pisemnym często „WFH”. Inny wariant: „work remotely”.",
+      "prompt": "Powiedz, czy wolisz „work from home” czy z biura i podaj jeden powód."
+    },
+    {
+      "id": "b02-c23", "month": 1, "topic": 2,
+      "en": "Let's **eat out** tonight — I don't feel like cooking.",
+      "pl": "Zjedzmy dziś na mieście — nie chce mi się gotować.",
+      "phrasePl": "zjeść na mieście (w restauracji)",
+      "note": "Przeciwieństwo: „eat in” albo „order in” (zamówić jedzenie do domu).",
+      "prompt": "Zaproponuj znajomemu wyjście na kolację z użyciem „eat out”."
+    },
+    {
+      "id": "b02-c24", "month": 1, "topic": 2,
+      "en": "We have plenty of **leftovers** from yesterday's dinner.",
+      "pl": "Mamy mnóstwo resztek z wczorajszego obiadu.",
+      "phrasePl": "resztki (jedzenia z poprzedniego dnia)",
+      "note": "Zawsze w liczbie mnogiej. Bardzo codzienne słowo w domu: „Let's heat up the leftovers.”",
+      "prompt": "Powiedz, czy lubisz odgrzewać „leftovers” na obiad kolejnego dnia."
+    },
+    {
+      "id": "b02-c25", "month": 1, "topic": 2,
+      "en": "Could you **turn down** the TV a bit?",
+      "pl": "Mógłbyś trochę przyciszyć telewizor?",
+      "phrasePl": "przyciszyć (dźwięk / ogrzewanie)",
+      "note": "„Turn down” = ściszyć / zmniejszyć, „turn up” = podgłośnić / podkręcić.",
+      "prompt": "Poproś kogoś o ściszenie muzyki lub podkręcenie ogrzewania, używając „turn down / turn up”."
+    },
+    {
+      "id": "b02-c26", "month": 1, "topic": 2,
+      "en": "I forgot to **charge my phone** last night.",
+      "pl": "Zapomniałem wczoraj wieczorem naładować telefon.",
+      "phrasePl": "naładować telefon",
+      "note": "Przydatne też: „My battery is dying” (padła mi prawie bateria) / „My phone is dead” (rozładował się).",
+      "prompt": "Powiedz, ile procent baterii ma teraz Twój telefon i czy musisz „charge my phone”."
+    },
+    {
+      "id": "b02-c27", "month": 1, "topic": 2,
+      "en": "I need to **put away** the clean clothes.",
+      "pl": "Muszę schować czyste ubrania na miejsce.",
+      "phrasePl": "odłożyć / schować na miejsce",
+      "note": "Używane dla wszystkiego: put away the groceries, put away the toys, put away the dishes.",
+      "prompt": "Powiedz, jaką rzecz w domu odkładasz na później zamiast ją od razu „put away”."
+    },
+    {
+      "id": "b02-c28", "month": 1, "topic": 2,
+      "en": "We should **get rid of** all these old magazines.",
+      "pl": "Powinniśmy się pozbyć tych wszystkich starych gazet.",
+      "phrasePl": "pozbyć się",
+      "note": "Bardzo uniwersalne: get rid of clutter, get rid of a headache, get rid of old stuff.",
+      "prompt": "Wymień dwie rzeczy ze swojej szafy lub biurka, których chcesz się „get rid of”."
+    },
+    {
+      "id": "b02-c29", "month": 1, "topic": 2,
+      "en": "The kitchen sink is **leaking** again.",
+      "pl": "Zlew w kuchni znowu przecieka.",
+      "phrasePl": "przeciekać",
+      "note": "Rzeczownik: „a leak” („We have a leak in the bathroom”).",
+      "prompt": "Wyobraź sobie, że dzwonisz do hydraulika lub właściciela mieszkania i zgłaszasz, że coś „is leaking”."
+    },
+    {
+      "id": "b02-c30", "month": 1, "topic": 2,
+      "en": "The washing machine **broke down** yesterday.",
+      "pl": "Pralka zepsuła się wczoraj.",
+      "phrasePl": "zepsuła się (maszyna / auto)",
+      "note": "„Break down” używamy dla urządzeń mechanicznych i pojazdów (auto, pralka, winda).",
+      "prompt": "Opowiedz krótko o sprzęcie lub aucie, które kiedyś „broke down” w złym momencie."
+    },
+    {
+      "id": "b02-c31", "month": 1, "topic": 2,
+      "en": "I have to **pay the bills** before the end of the month.",
+      "pl": "Muszę opłacić rachunki przed końcem miesiąca.",
+      "phrasePl": "opłacić rachunki",
+      "note": "Utility bills = rachunki za media (prąd, gaz, woda).",
+      "prompt": "Powiedz, jak zwykle opłacasz rachunki („pay the bills”) — online czy automatycznie?"
+    },
+    {
+      "id": "b02-c32", "month": 1, "topic": 2,
+      "en": "I'm **in a rush** right now, can I call you back?",
+      "pl": "Spieszę się teraz, mogę oddzwonić?",
+      "phrasePl": "spieszyć się / być w biegu",
+      "note": "Synonim: „in a hurry”. „No rush!” = „Nie spiesz się / na spokojnie!”.",
+      "prompt": "Odbierz wyimaginowany telefon i powiedz, że jesteś „in a rush” i oddzwonisz za godzinę."
+    },
+    {
+      "id": "b02-c33", "month": 1, "topic": 2,
+      "en": "**Take your time**, there's no need to hurry.",
+      "pl": "Nie spiesz się / na spokojnie, nie ma pośpiechu.",
+      "phrasePl": "nie spiesz się / rób na spokojnie",
+      "note": "Bardzo uprzejmy zwrot, gdy na kogoś czekasz albo ktoś się zastanawia.",
+      "prompt": "Uspokój kogoś, kto się spieszy, mówiąc „Take your time…” i dodaj jeszcze jedno zdanie."
+    },
+    {
+      "id": "b02-c34", "month": 1, "topic": 2,
+      "en": "I'm **running behind schedule** today.",
+      "pl": "Mam dziś opóźnienie w planie dnia.",
+      "phrasePl": "mieć opóźnienie / być w plecy z planem",
+      "note": "Przeciwieństwo: „ahead of schedule” (przed czasem) i „on schedule” (zgodnie z planem).",
+      "prompt": "Powiedz, kiedy ostatnio byłeś „running behind schedule” i co się wtedy działo."
+    },
+    {
+      "id": "b02-c35", "month": 1, "topic": 2,
+      "en": "I've got **a lot on my plate** this week.",
+      "pl": "Mam w tym tygodniu mnóstwo na głowie.",
+      "phrasePl": "mieć dużo na głowie",
+      "note": "Bardzo częsty idiom w pracy i w domu, gdy masz za dużo zadań naraz.",
+      "prompt": "Powiedz, dlaczego masz w tym tygodniu „a lot on my plate”."
+    },
+    {
+      "id": "b02-c36", "month": 1, "topic": 2,
+      "en": "Let's **set a reminder** so we don't forget.",
+      "pl": "Ustawmy przypomnienie, żebyśmy nie zapomnieli.",
+      "phrasePl": "ustawić przypomnienie",
+      "note": "„Set an alarm” = ustawić budzik, „set a reminder” = ustawić przypomnienie.",
+      "prompt": "Powiedz, na co najczęściej musisz „set a reminder” w telefonie."
+    },
+    {
+      "id": "b02-c37", "month": 1, "topic": 2,
+      "en": "I usually **take a shower** right after waking up.",
+      "pl": "Zazwyczaj biorę prysznic zaraz po przebudzeniu.",
+      "phrasePl": "wziąć prysznic",
+      "note": "US: take a shower; UK: have a shower. Obie wersje są naturalne.",
+      "prompt": "Powiedz, czy wolisz „take a shower” rano czy wieczorem i dlaczego."
+    },
+    {
+      "id": "b02-c38", "month": 1, "topic": 2,
+      "en": "I **locked myself out** of the apartment once.",
+      "pl": "Raz zatrzasnąłem sobie drzwi do mieszkania (zostawiając klucze w środku).",
+      "phrasePl": "zatrzasnąć się na zewnątrz (bez kluczy)",
+      "note": "Świetny, konkretny zwrot — po polsku wymaga długiego opisania, po angielsku to trzy słowa.",
+      "prompt": "Powiedz po angielsku, czy kiedykolwiek „locked yourself out” albo zgubiłeś klucze."
+    },
+    {
+      "id": "b02-c39", "month": 1, "topic": 2,
+      "en": "I'm going to **stay in** and watch a movie tonight.",
+      "pl": "Zostanę dziś w domu i obejrzę film.",
+      "phrasePl": "zostać w domu",
+      "note": "Naturalna para: „go out” (wyjść z domu) vs „stay in” (zostać w domu).",
+      "prompt": "Powiedz, czy w ten piątek wolisz „go out” czy „stay in”."
+    },
+    {
+      "id": "b02-c40", "month": 1, "topic": 2,
+      "en": "Don't forget to **water the plants** while I'm away.",
+      "pl": "Nie zapomnij podlać roślin, kiedy mnie nie będzie.",
+      "phrasePl": "podlać rośliny",
+      "note": "„Water” jako czasownik = podlewać (bez „give water”).",
+      "prompt": "Poproś znajomego o opiekę nad mieszkaniem podczas wyjazdu, używając „water the plants”."
+    },
+    {
+      "id": "b02-c41", "month": 1, "topic": 2,
+      "en": "I need to **make a grocery list** before going to the store.",
+      "pl": "Muszę zrobić listę zakupów przed wyjściem do sklepu.",
+      "phrasePl": "zrobić listę zakupów",
+      "note": "„Groceries” = zakupy spożywcze / artykuły codziennego użytku.",
+      "prompt": "Powiedz, czy zawsze robisz „a grocery list”, czy kupujesz z głowy."
+    },
+    {
+      "id": "b02-c42", "month": 1, "topic": 2,
+      "en": "I **fell asleep** on the couch halfway through the show.",
+      "pl": "Zasnąłem na kanapie w połowie serialu.",
+      "phrasePl": "zasnąć",
+      "note": "Nie mów „I slept on the couch” jeśli masz na myśli moment zaśnięcia — wtedy „fall asleep” (fell asleep).",
+      "prompt": "Powiedz, jak szybko zazwyczaj zasypiasz („fall asleep”) wieczorem."
+    },
+    {
+      "id": "b02-c43", "month": 1, "topic": 2,
+      "en": "I try to **make time for** English every single day.",
+      "pl": "Staram się znaleźć czas na angielski każdego dnia.",
+      "phrasePl": "znaleźć / wygospodarować czas na",
+      "note": "„Make time for” brzmi dużo aktywniej niż „have time” — oznacza świadome wygospodarowanie czasu.",
+      "prompt": "Powiedz, na jakie dwie rzeczy starasz się „make time for” mimo zabieganego tygodnia."
+    },
+    {
+      "id": "b02-c44", "month": 1, "topic": 2,
+      "en": "We're **out of** coffee, so I'll buy some today.",
+      "pl": "Skończyła nam się kawa, więc dziś kupię.",
+      "phrasePl": "nie mieć już / skończyło się",
+      "note": "Krótsza wersja „run out of”: „We're out of milk / eggs / paper.”",
+      "prompt": "Zajrzyj w myślach do lodówki i powiedz, czego „we're out of”."
+    },
+    {
+      "id": "b02-c45", "month": 1, "topic": 2,
+      "en": "I'm finally **done for the day** — time to relax.",
+      "pl": "Wreszcie skończyłem na dziś — czas na relaks.",
+      "phrasePl": "skończyć na dziś (z pracą / obowiązkami)",
+      "note": "Bardzo naturalne zamknięcie dnia pracy. Podobnie: „call it a day”.",
+      "prompt": "Powiedz, o której godzinie zazwyczaj jesteś „done for the day” i co robisz jako pierwszą rzecz potem."
+    }
+  ],
+  "words": [
+    { "id": "b02-w001", "month": 1, "topic": 2, "en": "routine", "pl": "rutyna" },
+    { "id": "b02-w002", "month": 1, "topic": 2, "en": "habit", "pl": "nawyk" },
+    { "id": "b02-w003", "month": 1, "topic": 2, "en": "chores", "pl": "obowiązki domowe" },
+    { "id": "b02-w004", "month": 1, "topic": 2, "en": "errand", "pl": "sprawa do załatwienia" },
+    { "id": "b02-w005", "month": 1, "topic": 2, "en": "alarm clock", "pl": "budzik" },
+    { "id": "b02-w006", "month": 1, "topic": 2, "en": "snooze", "pl": "drzemka (w budziku)" },
+    { "id": "b02-w007", "month": 1, "topic": 2, "en": "to wake up", "pl": "obudzić się" },
+    { "id": "b02-w008", "month": 1, "topic": 2, "en": "to get up", "pl": "wstać z łóżka" },
+    { "id": "b02-w009", "month": 1, "topic": 2, "en": "to brush teeth", "pl": "myć zęby" },
+    { "id": "b02-w010", "month": 1, "topic": 2, "en": "to get dressed", "pl": "ubrać się" },
+    { "id": "b02-w011", "month": 1, "topic": 2, "en": "breakfast", "pl": "śniadanie" },
+    { "id": "b02-w012", "month": 1, "topic": 2, "en": "lunch", "pl": "lunch / drugie śniadanie" },
+    { "id": "b02-w013", "month": 1, "topic": 2, "en": "dinner", "pl": "obiad / kolacja" },
+    { "id": "b02-w014", "month": 1, "topic": 2, "en": "snack", "pl": "przekąska" },
+    { "id": "b02-w015", "month": 1, "topic": 2, "en": "groceries", "pl": "zakupy spożywcze" },
+    { "id": "b02-w016", "month": 1, "topic": 2, "en": "fridge", "pl": "lodówka" },
+    { "id": "b02-w017", "month": 1, "topic": 2, "en": "freezer", "pl": "zamrażarka" },
+    { "id": "b02-w018", "month": 1, "topic": 2, "en": "oven", "pl": "piekarnik" },
+    { "id": "b02-w019", "month": 1, "topic": 2, "en": "stove", "pl": "kuchenka" },
+    { "id": "b02-w020", "month": 1, "topic": 2, "en": "kettle", "pl": "czajnik" },
+    { "id": "b02-w021", "month": 1, "topic": 2, "en": "microwave", "pl": "mikrofalówka" },
+    { "id": "b02-w022", "month": 1, "topic": 2, "en": "dishwasher", "pl": "zmywarka" },
+    { "id": "b02-w023", "month": 1, "topic": 2, "en": "sink", "pl": "zlew / umywalka" },
+    { "id": "b02-w024", "month": 1, "topic": 2, "en": "faucet", "pl": "kran (US)" },
+    { "id": "b02-w025", "month": 1, "topic": 2, "en": "tap", "pl": "kran (UK)" },
+    { "id": "b02-w026", "month": 1, "topic": 2, "en": "counter", "pl": "blat kuchenny" },
+    { "id": "b02-w027", "month": 1, "topic": 2, "en": "drawer", "pl": "szuflada" },
+    { "id": "b02-w028", "month": 1, "topic": 2, "en": "cupboard", "pl": "szafka kuchenna" },
+    { "id": "b02-w029", "month": 1, "topic": 2, "en": "shelf", "pl": "półka" },
+    { "id": "b02-w030", "month": 1, "topic": 2, "en": "closet", "pl": "szafa (US)" },
+    { "id": "b02-w031", "month": 1, "topic": 2, "en": "wardrobe", "pl": "szafa na ubrania" },
+    { "id": "b02-w032", "month": 1, "topic": 2, "en": "couch", "pl": "kanapa" },
+    { "id": "b02-w033", "month": 1, "topic": 2, "en": "armchair", "pl": "fotel" },
+    { "id": "b02-w034", "month": 1, "topic": 2, "en": "rug", "pl": "dywanik" },
+    { "id": "b02-w035", "month": 1, "topic": 2, "en": "curtains", "pl": "zasłony" },
+    { "id": "b02-w036", "month": 1, "topic": 2, "en": "blinds", "pl": "rolety / żaluzje" },
+    { "id": "b02-w037", "month": 1, "topic": 2, "en": "pillow", "pl": "poduszka" },
+    { "id": "b02-w038", "month": 1, "topic": 2, "en": "blanket", "pl": "koc" },
+    { "id": "b02-w039", "month": 1, "topic": 2, "en": "sheets", "pl": "pościel / prześcieradło" },
+    { "id": "b02-w040", "month": 1, "topic": 2, "en": "towel", "pl": "ręcznik" },
+    { "id": "b02-w041", "month": 1, "topic": 2, "en": "soap", "pl": "mydło" },
+    { "id": "b02-w042", "month": 1, "topic": 2, "en": "toothbrush", "pl": "szczoteczka do zębów" },
+    { "id": "b02-w043", "month": 1, "topic": 2, "en": "mirror", "pl": "lustro" },
+    { "id": "b02-w044", "month": 1, "topic": 2, "en": "heater", "pl": "grzejnik / kaloryfer" },
+    { "id": "b02-w045", "month": 1, "topic": 2, "en": "air conditioning", "pl": "klimatyzacja" },
+    { "id": "b02-w046", "month": 1, "topic": 2, "en": "light bulb", "pl": "żarówka" },
+    { "id": "b02-w047", "month": 1, "topic": 2, "en": "outlet", "pl": "gniazdko elektryczne" },
+    { "id": "b02-w048", "month": 1, "topic": 2, "en": "charger", "pl": "ładowarka" },
+    { "id": "b02-w049", "month": 1, "topic": 2, "en": "extension cord", "pl": "przedłużacz" },
+    { "id": "b02-w050", "month": 1, "topic": 2, "en": "remote control", "pl": "pilot (do TV)" },
+    { "id": "b02-w051", "month": 1, "topic": 2, "en": "vacuum cleaner", "pl": "odkurzacz" },
+    { "id": "b02-w052", "month": 1, "topic": 2, "en": "to vacuum", "pl": "odkurzać" },
+    { "id": "b02-w053", "month": 1, "topic": 2, "en": "to sweep", "pl": "zamiatać" },
+    { "id": "b02-w054", "month": 1, "topic": 2, "en": "to mop", "pl": "myć podłogę mopem" },
+    { "id": "b02-w055", "month": 1, "topic": 2, "en": "to wipe", "pl": "wytrzeć / przetrzeć" },
+    { "id": "b02-w056", "month": 1, "topic": 2, "en": "to dust", "pl": "ścierać kurz" },
+    { "id": "b02-w057", "month": 1, "topic": 2, "en": "to iron", "pl": "prasować" },
+    { "id": "b02-w058", "month": 1, "topic": 2, "en": "to fold", "pl": "składać (ubrania)" },
+    { "id": "b02-w059", "month": 1, "topic": 2, "en": "to hang up", "pl": "powiesić" },
+    { "id": "b02-w060", "month": 1, "topic": 2, "en": "sponge", "pl": "gąbka" },
+    { "id": "b02-w061", "month": 1, "topic": 2, "en": "detergent", "pl": "detergent / płyn do prania" },
+    { "id": "b02-w062", "month": 1, "topic": 2, "en": "trash can", "pl": "kosz na śmieci" },
+    { "id": "b02-w063", "month": 1, "topic": 2, "en": "recycling", "pl": "segregacja / recykling" },
+    { "id": "b02-w064", "month": 1, "topic": 2, "en": "mess", "pl": "bałagan" },
+    { "id": "b02-w065", "month": 1, "topic": 2, "en": "messy", "pl": "zabałaganiony" },
+    { "id": "b02-w066", "month": 1, "topic": 2, "en": "neat", "pl": "schludny / uporządkowany" },
+    { "id": "b02-w067", "month": 1, "topic": 2, "en": "clutter", "pl": "graty / zagracenie" },
+    { "id": "b02-w068", "month": 1, "topic": 2, "en": "cozy", "pl": "przytulny" },
+    { "id": "b02-w069", "month": 1, "topic": 2, "en": "spacious", "pl": "przestronny" },
+    { "id": "b02-w070", "month": 1, "topic": 2, "en": "noisy", "pl": "hałaśliwy" },
+    { "id": "b02-w071", "month": 1, "topic": 2, "en": "quiet", "pl": "cichy" },
+    { "id": "b02-w072", "month": 1, "topic": 2, "en": "landlord", "pl": "właściciel wynajmowanego mieszkania" },
+    { "id": "b02-w073", "month": 1, "topic": 2, "en": "tenant", "pl": "najemca / lokator" },
+    { "id": "b02-w074", "month": 1, "topic": 2, "en": "rent", "pl": "czynsz" },
+    { "id": "b02-w075", "month": 1, "topic": 2, "en": "utilities", "pl": "media (prąd, woda, gaz)" },
+    { "id": "b02-w076", "month": 1, "topic": 2, "en": "lease", "pl": "umowa najmu" },
+    { "id": "b02-w077", "month": 1, "topic": 2, "en": "roommate", "pl": "współlokator" },
+    { "id": "b02-w078", "month": 1, "topic": 2, "en": "balcony", "pl": "balkon" },
+    { "id": "b02-w079", "month": 1, "topic": 2, "en": "hallway", "pl": "przedpokój / korytarz" },
+    { "id": "b02-w080", "month": 1, "topic": 2, "en": "basement", "pl": "piwnica" },
+    { "id": "b02-w081", "month": 1, "topic": 2, "en": "attic", "pl": "strych" },
+    { "id": "b02-w082", "month": 1, "topic": 2, "en": "stairs", "pl": "schody" },
+    { "id": "b02-w083", "month": 1, "topic": 2, "en": "elevator", "pl": "winda" },
+    { "id": "b02-w084", "month": 1, "topic": 2, "en": "doorbell", "pl": "dzwonek do drzwi" },
+    { "id": "b02-w085", "month": 1, "topic": 2, "en": "lock", "pl": "zamek (w drzwiach)" },
+    { "id": "b02-w086", "month": 1, "topic": 2, "en": "spare key", "pl": "zapasowy klucz" },
+    { "id": "b02-w087", "month": 1, "topic": 2, "en": "plumber", "pl": "hydraulik" },
+    { "id": "b02-w088", "month": 1, "topic": 2, "en": "electrician", "pl": "elektryk" },
+    { "id": "b02-w089", "month": 1, "topic": 2, "en": "to fix", "pl": "naprawić" },
+    { "id": "b02-w090", "month": 1, "topic": 2, "en": "to replace", "pl": "wymienić (na nowe)" },
+    { "id": "b02-w091", "month": 1, "topic": 2, "en": "to boil", "pl": "zagotować" },
+    { "id": "b02-w092", "month": 1, "topic": 2, "en": "to fry", "pl": "smażyć" },
+    { "id": "b02-w093", "month": 1, "topic": 2, "en": "to bake", "pl": "piec" },
+    { "id": "b02-w094", "month": 1, "topic": 2, "en": "to chop", "pl": "pokroić / posiekać" },
+    { "id": "b02-w095", "month": 1, "topic": 2, "en": "to heat up", "pl": "podgrzać" },
+    { "id": "b02-w096", "month": 1, "topic": 2, "en": "to pour", "pl": "nalać" },
+    { "id": "b02-w097", "month": 1, "topic": 2, "en": "to spill", "pl": "rozlać" },
+    { "id": "b02-w098", "month": 1, "topic": 2, "en": "weekday", "pl": "dzień roboczy" },
+    { "id": "b02-w099", "month": 1, "topic": 2, "en": "day off", "pl": "dzień wolny" },
+    { "id": "b02-w100", "month": 1, "topic": 2, "en": "daily", "pl": "codzienny / codziennie" },
+    { "id": "b02-w101", "month": 1, "topic": 2, "en": "weekly", "pl": "cotygodniowy" },
+    { "id": "b02-w102", "month": 1, "topic": 2, "en": "monthly", "pl": "miesięczny" },
+    { "id": "b02-w103", "month": 1, "topic": 2, "en": "early bird", "pl": "ranny ptaszek" },
+    { "id": "b02-w104", "month": 1, "topic": 2, "en": "night owl", "pl": "nocny marek" },
+    { "id": "b02-w105", "month": 1, "topic": 2, "en": "exhausted", "pl": "wykończony" },
+    { "id": "b02-w106", "month": 1, "topic": 2, "en": "sleepy", "pl": "śpiący" },
+    { "id": "b02-w107", "month": 1, "topic": 2, "en": "awake", "pl": "obudzony / na nogach" },
+    { "id": "b02-w108", "month": 1, "topic": 2, "en": "busy", "pl": "zajęty / zabiegany" },
+    { "id": "b02-w109", "month": 1, "topic": 2, "en": "free time", "pl": "czas wolny" },
+    { "id": "b02-w110", "month": 1, "topic": 2, "en": "to-do list", "pl": "lista zadań" },
+    { "id": "b02-w111", "month": 1, "topic": 2, "en": "to check off", "pl": "odhaczyć (na liście)" },
+    { "id": "b02-w112", "month": 1, "topic": 2, "en": "to switch off", "pl": "wyłączyć" },
+    { "id": "b02-w113", "month": 1, "topic": 2, "en": "to plug in", "pl": "podłączyć do prądu" },
+    { "id": "b02-w114", "month": 1, "topic": 2, "en": "to unplug", "pl": "odłączyć z prądu" },
+    { "id": "b02-w115", "month": 1, "topic": 2, "en": "to lock up", "pl": "pozamykać na klucz" },
+    { "id": "b02-w116", "month": 1, "topic": 2, "en": "mailbox", "pl": "skrzynka na listy" },
+    { "id": "b02-w117", "month": 1, "topic": 2, "en": "parcel", "pl": "paczka / przesyłka" },
+    { "id": "b02-w118", "month": 1, "topic": 2, "en": "to run late", "pl": "spóźniać się" },
+    { "id": "b02-w119", "month": 1, "topic": 2, "en": "to rest", "pl": "odpoczywać" },
+    { "id": "b02-w120", "month": 1, "topic": 2, "en": "bedtime", "pl": "pora spania" }
+  ]
+}

@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 12,
+    "month": 3,
+    "title": "Najważniejsze Phrasal Verbs i idiomy"
+  },
+  "cards": [
+    {
+      "id": "b12-c01", "month": 3, "topic": 12,
+      "en": "I'm glad you **brought up** that question during the meeting.",
+      "pl": "Cieszę się, że poruszyłeś tę kwestię podczas spotkania.",
+      "phrasePl": "poruszyć temat / wspomnieć o czymś",
+      "note": "„Bring up” znaczy też „wychować dziecko” — w rozmowie najczęściej jednak „poruszyć temat”.",
+      "prompt": "Powiedz o jednym temacie, który warto „bring up” na najbliższym spotkaniu."
+    },
+    {
+      "id": "b12-c02", "month": 3, "topic": 12,
+      "en": "Don't **give up** just because the first week feels hard.",
+      "pl": "Nie poddawaj się tylko dlatego, że pierwszy tydzień wydaje się trudny.",
+      "phrasePl": "poddać się / rzucić coś",
+      "note": "Też: „give up + rzeczownik / -ing” (rzucić coś, np. give up coffee).",
+      "prompt": "Zmotywuj znajomego w jednym zdaniu, używając „Don't give up…”."
+    },
+    {
+      "id": "b12-c03", "month": 3, "topic": 12,
+      "en": "Stop **putting off** that dentist appointment!",
+      "pl": "Przestań odkładać na później tę wizytę u dentysty!",
+      "phrasePl": "odkładać na później / zwlekać",
+      "note": "Codzienny odpowiednik formalnego „postpone”. Po „put off” czasownik z -ing.",
+      "prompt": "Przyznaj się na głos do jednej rzeczy, którą ciągle „putting off”."
+    },
+    {
+      "id": "b12-c04", "month": 3, "topic": 12,
+      "en": "I don't have the energy to **deal with** this right now.",
+      "pl": "Nie mam teraz energii, żeby się tym zajmować / radzić sobie z tym.",
+      "phrasePl": "radzić sobie z / zajmować się problemem",
+      "note": "Jeden z najbardziej uniwersalnych czasowników złożonych w całym angielskim.",
+      "prompt": "Powiedz, z jakim drobnym problemem musiałeś ostatnio „deal with”."
+    },
+    {
+      "id": "b12-c05", "month": 3, "topic": 12,
+      "en": "Can you **carry on** while I take this call?",
+      "pl": "Możesz kontynuować, podczas gdy ja odbiorę ten telefon?",
+      "phrasePl": "kontynuować / robić dalej",
+      "note": "Naturalny odpowiednik „continue” (bardzo popularny w UK).",
+      "prompt": "Poproś kogoś, żeby nie przerywał swojej pracy, używając „carry on”."
+    },
+    {
+      "id": "b12-c06", "month": 3, "topic": 12,
+      "en": "We need to **find out** why the payment failed.",
+      "pl": "Musimy się dowiedzieć, dlaczego płatność nie przeszła.",
+      "phrasePl": "dowiedzieć się / ustalić",
+      "note": "Częstsze w mowie niż „discover” lub „learn”.",
+      "prompt": "Powiedz, czego chciałbyś się w tym tygodniu „find out”."
+    },
+    {
+      "id": "b12-c07", "month": 3, "topic": 12,
+      "en": "He **turned out** to be much nicer than I expected.",
+      "pl": "Okazał się dużo milszy, niż się spodziewałem.",
+      "phrasePl": "okazać się",
+      "note": "Świetne dla osób i sytuacji: „The trip turned out great.”",
+      "prompt": "Opowiedz o czymś, co „turned out” lepiej niż myślałeś."
+    },
+    {
+      "id": "b12-c08", "month": 3, "topic": 12,
+      "en": "Let's **go over** the details one more time.",
+      "pl": "Przejrzyjmy / omówmy szczegóły jeszcze raz.",
+      "phrasePl": "przejrzeć / powtórzyć / omówić",
+      "note": "Bardzo użyteczne przed prezentacją, wyjazdem lub podpisaniem umowy.",
+      "prompt": "Zaproponuj szybkie powtórzenie planu przed wyjściem, używając „go over”."
+    },
+    {
+      "id": "b12-c09", "month": 3, "topic": 12,
+      "en": "She **pointed out** a small typo in the headline.",
+      "pl": "Wskazała drobną literówkę w nagłówku.",
+      "phrasePl": "wskazać / zwrócić uwagę na",
+      "note": "Wygodny zamiennik „mentioned” albo „showed”.",
+      "prompt": "Podziękuj koledze za zwrócenie uwagi na błąd, używając „pointing that out”."
+    },
+    {
+      "id": "b12-c10", "month": 3, "topic": 12,
+      "en": "I'll **look after** your dog while you're away.",
+      "pl": "Zaopiekuję się Twoim psem, kiedy Cię nie będzie.",
+      "phrasePl": "zaopiekować się / dopilnować",
+      "note": "Synonim „take care of” — bardzo częsty w UK.",
+      "prompt": "Zaoferuj znajomemu opiekę nad mieszkaniem lub zwierzakiem, używając „look after”."
+    },
+    {
+      "id": "b12-c11", "month": 3, "topic": 12,
+      "en": "We have to **put up with** the noise until the renovation ends.",
+      "pl": "Musimy znosić ten hałas, dopóki remont się nie skończy.",
+      "phrasePl": "znosić / tolerować (coś irytującego)",
+      "note": "Świetny trzyczęściowy phrasal verb: „I won't put up with this!”",
+      "prompt": "Powiedz, z czym w pracy lub w mieście trzeba czasem „put up with”."
+    },
+    {
+      "id": "b12-c12", "month": 3, "topic": 12,
+      "en": "I'm trying to **get over** this annoying cold.",
+      "pl": "Staram się wyleczyć / dojść do siebie po tym męczącym przeziębieniu.",
+      "phrasePl": "dojść do siebie po (chorobie / rozczarowaniu)",
+      "note": "Działa dla chorób, szoku i rozstań: „Get over it!” (Przejdź nad tym do porządku dziennego!).",
+      "prompt": "Ułóż zdanie z „get over” o chorobie albo drobnym rozczarowaniu."
+    },
+    {
+      "id": "b12-c13", "month": 3, "topic": 12,
+      "en": "I can't **keep up with** how fast technology changes.",
+      "pl": "Nie nadążam za tym, jak szybko zmienia się technologia.",
+      "phrasePl": "nadążać za czymś / kimś",
+      "note": "Też fizycznie przy bieganiu lub chodzeniu: „Slow down, I can't keep up with you!”",
+      "prompt": "Powiedz, za czym ostatnio trudno Ci „keep up with”."
+    },
+    {
+      "id": "b12-c14", "month": 3, "topic": 12,
+      "en": "Let's **get down to** business and finish this today.",
+      "pl": "Przejdźmy do konkretów i skończmy to dziś.",
+      "phrasePl": "przejść do konkretów / zabrać się na serio",
+      "note": "Świetne otwarcie spotkania po krótkim small talku.",
+      "prompt": "Przejdź od luźnej pogawędki do głównego tematu, używając „get down to”."
+    },
+    {
+      "id": "b12-c15", "month": 3, "topic": 12,
+      "en": "He **backed out** of the trip at the last minute.",
+      "pl": "Wycofał się z wyjazdu w ostatniej chwili.",
+      "phrasePl": "wycofać się (z ustaleń / obietnicy)",
+      "note": "Zawsze „back out of + coś”.",
+      "prompt": "Opowiedz jednym zdaniem o sytuacji, gdy ktoś „backed out” z planu."
+    },
+    {
+      "id": "b12-c16", "month": 3, "topic": 12,
+      "en": "The deal **fell through** because of funding issues.",
+      "pl": "Umowa nie wypaliła z powodu problemów z finansowaniem.",
+      "phrasePl": "nie wypalić / spalić na panewce",
+      "note": "Dotyczy planów, umów, wyjazdów i negocjacji.",
+      "prompt": "Powiedz o planie, który kiedyś „fell through”, ale nie żałujesz."
+    },
+    {
+      "id": "b12-c17", "month": 3, "topic": 12,
+      "en": "You can **pick up** a lot of vocabulary just by listening.",
+      "pl": "Możesz podłapać mnóstwo słownictwa przez samo słuchanie.",
+      "phrasePl": "podłapać / nauczyć się mimochodem",
+      "note": "„Pick up a language / a skill / a habit” = przyswoić naturalnie, bez wkuwania.",
+      "prompt": "Powiedz, gdzie najczęściej udaje Ci się „pick up” nowe angielskie zwroty."
+    },
+    {
+      "id": "b12-c18", "month": 3, "topic": 12,
+      "en": "I'll **set aside** twenty minutes every morning for English.",
+      "pl": "Wyznaczę / odłożę sobie dwadzieścia minut każdego ranka na angielski.",
+      "phrasePl": "odłożyć / zarezerwować (czas lub pieniądze)",
+      "note": "Działa zarówno dla czasu, jak i budżetu: „set aside some money”.",
+      "prompt": "Powiedz, na co starasz się codziennie „set aside” trochę czasu."
+    },
+    {
+      "id": "b12-c19", "month": 3, "topic": 12,
+      "en": "Let's **iron out** the remaining details tomorrow.",
+      "pl": "Wygładźmy / dopracujmy pozostałe szczegóły jutro.",
+      "phrasePl": "dopracować / wygładzić drobne problemy",
+      "note": "Dosłownie „wyprasować zagniecenia” — bardzo częste w projektach.",
+      "prompt": "Zakończ ustalenia zdaniem, że drobiazgi „iron out” jutro."
+    },
+    {
+      "id": "b12-c20", "month": 3, "topic": 12,
+      "en": "She really **stood out** from all the other candidates.",
+      "pl": "Naprawdę wyróżniała się na tle wszystkich innych kandydatów.",
+      "phrasePl": "wyróżniać się (pozytywnie)",
+      "note": "Stand – stood – stood.",
+      "prompt": "Powiedz, co sprawia, że dobra restauracja albo aplikacja „stands out”."
+    },
+    {
+      "id": "b12-c21", "month": 3, "topic": 12,
+      "en": "Don't worry, **it's not rocket science** — you'll learn it fast.",
+      "pl": "Nie martw się, to żadna filozofia (fizyka kwantowa) — szybko się tego nauczysz.",
+      "phrasePl": "to żadna filozofia",
+      "note": "Bardzo zabawny i powszechny idiom na coś prostszego, niż się wydaje.",
+      "prompt": "Zachęć kogoś do spróbowania nowej umiejętności, mówiąc „it's not rocket science”."
+    },
+    {
+      "id": "b12-c22", "month": 3, "topic": 12,
+      "en": "Let's **break the ice** with a quick question.",
+      "pl": "Przełammy pierwsze lody szybkim pytaniem.",
+      "phrasePl": "przełamać pierwsze lody",
+      "note": "„An icebreaker” = pytanie lub żart na rozluźnienie atmosfery.",
+      "prompt": "Powiedz, jakie pytanie najlepiej pomaga „break the ice” w nowym towarzystwie."
+    },
+    {
+      "id": "b12-c23", "month": 3, "topic": 12,
+      "en": "We **hit it off** immediately at the conference.",
+      "pl": "Od razu złapaliśmy świetny kontakt na konferencji.",
+      "phrasePl": "od razu złapać wspólny język",
+      "note": "Bardzo naturalny idiom na świetne pierwsze wrażenie i szybką sympatię.",
+      "prompt": "Opowiedz jednym zdaniem o znajomym, z którym od razu „hit it off”."
+    },
+    {
+      "id": "b12-c24", "month": 3, "topic": 12,
+      "en": "I'll **get the hang of** this new interface in a day or two.",
+      "pl": "Załapię, jak działa ten nowy interfejs w dzień lub dwa.",
+      "phrasePl": "załapać / nabrać wprawy w czymś",
+      "note": "Genialny idiom na naukę każdej nowej umiejętności!",
+      "prompt": "Powiedz o czymś, w czym niedawno udało Ci się „get the hang of”."
+    },
+    {
+      "id": "b12-c25", "month": 3, "topic": 12,
+      "en": "You **hit the nail on the head** with that comment.",
+      "pl": "Trafiłeś w samo sedno tym komentarzem.",
+      "phrasePl": "trafić w samo sedno (w dziesiątkę)",
+      "note": "Świetna pochwała trafnej diagnozy lub spostrzeżenia.",
+      "prompt": "Pochwal celną uwagę rozmówcy, używając „hit the nail on the head”."
+    },
+    {
+      "id": "b12-c26", "month": 3, "topic": 12,
+      "en": "He only visits his hometown **once in a blue moon**.",
+      "pl": "Odwiedza rodzinne miasto raz na ruski rok.",
+      "phrasePl": "raz na ruski rok / niezwykle rzadko",
+      "note": "Barwny, bardzo popularny idiom na coś bardzo rzadkiego.",
+      "prompt": "Powiedz o jednej rzeczy, którą robisz „once in a blue moon”."
+    },
+    {
+      "id": "b12-c27", "month": 3, "topic": 12,
+      "en": "Let's **cut to the chase** — how much will it cost?",
+      "pl": "Przejdźmy od razu do sedna — ile to będzie kosztować?",
+      "phrasePl": "przejść od razu do sedna (bez owijania)",
+      "note": "Pochodzi z dawnego kina (przeskok od razu do sceny pościgu). Bardzo żywe!",
+      "prompt": "Skróć długi wstęp w rozmowie, mówiąc „Let's cut to the chase…”."
+    },
+    {
+      "id": "b12-c28", "month": 3, "topic": 12,
+      "en": "Stop **beating around the bush** and tell me what happened.",
+      "pl": "Przestań owijać w bawełnę i powiedz mi, co się stało.",
+      "phrasePl": "owijać w bawełnę",
+      "note": "Dokładny odpowiednik polskiego idiomu.",
+      "prompt": "Poproś znajomego o szczerą odpowiedź bez uników, używając „beating around the bush”."
+    },
+    {
+      "id": "b12-c29", "month": 3, "topic": 12,
+      "en": "We're **in the same boat** — none of us got the update yet.",
+      "pl": "Jedziemy na tym samym wózku — nikt z nas jeszcze nie dostał aktualizacji.",
+      "phrasePl": "być w tej samej sytuacji / na tym samym wózku",
+      "note": "Buduje poczucie wspólnoty w trudnej sytuacji.",
+      "prompt": "Pociesz kogoś z podobnym problemem, używając „in the same boat”."
+    },
+    {
+      "id": "b12-c30", "month": 3, "topic": 12,
+      "en": "I had to **bite the bullet** and pay for the express repair.",
+      "pl": "Musiałem zacisnąć zęby i zapłacić za ekspresową naprawę.",
+      "phrasePl": "zacisnąć zęby i zrobić coś nieprzyjemnego",
+      "note": "Używane, gdy w końcu robisz coś trudnego lub kosztownego, czego unikałeś.",
+      "prompt": "Opowiedz o sytuacji, kiedy musiałeś „bite the bullet” i coś załatwić."
+    },
+    {
+      "id": "b12-c31", "month": 3, "topic": 12,
+      "en": "That's **the last straw** — I'm switching providers today.",
+      "pl": "To przelało czarę goryczy — zmieniam dziś dostawcę.",
+      "phrasePl": "kropla, która przelała czarę goryczy",
+      "note": "Moment, w którym po serii drobnych wpadek tracisz cierpliwość.",
+      "prompt": "Opisz drobiazg, który kiedyś był dla Ciebie „the last straw”."
+    },
+    {
+      "id": "b12-c32", "month": 3, "topic": 12,
+      "en": "It's **a win-win situation** for both of us.",
+      "pl": "To sytuacja korzystna dla obu stron.",
+      "phrasePl": "sytuacja korzystna dla wszystkich",
+      "note": "Bardzo często w negocjacjach i codziennych ustaleniach.",
+      "prompt": "Zaproponuj koledze układ, który będzie „a win-win situation”."
+    },
+    {
+      "id": "b12-c33", "month": 3, "topic": 12,
+      "en": "I'll **go the extra mile** to make sure it's ready on time.",
+      "pl": "Postaram się jeszcze bardziej (dam z siebie coś ekstra), żeby było gotowe na czas.",
+      "phrasePl": "zrobić coś ekstra / wyjść ponad standard",
+      "note": "Świetne w rozmowie o pracę i przy chwaleniu czyjegoś zaangażowania.",
+      "prompt": "Powiedz o sytuacji, w której ktoś dla Ciebie „went the extra mile”."
+    },
+    {
+      "id": "b12-c34", "month": 3, "topic": 12,
+      "en": "Let's **get the ball rolling** on the new website this week.",
+      "pl": "Rozkręćmy / ruszmy z miejsca prace nad nową stroną w tym tygodniu.",
+      "phrasePl": "rozkręcić coś / wprawić w ruch",
+      "note": "Bardzo naturalne na starcie projektu lub pomysłu.",
+      "prompt": "Zaproponuj pierwszy krok w nowym zadaniu, używając „get the ball rolling”."
+    },
+    {
+      "id": "b12-c35", "month": 3, "topic": 12,
+      "en": "He **let the cat out of the bag** about the surprise trip.",
+      "pl": "Wygadał się (puścił parę z ust) o wyjeździe niespodziance.",
+      "phrasePl": "wygadać się / zdradzić sekret",
+      "note": "Synonim: „spill the beans”.",
+      "prompt": "Ułóż krótkie zdanie o kimś, kto przypadkiem „let the cat out of the bag”."
+    },
+    {
+      "id": "b12-c36", "month": 3, "topic": 12,
+      "en": "We're **back to square one** after that bug erased the data.",
+      "pl": "Wróciliśmy do punktu wyjścia po tym, jak błąd usunął dane.",
+      "phrasePl": "wrócić do punktu wyjścia",
+      "note": "Idiom z gier planszowych — powrót na pole startowe.",
+      "prompt": "Opowiedz krótko o sytuacji, gdy musiałeś zacząć od nowa — „back to square one”."
+    },
+    {
+      "id": "b12-c37", "month": 3, "topic": 12,
+      "en": "Don't **take it for granted** — good health is priceless.",
+      "pl": "Nie bierz tego za pewnik — dobre zdrowie jest bezcenne.",
+      "phrasePl": "brać coś za pewnik (nie doceniać)",
+      "note": "Bardzo głęboki i codzienny zwrot: „take someone / something for granted”.",
+      "prompt": "Wymień jedną rzecz w życiu, której nie powinniśmy „take for granted”."
+    },
+    {
+      "id": "b12-c38", "month": 3, "topic": 12,
+      "en": "I **ran out of steam** around 4 p.m. and needed a break.",
+      "pl": "Skończyła mi się para (energia) około czwartej i potrzebowałem przerwy.",
+      "phrasePl": "stracić impet / energię",
+      "note": "Świetne na popołudniowy spadek mocy w pracy.",
+      "prompt": "Powiedz, o której godzinie zazwyczaj „run out of steam” i co wtedy robisz."
+    },
+    {
+      "id": "b12-c39", "month": 3, "topic": 12,
+      "en": "She **pulled it off** despite having almost no time.",
+      "pl": "Udało jej się to dopiąć mimo niemal zerowego czasu.",
+      "phrasePl": "dopiąć coś trudnego / dać radę to zrobić",
+      "note": "Używane, kiedy trudny plan kończy się sukcesem!",
+      "prompt": "Opowiedz o trudnym zadaniu, które udało Ci się „pull off”."
+    },
+    {
+      "id": "b12-c40", "month": 3, "topic": 12,
+      "en": "Let's **keep our fingers on the pulse** of the market.",
+      "pl": "Trzymajmy rękę na pulsie tego, co się dzieje na rynku.",
+      "phrasePl": "trzymać rękę na pulsie",
+      "note": "Dokładny odpowiednik polskiego zwrotu.",
+      "prompt": "Powiedz, w jakiej dziedzinie starasz się „keep your finger on the pulse”."
+    },
+    {
+      "id": "b12-c41", "month": 3, "topic": 12,
+      "en": "I need to **brush up on** my English before the conference.",
+      "pl": "Muszę odświeżyć swój angielski przed konferencją.",
+      "phrasePl": "odświeżyć (znajomość / umiejętność)",
+      "note": "Idealny phrasal verb dla każdego, kto wraca do języka po przerwie!",
+      "prompt": "Powiedz, jaką umiejętność chciałbyś niedługo „brush up on”."
+    },
+    {
+      "id": "b12-c42", "month": 3, "topic": 12,
+      "en": "It **went over my head** — could you explain it more simply?",
+      "pl": "To było dla mnie za skomplikowane (przeleciało nade mną) — możesz wyjaśnić prościej?",
+      "phrasePl": "nie zrozumieć (bo było zbyt skomplikowane / żart)",
+      "note": "Używane zarówno dla trudnej teorii, jak i dla żartu, którego ktoś nie załapał.",
+      "prompt": "Przyznaj lekko z humorem, że jakiś temat techniczny „went right over your head”."
+    },
+    {
+      "id": "b12-c43", "month": 3, "topic": 12,
+      "en": "We **narrowed it down** to two final candidates.",
+      "pl": "Zawęziliśmy wybór do dwóch ostatecznych kandydatów.",
+      "phrasePl": "zawęzić wybór",
+      "note": "Świetne przy zakupach, wyborze wakacji i rekrutacji.",
+      "prompt": "Powiedz, jak podejmujesz decyzje zakupowe, używając „narrow it down”."
+    },
+    {
+      "id": "b12-c44", "month": 3, "topic": 12,
+      "en": "He **came through** for us when we needed him most.",
+      "pl": "Stanął na wysokości zadania (nie zawiódł), kiedy najbardziej go potrzebowaliśmy.",
+      "phrasePl": "stanąć na wysokości zadania / nie zawieść",
+      "note": "Przeciwieństwo „let someone down”.",
+      "prompt": "Pochwal kogoś, kto w ważnej chwili „came through”."
+    },
+    {
+      "id": "b12-c45", "month": 3, "topic": 12,
+      "en": "Practice **makes perfect** — especially when you speak out loud.",
+      "pl": "Praktyka czyni mistrza — zwłaszcza kiedy mówisz na głos.",
+      "phrasePl": "praktyka czyni mistrza",
+      "note": "Idealne podsumowanie całego 90-dniowego planu!",
+      "prompt": "Powiedz na głos swoją krótką refleksję o nauce angielskiego z „Practice makes perfect”."
+    }
+  ],
+  "words": [
+    { "id": "b12-w001", "month": 3, "topic": 12, "en": "to wake up", "pl": "obudzić się" },
+    { "id": "b12-w002", "month": 3, "topic": 12, "en": "to give back", "pl": "oddać" },
+    { "id": "b12-w003", "month": 3, "topic": 12, "en": "to give in", "pl": "ustąpić / ulec" },
+    { "id": "b12-w004", "month": 3, "topic": 12, "en": "to give away", "pl": "oddać za darmo / zdradzić" },
+    { "id": "b12-w005", "month": 3, "topic": 12, "en": "to take over", "pl": "przejąć" },
+    { "id": "b12-w006", "month": 3, "topic": 12, "en": "to take on", "pl": "podjąć się (zadania)" },
+    { "id": "b12-w007", "month": 3, "topic": 12, "en": "to take back", "pl": "odwołać (słowa) / oddać" },
+    { "id": "b12-w008", "month": 3, "topic": 12, "en": "to take in", "pl": "przyswoić (informacje)" },
+    { "id": "b12-w009", "month": 3, "topic": 12, "en": "to turn up", "pl": "pojawić się / podgłośnić" },
+    { "id": "b12-w010", "month": 3, "topic": 12, "en": "to turn into", "pl": "zamienić się w" },
+    { "id": "b12-w011", "month": 3, "topic": 12, "en": "to turn around", "pl": "odwrócić się / odmienić sytuację" },
+    { "id": "b12-w012", "month": 3, "topic": 12, "en": "to put forward", "pl": "zaproponować (pomysł)" },
+    { "id": "b12-w013", "month": 3, "topic": 12, "en": "to put out", "pl": "ugasić (ogień)" },
+    { "id": "b12-w014", "month": 3, "topic": 12, "en": "to put together", "pl": "złożyć w całość" },
+    { "id": "b12-w015", "month": 3, "topic": 12, "en": "to put on", "pl": "założyć (ubranie) / włączyć" },
+    { "id": "b12-w016", "month": 3, "topic": 12, "en": "to get by", "pl": "jakoś sobie radzić" },
+    { "id": "b12-w017", "month": 3, "topic": 12, "en": "to get across", "pl": "jasno przekazać (myśl)" },
+    { "id": "b12-w018", "month": 3, "topic": 12, "en": "to get away with", "pl": "ujść na sucho" },
+    { "id": "b12-w019", "month": 3, "topic": 12, "en": "to get out of", "pl": "wykręcić się od czegoś" },
+    { "id": "b12-w020", "month": 3, "topic": 12, "en": "to get round to", "pl": "w końcu się za coś zabrać" },
+    { "id": "b12-w021", "month": 3, "topic": 12, "en": "to come across", "pl": "sprawiać wrażenie / natknąć się" },
+    { "id": "b12-w022", "month": 3, "topic": 12, "en": "to come along", "pl": "pójść z kimś / posuwać się naprzód" },
+    { "id": "b12-w023", "month": 3, "topic": 12, "en": "to come around", "pl": "zmienić zdanie / wpaść" },
+    { "id": "b12-w024", "month": 3, "topic": 12, "en": "to come out", "pl": "wyjść na jaw / mieć premierę" },
+    { "id": "b12-w025", "month": 3, "topic": 12, "en": "to go ahead", "pl": "śmiało / zaczynać" },
+    { "id": "b12-w026", "month": 3, "topic": 12, "en": "to go on", "pl": "dziać się / mówić dalej" },
+    { "id": "b12-w027", "month": 3, "topic": 12, "en": "to go without", "pl": "obejść się bez" },
+    { "id": "b12-w028", "month": 3, "topic": 12, "en": "to go for", "pl": "wybrać / sięgnąć po" },
+    { "id": "b12-w029", "month": 3, "topic": 12, "en": "to look up", "pl": "sprawdzić (w słowniku / sieci)" },
+    { "id": "b12-w030", "month": 3, "topic": 12, "en": "to look up to", "pl": "podziwiać kogoś" },
+    { "id": "b12-w031", "month": 3, "topic": 12, "en": "to look down on", "pl": "patrzeć na kogoś z góry" },
+    { "id": "b12-w032", "month": 3, "topic": 12, "en": "to look out", "pl": "uważać (ostrzeżenie)" },
+    { "id": "b12-w033", "month": 3, "topic": 12, "en": "to make out", "pl": "rozróżnić / zrozumieć z trudem" },
+    { "id": "b12-w034", "month": 3, "topic": 12, "en": "to make up for", "pl": "zrekompensować" },
+    { "id": "b12-w035", "month": 3, "topic": 12, "en": "to break into", "pl": "włamać się" },
+    { "id": "b12-w036", "month": 3, "topic": 12, "en": "to break out", "pl": "wybuchnąć (np. pożar / epidemia)" },
+    { "id": "b12-w037", "month": 3, "topic": 12, "en": "to bring about", "pl": "spowodować / wywołać" },
+    { "id": "b12-w038", "month": 3, "topic": 12, "en": "to bring back", "pl": "przywrócić / oddać" },
+    { "id": "b12-w039", "month": 3, "topic": 12, "en": "to call back", "pl": "oddzwonić" },
+    { "id": "b12-w040", "month": 3, "topic": 12, "en": "to call out", "pl": "wytknąć / głośno zawołać" },
+    { "id": "b12-w041", "month": 3, "topic": 12, "en": "to carry out", "pl": "przeprowadzić (badanie / plan)" },
+    { "id": "b12-w042", "month": 3, "topic": 12, "en": "to catch on", "pl": "przyjąć się / załapać" },
+    { "id": "b12-w043", "month": 3, "topic": 12, "en": "to check up on", "pl": "sprawdzić, co u kogoś" },
+    { "id": "b12-w044", "month": 3, "topic": 12, "en": "to clear up", "pl": "wyjaśnić / rozpogodzić się" },
+    { "id": "b12-w045", "month": 3, "topic": 12, "en": "to close down", "pl": "zamknąć na stałe (firmę / sklep)" },
+    { "id": "b12-w046", "month": 3, "topic": 12, "en": "to cut off", "pl": "odciąć / przerwać komuś" },
+    { "id": "b12-w047", "month": 3, "topic": 12, "en": "to cut out", "pl": "wyeliminować / przestać" },
+    { "id": "b12-w048", "month": 3, "topic": 12, "en": "to die down", "pl": "ucichnąć / osłabnąć" },
+    { "id": "b12-w049", "month": 3, "topic": 12, "en": "to do without", "pl": "poradzić sobie bez" },
+    { "id": "b12-w050", "month": 3, "topic": 12, "en": "to drag on", "pl": "ciągnąć się w nieskończoność" },
+    { "id": "b12-w051", "month": 3, "topic": 12, "en": "to drop out", "pl": "rzucić (studia / wyścig)" },
+    { "id": "b12-w052", "month": 3, "topic": 12, "en": "to fall apart", "pl": "rozpaść się na kawałki" },
+    { "id": "b12-w053", "month": 3, "topic": 12, "en": "to fall behind", "pl": "zostać w tyle (z pracą)" },
+    { "id": "b12-w054", "month": 3, "topic": 12, "en": "to fall for", "pl": "nabrać się na / zakochać się" },
+    { "id": "b12-w055", "month": 3, "topic": 12, "en": "to fill in for", "pl": "zastąpić kogoś" },
+    { "id": "b12-w056", "month": 3, "topic": 12, "en": "to fit in", "pl": "pasować do grupy / wpasować się" },
+    { "id": "b12-w057", "month": 3, "topic": 12, "en": "to grow out of", "pl": "wyrosnąć z czegoś" },
+    { "id": "b12-w058", "month": 3, "topic": 12, "en": "to hand in", "pl": "oddać (pracę / raport)" },
+    { "id": "b12-w059", "month": 3, "topic": 12, "en": "to hand out", "pl": "rozdać" },
+    { "id": "b12-w060", "month": 3, "topic": 12, "en": "to hang up", "pl": "rozłączyć się (telefon)" },
+    { "id": "b12-w061", "month": 3, "topic": 12, "en": "to hold back", "pl": "powstrzymywać się" },
+    { "id": "b12-w062", "month": 3, "topic": 12, "en": "to hold up", "pl": "opóźnić / wstrzymać" },
+    { "id": "b12-w063", "month": 3, "topic": 12, "en": "to keep on", "pl": "nie przestawać / robić dalej" },
+    { "id": "b12-w064", "month": 3, "topic": 12, "en": "to kick off", "pl": "rozpocząć (wydarzenie / projekt)" },
+    { "id": "b12-w065", "month": 3, "topic": 12, "en": "to lay off", "pl": "zwolnić z pracy (redukcja etatów)" },
+    { "id": "b12-w066", "month": 3, "topic": 12, "en": "to leave out", "pl": "pominąć" },
+    { "id": "b12-w067", "month": 3, "topic": 12, "en": "to let in", "pl": "wpuścić" },
+    { "id": "b12-w068", "month": 3, "topic": 12, "en": "to line up", "pl": "ustawić się w kolejce / załatwić" },
+    { "id": "b12-w069", "month": 3, "topic": 12, "en": "to mess up", "pl": "schrzanić / popsuć" },
+    { "id": "b12-w070", "month": 3, "topic": 12, "en": "to mix up", "pl": "pomylić / pomieszać" },
+    { "id": "b12-w071", "month": 3, "topic": 12, "en": "to move on", "pl": "ruszyć dalej / zamknąć rozdział" },
+    { "id": "b12-w072", "month": 3, "topic": 12, "en": "to open up", "pl": "otworzyć się (przed kimś)" },
+    { "id": "b12-w073", "month": 3, "topic": 12, "en": "to pass away", "pl": "odejść / umrzeć (łagodnie)" },
+    { "id": "b12-w074", "month": 3, "topic": 12, "en": "to pass on", "pl": "przekazać dalej / odpuścić" },
+    { "id": "b12-w075", "month": 3, "topic": 12, "en": "to pay off", "pl": "spłacić / opłacić się" },
+    { "id": "b12-w076", "month": 3, "topic": 12, "en": "to pick out", "pl": "wybrać (spośród kilku)" },
+    { "id": "b12-w077", "month": 3, "topic": 12, "en": "to pull through", "pl": "wyjść z opresji / wyzdrowieć" },
+    { "id": "b12-w078", "month": 3, "topic": 12, "en": "to reach out", "pl": "odezwać się / wyciągnąć rękę" },
+    { "id": "b12-w079", "month": 3, "topic": 12, "en": "to rule out", "pl": "wykluczyć" },
+    { "id": "b12-w080", "month": 3, "topic": 12, "en": "to run across", "pl": "natknąć się przypadkiem" },
+    { "id": "b12-w081", "month": 3, "topic": 12, "en": "to run over", "pl": "przeciągnąć się (spotkanie) / potrącić" },
+    { "id": "b12-w082", "month": 3, "topic": 12, "en": "to see off", "pl": "odprowadzić (np. na dworzec)" },
+    { "id": "b12-w083", "month": 3, "topic": 12, "en": "to set off", "pl": "wyruszyć w drogę / uruchomić alarm" },
+    { "id": "b12-w084", "month": 3, "topic": 12, "en": "to set up", "pl": "założyć / skonfigurować" },
+    { "id": "b12-w085", "month": 3, "topic": 12, "en": "to show off", "pl": "popisywać się" },
+    { "id": "b12-w086", "month": 3, "topic": 12, "en": "to slow down", "pl": "zwolnić" },
+    { "id": "b12-w087", "month": 3, "topic": 12, "en": "to speak up", "pl": "mówić głośniej / zabrać głos" },
+    { "id": "b12-w088", "month": 3, "topic": 12, "en": "to speed up", "pl": "przyspieszyć" },
+    { "id": "b12-w089", "month": 3, "topic": 12, "en": "to split up", "pl": "rozdzielić się / rozstać" },
+    { "id": "b12-w090", "month": 3, "topic": 12, "en": "to stand by", "pl": "wspierać kogoś / być w pogotowiu" },
+    { "id": "b12-w091", "month": 3, "topic": 12, "en": "to stand for", "pl": "oznaczać (skrót) / reprezentować" },
+    { "id": "b12-w092", "month": 3, "topic": 12, "en": "to step down", "pl": "ustąpić ze stanowiska" },
+    { "id": "b12-w093", "month": 3, "topic": 12, "en": "to stick around", "pl": "zostać jeszcze trochę w pobliżu" },
+    { "id": "b12-w094", "month": 3, "topic": 12, "en": "to sum up", "pl": "podsumować" },
+    { "id": "b12-w095", "month": 3, "topic": 12, "en": "to think over", "pl": "dokładnie przemyśleć" },
+    { "id": "b12-w096", "month": 3, "topic": 12, "en": "to throw away", "pl": "wyrzucić" },
+    { "id": "b12-w097", "month": 3, "topic": 12, "en": "to try out", "pl": "wypróbować / przetestować" },
+    { "id": "b12-w098", "month": 3, "topic": 12, "en": "to wear off", "pl": "przestać działać (lek / efekt)" },
+    { "id": "b12-w099", "month": 3, "topic": 12, "en": "to wear out", "pl": "zużyć się / wykończyć kogoś" },
+    { "id": "b12-w100", "month": 3, "topic": 12, "en": "to work out", "pl": "rozwiązać / dobrze się skończyć" },
+    { "id": "b12-w101", "month": 3, "topic": 12, "en": "to write down", "pl": "zapisać (zanotować)" },
+    { "id": "b12-w102", "month": 3, "topic": 12, "en": "to zone out", "pl": "wyłączyć się (zamyślić)" },
+    { "id": "b12-w103", "month": 3, "topic": 12, "en": "better late than never", "pl": "lepiej późno niż wcale" },
+    { "id": "b12-w104", "month": 3, "topic": 12, "en": "so far, so good", "pl": "jak na razie idzie dobrze" },
+    { "id": "b12-w105", "month": 3, "topic": 12, "en": "hang in there", "pl": "trzymaj się / nie poddawaj się" },
+    { "id": "b12-w106", "month": 3, "topic": 12, "en": "call it even", "pl": "być kwita" },
+    { "id": "b12-w107", "month": 3, "topic": 12, "en": "time flies", "pl": "czas leci" },
+    { "id": "b12-w108", "month": 3, "topic": 12, "en": "under pressure", "pl": "pod presją" },
+    { "id": "b12-w109", "month": 3, "topic": 12, "en": "out of hand", "pl": "wymknąć się spod kontroli" },
+    { "id": "b12-w110", "month": 3, "topic": 12, "en": "on the spot", "pl": "na miejscu / od ręki" },
+    { "id": "b12-w111", "month": 3, "topic": 12, "en": "at the last minute", "pl": "w ostatniej chwili" },
+    { "id": "b12-w112", "month": 3, "topic": 12, "en": "in hot water", "pl": "w tarapatach" },
+    { "id": "b12-w113", "month": 3, "topic": 12, "en": "off the hook", "pl": "wywinąć się / mieć z głowy" },
+    { "id": "b12-w114", "month": 3, "topic": 12, "en": "a long shot", "pl": "mało prawdopodobna próba" },
+    { "id": "b12-w115", "month": 3, "topic": 12, "en": "second nature", "pl": "druga natura (automatyzm)" },
+    { "id": "b12-w116", "month": 3, "topic": 12, "en": "out of touch", "pl": "oderwany od rzeczywistości" },
+    { "id": "b12-w117", "month": 3, "topic": 12, "en": "on the dot", "pl": "co do minuty (punktualnie)" },
+    { "id": "b12-w118", "month": 3, "topic": 12, "en": "in a nutshell", "pl": "w pigułce / w skrócie" },
+    { "id": "b12-w119", "month": 3, "topic": 12, "en": "cold feet", "pl": "trema / strach przed decyzją" },
+    { "id": "b12-w120", "month": 3, "topic": 12, "en": "peace of mind", "pl": "spokój ducha" }
+  ]
+}

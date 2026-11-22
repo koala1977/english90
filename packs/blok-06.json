@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 6,
+    "month": 2,
+    "title": "Podróże, miasto i przemieszczanie się"
+  },
+  "cards": [
+    {
+      "id": "b06-c01", "month": 2, "topic": 6,
+      "en": "We're **heading to** the airport in ten minutes.",
+      "pl": "Ruszamy na lotnisko za dziesięć minut.",
+      "phrasePl": "zmierzać / ruszać w stronę",
+      "note": "Bardziej naturalne niż „going to” w codziennej mowie: „I'm heading home now.”",
+      "prompt": "Powiedz, dokąd wybierasz się po dzisiejszej nauce, używając „heading to”."
+    },
+    {
+      "id": "b06-c02", "month": 2, "topic": 6,
+      "en": "Sorry I'm late — I **got stuck in traffic** on the bridge.",
+      "pl": "Przepraszam za spóźnienie — utknąłem w korku na moście.",
+      "phrasePl": "utknąć w korku",
+      "note": "Klasyk miejskich rozmów. „Traffic” jest niepoliczalne („heavy traffic” = duży ruch).",
+      "prompt": "Wytłumacz znajomemu 20-minutowe spóźnienie, używając „got stuck in traffic”."
+    },
+    {
+      "id": "b06-c03", "month": 2, "topic": 6,
+      "en": "It's much cheaper if you **book in advance**.",
+      "pl": "Jest dużo taniej, jeśli zarezerwujesz z wyprzedzeniem.",
+      "phrasePl": "zarezerwować z wyprzedzeniem",
+      "note": "Dotyczy lotów, hoteli, pociągów i restauracji.",
+      "prompt": "Powiedz, jak wcześnie lubisz „book in advance” swoje wakacje."
+    },
+    {
+      "id": "b06-c04", "month": 2, "topic": 6,
+      "en": "Our flight was delayed, so we **missed our connection**.",
+      "pl": "Nasz lot był opóźniony, więc uciekła nam przesiadka.",
+      "phrasePl": "nie zdążyć na przesiadkę",
+      "note": "„Connecting flight” = lot z przesiadką; „direct / nonstop flight” = lot bezpośredni.",
+      "prompt": "Opowiedz o najdłuższym opóźnieniu w podróży albo strachu przed „missing a connection”."
+    },
+    {
+      "id": "b06-c05", "month": 2, "topic": 6,
+      "en": "What time do we need to **check in** for the flight?",
+      "pl": "O której musimy się odprawić na lot?",
+      "phrasePl": "odprawić się / zameldować się",
+      "note": "Działa i na lotnisku, i w hotelu („check in at the hotel”, „check out by 11”).",
+      "prompt": "Zapytaj na recepcji hotelu, od której można „check in” i do której „check out”."
+    },
+    {
+      "id": "b06-c06", "month": 2, "topic": 6,
+      "en": "I prefer traveling with **carry-on luggage** only.",
+      "pl": "Wolę podróżować tylko z bagażem podręcznym.",
+      "phrasePl": "bagaż podręczny",
+      "note": "UK mówi też „hand luggage”. Bagaż nadawany do luku = „checked luggage”.",
+      "prompt": "Powiedz, czy na tygodniowy wyjazd wystarczy Ci „carry-on luggage”."
+    },
+    {
+      "id": "b06-c07", "month": 2, "topic": 6,
+      "en": "The plane **took off** right on schedule.",
+      "pl": "Samolot wystartował dokładnie zgodnie z rozkładem.",
+      "phrasePl": "wystartować (samolot)",
+      "note": "„Take off” = wystartować; „land” = wylądować.",
+      "prompt": "Powiedz, czy lubisz moment, kiedy samolot „takes off” i ląduje."
+    },
+    {
+      "id": "b06-c08", "month": 2, "topic": 6,
+      "en": "Is it within **walking distance** from the hotel?",
+      "pl": "Czy to jest w zasięgu spaceru od hotelu?",
+      "phrasePl": "w zasięgu spaceru (pieszo)",
+      "note": "Złote pytanie przy szukaniu hotelu, restauracji albo atrakcji w nowym mieście.",
+      "prompt": "Zapytaj recepcjonistę, czy centrum miasta jest „within walking distance”."
+    },
+    {
+      "id": "b06-c09", "month": 2, "topic": 6,
+      "en": "Go straight ahead and **take the second left**.",
+      "pl": "Idź prosto i skręć w drugą w lewo.",
+      "phrasePl": "skręcić w drugą w lewo",
+      "note": "Szybkie i naturalne wskazówki: „take a right”, „take the first left”, „at the traffic lights”.",
+      "prompt": "Wytłumacz komuś krótką drogę z Twojego domu do najbliższego sklepu."
+    },
+    {
+      "id": "b06-c10", "month": 2, "topic": 6,
+      "en": "I think I **took a wrong turn** back there.",
+      "pl": "Chyba źle skręciłem tam z tyłu.",
+      "phrasePl": "źle skręcić / pomylić drogę",
+      "note": "Przydatne za kierownicą i pieszo. „Make a U-turn” = zawrócić.",
+      "prompt": "Powiedz pasażerowi spokojnie, że „took a wrong turn” i zaraz zawrócisz."
+    },
+    {
+      "id": "b06-c11", "month": 2, "topic": 6,
+      "en": "Let's **hop on** the metro — it's faster than a taxi.",
+      "pl": "Wskoczmy w metro — będzie szybciej niż taksówką.",
+      "phrasePl": "wskoczyć do (autobusu / metra / pociągu)",
+      "note": "Potoczne i żywe: „hop on a bus / train”, „hop off at the next stop” (wysiąść).",
+      "prompt": "Zaproponuj znajomemu szybki przejazd komunikacją miejską, używając „hop on”."
+    },
+    {
+      "id": "b06-c12", "month": 2, "topic": 6,
+      "en": "Which stop should I **get off** at for the museum?",
+      "pl": "Na którym przystanku powinienem wysiąść, żeby dotrzeć do muzeum?",
+      "phrasePl": "wysiąść (z autobusu / pociągu / metra)",
+      "note": "Do autobusu/pociągu/samolotu: get on / get off. Do auta/taksówki: get in / get out of.",
+      "prompt": "Zapytaj pasażera w autobusie, na którym przystanku masz „get off”."
+    },
+    {
+      "id": "b06-c13", "month": 2, "topic": 6,
+      "en": "We had to **pull over** because of the heavy fog.",
+      "pl": "Musieliśmy zjechać na pobocze z powodu gęstej mgły.",
+      "phrasePl": "zjechać na pobocze / zatrzymać auto",
+      "note": "Używane też przez policję albo przy proszeniu kierowcy o krótki postój: „Could you pull over right here?”",
+      "prompt": "Poproś taksówkarza, żeby zatrzymał się przy rogu ulicy, używając „pull over”."
+    },
+    {
+      "id": "b06-c14", "month": 2, "topic": 6,
+      "en": "I need to **fill up the tank** before we hit the highway.",
+      "pl": "Muszę zatankować do pełna, zanim wjedziemy na autostradę.",
+      "phrasePl": "zatankować do pełna",
+      "note": "„Gas station” (US) / „petrol station” (UK). „Hit the road” = ruszyć w trasę.",
+      "prompt": "Powiedz przed dłuższą trasą, że musicie najpierw „fill up the tank”."
+    },
+    {
+      "id": "b06-c15", "month": 2, "topic": 6,
+      "en": "We got a **flat tire** halfway to the beach.",
+      "pl": "Złapaliśmy gumę w połowie drogi na plażę.",
+      "phrasePl": "złapać gumę / przebita opona",
+      "note": "UK pisze „tyre”, US „tire”. „Spare tire” = koło zapasowe.",
+      "prompt": "Zadzwoń do wypożyczalni aut i zgłoś, że masz „a flat tire”."
+    },
+    {
+      "id": "b06-c16", "month": 2, "topic": 6,
+      "en": "Could you **call a cab** for us, please?",
+      "pl": "Czy mógłbyś zamówić nam taksówkę, proszę?",
+      "phrasePl": "wezwać taksówkę",
+      "note": "„Cab” = taxi (bardzo naturalne w US i UK). W aplikacjach też: „order an Uber”.",
+      "prompt": "Poproś w recepcji hotelu o zamówienie taksówki na lotnisko, używając „call a cab”."
+    },
+    {
+      "id": "b06-c17", "month": 2, "topic": 6,
+      "en": "Does this train **go all the way** to the city center?",
+      "pl": "Czy ten pociąg jedzie aż do centrum miasta?",
+      "phrasePl": "jechać aż do samego końca / celu",
+      "note": "Świetne pytanie, żeby sprawdzić, czy nie trzeba się przesiadać.",
+      "prompt": "Zapytaj na dworcu, czy dany autobus „goes all the way” na lotnisko."
+    },
+    {
+      "id": "b06-c18", "month": 2, "topic": 6,
+      "en": "I have terrible **jet lag** after the flight from Tokyo.",
+      "pl": "Mam okropny jet lag po locie z Tokio.",
+      "phrasePl": "zmęczenie po zmianie stref czasowych",
+      "note": "Używane z „have” albo „suffer from” („I'm still recovering from jet lag”).",
+      "prompt": "Powiedz, czy kiedykolwiek miałeś „jet lag” albo jak radzisz sobie z długimi lotami."
+    },
+    {
+      "id": "b06-c19", "month": 2, "topic": 6,
+      "en": "We're going to **get away** for a long weekend in the mountains.",
+      "pl": "Wyrwiemy się na długi weekend w góry.",
+      "phrasePl": "wyrwać się / wyjechać odpocząć",
+      "note": "Rzeczownik: „a weekend getaway” (krótki wypad na weekend).",
+      "prompt": "Powiedz, dokąd chciałbyś się „get away” na najbliższy długi weekend."
+    },
+    {
+      "id": "b06-c20", "month": 2, "topic": 6,
+      "en": "This town is **off the beaten path**, so there are no crowds.",
+      "pl": "To miasteczko jest z dala od utartych szlaków, więc nie ma tłumów.",
+      "phrasePl": "z dala od utartych szlaków turystycznych",
+      "note": "Piękny, bardzo naturalny idiom podróżniczy.",
+      "prompt": "Powiedz, czy wolisz znane kurorty, czy miejsca „off the beaten path”."
+    },
+    {
+      "id": "b06-c21", "month": 2, "topic": 6,
+      "en": "Is breakfast **included** in the room rate?",
+      "pl": "Czy śniadanie jest wliczone w cenę pokoju?",
+      "phrasePl": "wliczone w cenę",
+      "note": "„Room rate” = cena za dobę hotelową.",
+      "prompt": "Zapytaj w hotelu, czy śniadanie i parking są „included”."
+    },
+    {
+      "id": "b06-c22", "month": 2, "topic": 6,
+      "en": "Can we **leave our bags** here until our room is ready?",
+      "pl": "Czy możemy zostawić tu bagaże, dopóki nasz pokój nie będzie gotowy?",
+      "phrasePl": "zostawić bagaże (w przechowalni)",
+      "note": "Przydatne zarówno przed zameldowaniem, jak i po wymeldowaniu.",
+      "prompt": "Przyjechałeś do hotelu za wcześnie. Zapytaj recepcję, czy możesz „leave your bags”."
+    },
+    {
+      "id": "b06-c23", "month": 2, "topic": 6,
+      "en": "Excuse me, is this **seat taken**?",
+      "pl": "Przepraszam, czy to miejsce jest zajęte?",
+      "phrasePl": "czy to miejsce jest zajęte",
+      "note": "Krótkie i naturalne w pociągu, samolocie, autobusie i kawiarni.",
+      "prompt": "Wsiadasz do zatłoczonego pociągu. Zapytaj pasażera o wolne miejsce."
+    },
+    {
+      "id": "b06-c24", "month": 2, "topic": 6,
+      "en": "I'd prefer a **window seat**, if possible.",
+      "pl": "Wolałbym miejsce przy oknie, jeśli to możliwe.",
+      "phrasePl": "miejsce przy oknie",
+      "note": "Alternatywa: „aisle seat” (miejsce od przejścia — wymowa /ajl/).",
+      "prompt": "Powiedz, czy w samolocie wolisz „window seat” czy „aisle seat” i dlaczego."
+    },
+    {
+      "id": "b06-c25", "month": 2, "topic": 6,
+      "en": "Make sure you **keep an eye on** your belongings in crowded places.",
+      "pl": "Pilnuj swoich rzeczy w zatłoczonych miejscach.",
+      "phrasePl": "mieć oko na / pilnować",
+      "note": "Świetne też, gdy odchodzisz na minutę: „Could you keep an eye on my bag for a second?”",
+      "prompt": "Poproś towarzysza podróży, żeby popilnował Twojej walizki, używając „keep an eye on”."
+    },
+    {
+      "id": "b06-c26", "month": 2, "topic": 6,
+      "en": "Our flight leaves from **gate** twelve in thirty minutes.",
+      "pl": "Nasz lot odlatuje z bramki dwunastej za trzydzieści minut.",
+      "phrasePl": "bramka (na lotnisku)",
+      "note": "„Boarding starts at…” = wejście na pokład zaczyna się o…",
+      "prompt": "Zapytaj obsługę lotniska, z której bramki („gate”) odlatuje Twój samolot."
+    },
+    {
+      "id": "b06-c27", "month": 2, "topic": 6,
+      "en": "We're **traveling light** so we can move around easily.",
+      "pl": "Podróżujemy na lekko (z małym bagażem), żeby łatwo się przemieszczać.",
+      "phrasePl": "podróżować z małym bagażem",
+      "note": "Przeciwieństwo: „overpack” (zapakować za dużo rzeczy).",
+      "prompt": "Powiedz, czy umiesz „travel light”, czy zawsze pakujesz za dużo."
+    },
+    {
+      "id": "b06-c28", "month": 2, "topic": 6,
+      "en": "The downtown area is **packed** on Saturday nights.",
+      "pl": "Centrum miasta jest nabite ludźmi w sobotnie wieczory.",
+      "phrasePl": "zatłoczony / nabity po brzegi",
+      "note": "Naturalniejszy synonim „very crowded” (też dla pociągu lub restauracji).",
+      "prompt": "Opisz miejsce w swoim mieście, które w weekendy jest zawsze „packed”."
+    },
+    {
+      "id": "b06-c29", "month": 2, "topic": 6,
+      "en": "Let's **wander around** the old town without a map.",
+      "pl": "Pospacerujmy sobie bez celu po starym mieście bez mapy.",
+      "phrasePl": "poszwendać się / pospacerować bez celu",
+      "note": "Uwaga na pisownię: „wander” (wędrować) vs „wonder” (zastanawiać się).",
+      "prompt": "Powiedz, czy lubisz „wander around” nowe miasta bez ścisłego planu."
+    },
+    {
+      "id": "b06-c30", "month": 2, "topic": 6,
+      "en": "It's **right around the corner** from the main square.",
+      "pl": "To jest tuż za rogiem od głównego rynku.",
+      "phrasePl": "tuż za rogiem / bardzo blisko",
+      "note": "Używane też w znaczeniu czasu: „Summer is right around the corner.”",
+      "prompt": "Opisz komuś położenie kawiarni lub sklepu, używając „right around the corner”."
+    },
+    {
+      "id": "b06-c31", "month": 2, "topic": 6,
+      "en": "You can't **miss it** — it's the big red building.",
+      "pl": "Nie możesz tego przegapić — to ten duży czerwony budynek.",
+      "phrasePl": "nie sposób tego przegapić",
+      "note": "Klasyczne zakończenie tłumaczenia drogi turyście.",
+      "prompt": "Wskaż charakterystyczny punkt w okolicy i zakończ zdaniem „You can't miss it!”."
+    },
+    {
+      "id": "b06-c32", "month": 2, "topic": 6,
+      "en": "I'd like to **rent a car** with automatic transmission.",
+      "pl": "Chciałbym wynająć samochód z automatyczną skrzynią biegów.",
+      "phrasePl": "wynająć samochód",
+      "note": "UK mówi też „hire a car”. „Manual” = skrzynia ręczna.",
+      "prompt": "Wynajmujesz auto na lotnisku. Powiedz na ile dni i jaką skrzynię biegów chcesz."
+    },
+    {
+      "id": "b06-c33", "month": 2, "topic": 6,
+      "en": "Is there **free parking** near the hotel?",
+      "pl": "Czy w pobliżu hotelu jest darmowy parking?",
+      "phrasePl": "darmowy parking",
+      "note": "„Parking lot” (US) / „car park” (UK). „Parking ticket” = mandat za parkowanie!",
+      "prompt": "Zapytaj w hotelu o warunki parkowania, używając „parking”."
+    },
+    {
+      "id": "b06-c34", "month": 2, "topic": 6,
+      "en": "Let's **hit the road** early to beat the rush hour.",
+      "pl": "Ruszmy w drogę wcześnie, żeby uniknąć godzin szczytu.",
+      "phrasePl": "ruszyć w drogę / w trasę",
+      "note": "„Rush hour” = godziny szczytu. „Beat the traffic / crowds” = zdążyć przed korkami / tłumem.",
+      "prompt": "Powiedz, o której godzinie najchętniej „hit the road” przed długą trasą."
+    },
+    {
+      "id": "b06-c35", "month": 2, "topic": 6,
+      "en": "My suitcase **got lost** during the layover.",
+      "pl": "Moja walizka zaginęła podczas przesiadki.",
+      "phrasePl": "zaginąć (bagaż)",
+      "note": "„Layover” = czas oczekiwania między lotami na lotnisku przesiadkowym.",
+      "prompt": "Zgłoś na stanowisku bagażowym, że Twoja walizka „got lost”, i opisz jak wygląda."
+    },
+    {
+      "id": "b06-c36", "month": 2, "topic": 6,
+      "en": "Do I need a **visa** to enter the country?",
+      "pl": "Czy potrzebuję wizy, żeby wjechać do tego kraju?",
+      "phrasePl": "wiza",
+      "note": "„Passport control” / „customs” = kontrola paszportowa / celna.",
+      "prompt": "Zapytaj o wymagania wjazdowe do wybranego kraju, używając „visa” lub „passport”."
+    },
+    {
+      "id": "b06-c37", "month": 2, "topic": 6,
+      "en": "I'm here **on business**, not on vacation.",
+      "pl": "Jestem tu służbowo, nie na wakacjach.",
+      "phrasePl": "w sprawach służbowych",
+      "note": "Klasyczna odpowiedź na pytanie celnika: „What's the purpose of your visit?”",
+      "prompt": "Odpowiedz na pytanie celnika o cel i długość pobytu, używając „on business” lub „on vacation”."
+    },
+    {
+      "id": "b06-c38", "month": 2, "topic": 6,
+      "en": "Can I get a **round-trip** ticket to Krakow?",
+      "pl": "Czy mogę prosić o bilet w obie strony do Krakowa?",
+      "phrasePl": "bilet w obie strony",
+      "note": "US: „round-trip” vs „one-way”; UK: „return ticket” vs „single ticket”.",
+      "prompt": "Kup na głos bilet kolejowy w obie strony na wybraną godzinę."
+    },
+    {
+      "id": "b06-c39", "month": 2, "topic": 6,
+      "en": "The train is **running fifteen minutes late**.",
+      "pl": "Pociąg ma piętnaście minut opóźnienia.",
+      "phrasePl": "mieć opóźnienie (pociąg / autobus)",
+      "note": "Też: „delayed by 15 minutes”.",
+      "prompt": "Przekaż znajomemu informację z tablicy odjazdów, używając „running … late”."
+    },
+    {
+      "id": "b06-c40", "month": 2, "topic": 6,
+      "en": "We had to **change trains** in Berlin.",
+      "pl": "Musieliśmy się przesiąść z pociągu na pociąg w Berlinie.",
+      "phrasePl": "przesiąść się (w pociągu / metrze)",
+      "note": "Podobnie: „change buses”, „transfer to the green line”.",
+      "prompt": "Zapytaj konduktora, czy musisz gdzieś „change trains” po drodze."
+    },
+    {
+      "id": "b06-c41", "month": 2, "topic": 6,
+      "en": "Let's **check out** that new café by the river.",
+      "pl": "Sprawdźmy / wpadnijmy do tej nowej kawiarni nad rzeką.",
+      "phrasePl": "sprawdzić / obczaić nowe miejsce",
+      "note": "W podróży „check out” znaczy też „wymeldować się z hotelu” — znaczenie wynika z kontekstu.",
+      "prompt": "Zaproponuj znajomemu odwiedzenie ciekawego miejsca, używając „check out”."
+    },
+    {
+      "id": "b06-c42", "month": 2, "topic": 6,
+      "en": "The city has great **public transport**.",
+      "pl": "Miasto ma świetną komunikację miejską.",
+      "phrasePl": "komunikacja miejska",
+      "note": "US często mówi „public transit” / „public transportation”.",
+      "prompt": "Oceń po angielsku „public transport” w swoim mieście."
+    },
+    {
+      "id": "b06-c43", "month": 2, "topic": 6,
+      "en": "It's a **scenic route**, though it takes a bit longer.",
+      "pl": "To malownicza trasa, choć zajmuje trochę więcej czasu.",
+      "phrasePl": "malownicza trasa",
+      "note": "„Scenic” = malowniczy (z pięknymi widokami).",
+      "prompt": "Powiedz, czy na wakacjach wolisz szybką autostradę, czy „a scenic route”."
+    },
+    {
+      "id": "b06-c44", "month": 2, "topic": 6,
+      "en": "I'm completely **lost** — could you point me toward the station?",
+      "pl": "Zupełnie się zgubiłem — mógłbyś wskazać mi kierunek na dworzec?",
+      "phrasePl": "zgubić się",
+      "note": "„Point someone toward…” = wskazać komuś kierunek.",
+      "prompt": "Poproś przechodnia o pomoc, zaczynając od „Excuse me, I'm a bit lost…”."
+    },
+    {
+      "id": "b06-c45", "month": 2, "topic": 6,
+      "en": "**Have a safe trip** and text me when you land!",
+      "pl": "Bezpiecznej podróży i napisz do mnie, jak wylądujesz!",
+      "phrasePl": "bezpiecznej podróży",
+      "note": "Bardzo naturalne pożegnanie przed wyjazdem (też: „Safe travels!”).",
+      "prompt": "Pożegnaj znajomego przed lotem, używając „Have a safe trip”."
+    }
+  ],
+  "words": [
+    { "id": "b06-w001", "month": 2, "topic": 6, "en": "boarding pass", "pl": "karta pokładowa" },
+    { "id": "b06-w002", "month": 2, "topic": 6, "en": "departure", "pl": "odlot / odjazd" },
+    { "id": "b06-w003", "month": 2, "topic": 6, "en": "arrival", "pl": "przylot / przyjazd" },
+    { "id": "b06-w004", "month": 2, "topic": 6, "en": "delay", "pl": "opóźnienie" },
+    { "id": "b06-w005", "month": 2, "topic": 6, "en": "cancelled", "pl": "odwołany" },
+    { "id": "b06-w006", "month": 2, "topic": 6, "en": "terminal", "pl": "terminal" },
+    { "id": "b06-w007", "month": 2, "topic": 6, "en": "security check", "pl": "kontrola bezpieczeństwa" },
+    { "id": "b06-w008", "month": 2, "topic": 6, "en": "customs", "pl": "kontrola celna" },
+    { "id": "b06-w009", "month": 2, "topic": 6, "en": "baggage claim", "pl": "odbiór bagażu" },
+    { "id": "b06-w010", "month": 2, "topic": 6, "en": "suitcase", "pl": "walizka" },
+    { "id": "b06-w011", "month": 2, "topic": 6, "en": "backpack", "pl": "plecak" },
+    { "id": "b06-w012", "month": 2, "topic": 6, "en": "flight attendant", "pl": "stewardesa / steward" },
+    { "id": "b06-w013", "month": 2, "topic": 6, "en": "turbulence", "pl": "turbulencje" },
+    { "id": "b06-w014", "month": 2, "topic": 6, "en": "seatbelt", "pl": "pas bezpieczeństwa" },
+    { "id": "b06-w015", "month": 2, "topic": 6, "en": "overhead bin", "pl": "schowek nad głową (w samolocie)" },
+    { "id": "b06-w016", "month": 2, "topic": 6, "en": "layover", "pl": "przesiadka (czas na lotnisku)" },
+    { "id": "b06-w017", "month": 2, "topic": 6, "en": "direct flight", "pl": "lot bezpośredni" },
+    { "id": "b06-w018", "month": 2, "topic": 6, "en": "economy class", "pl": "klasa ekonomiczna" },
+    { "id": "b06-w019", "month": 2, "topic": 6, "en": "shuttle bus", "pl": "autobus wahadłowy (np. z lotniska)" },
+    { "id": "b06-w020", "month": 2, "topic": 6, "en": "platform", "pl": "peron" },
+    { "id": "b06-w021", "month": 2, "topic": 6, "en": "timetable", "pl": "rozkład jazdy" },
+    { "id": "b06-w022", "month": 2, "topic": 6, "en": "fare", "pl": "opłata za przejazd" },
+    { "id": "b06-w023", "month": 2, "topic": 6, "en": "one-way", "pl": "w jedną stronę" },
+    { "id": "b06-w024", "month": 2, "topic": 6, "en": "subway", "pl": "metro (US)" },
+    { "id": "b06-w025", "month": 2, "topic": 6, "en": "underground", "pl": "metro (UK)" },
+    { "id": "b06-w026", "month": 2, "topic": 6, "en": "tram", "pl": "tramwaj" },
+    { "id": "b06-w027", "month": 2, "topic": 6, "en": "ferry", "pl": "prom" },
+    { "id": "b06-w028", "month": 2, "topic": 6, "en": "commuter", "pl": "osoba dojeżdżająca" },
+    { "id": "b06-w029", "month": 2, "topic": 6, "en": "passenger", "pl": "pasażer" },
+    { "id": "b06-w030", "month": 2, "topic": 6, "en": "pedestrian", "pl": "pieszy" },
+    { "id": "b06-w031", "month": 2, "topic": 6, "en": "crosswalk", "pl": "przejście dla pieszych" },
+    { "id": "b06-w032", "month": 2, "topic": 6, "en": "sidewalk", "pl": "chodnik (US)" },
+    { "id": "b06-w033", "month": 2, "topic": 6, "en": "pavement", "pl": "chodnik (UK)" },
+    { "id": "b06-w034", "month": 2, "topic": 6, "en": "intersection", "pl": "skrzyżowanie" },
+    { "id": "b06-w035", "month": 2, "topic": 6, "en": "roundabout", "pl": "rondo" },
+    { "id": "b06-w036", "month": 2, "topic": 6, "en": "traffic light", "pl": "sygnalizacja świetlna" },
+    { "id": "b06-w037", "month": 2, "topic": 6, "en": "highway", "pl": "autostrada (US)" },
+    { "id": "b06-w038", "month": 2, "topic": 6, "en": "motorway", "pl": "autostrada (UK)" },
+    { "id": "b06-w039", "month": 2, "topic": 6, "en": "lane", "pl": "pas ruchu" },
+    { "id": "b06-w040", "month": 2, "topic": 6, "en": "exit", "pl": "zjazd / wyjście" },
+    { "id": "b06-w041", "month": 2, "topic": 6, "en": "detour", "pl": "objazd" },
+    { "id": "b06-w042", "month": 2, "topic": 6, "en": "toll", "pl": "opłata za autostradę" },
+    { "id": "b06-w043", "month": 2, "topic": 6, "en": "speed limit", "pl": "ograniczenie prędkości" },
+    { "id": "b06-w044", "month": 2, "topic": 6, "en": "traffic jam", "pl": "korek uliczny" },
+    { "id": "b06-w045", "month": 2, "topic": 6, "en": "rush hour", "pl": "godziny szczytu" },
+    { "id": "b06-w046", "month": 2, "topic": 6, "en": "gas station", "pl": "stacja benzynowa" },
+    { "id": "b06-w047", "month": 2, "topic": 6, "en": "fuel", "pl": "paliwo" },
+    { "id": "b06-w048", "month": 2, "topic": 6, "en": "trunk", "pl": "bagażnik auta (US)" },
+    { "id": "b06-w049", "month": 2, "topic": 6, "en": "windshield", "pl": "przednia szyba auta" },
+    { "id": "b06-w050", "month": 2, "topic": 6, "en": "driver's license", "pl": "prawo jazdy" },
+    { "id": "b06-w051", "month": 2, "topic": 6, "en": "to overtake", "pl": "wyprzedzać" },
+    { "id": "b06-w052", "month": 2, "topic": 6, "en": "to brake", "pl": "hamować" },
+    { "id": "b06-w053", "month": 2, "topic": 6, "en": "to park", "pl": "zaparkować" },
+    { "id": "b06-w054", "month": 2, "topic": 6, "en": "accommodation", "pl": "zakwaterowanie / nocleg" },
+    { "id": "b06-w055", "month": 2, "topic": 6, "en": "front desk", "pl": "recepcja" },
+    { "id": "b06-w056", "month": 2, "topic": 6, "en": "lobby", "pl": "hol hotelowy" },
+    { "id": "b06-w057", "month": 2, "topic": 6, "en": "key card", "pl": "karta-klucz do pokoju" },
+    { "id": "b06-w058", "month": 2, "topic": 6, "en": "vacancy", "pl": "wolny pokój" },
+    { "id": "b06-w059", "month": 2, "topic": 6, "en": "fully booked", "pl": "brak wolnych miejsc" },
+    { "id": "b06-w060", "month": 2, "topic": 6, "en": "hostel", "pl": "hostel" },
+    { "id": "b06-w061", "month": 2, "topic": 6, "en": "resort", "pl": "kurort / ośrodek wypoczynkowy" },
+    { "id": "b06-w062", "month": 2, "topic": 6, "en": "guesthouse", "pl": "pensjonat" },
+    { "id": "b06-w063", "month": 2, "topic": 6, "en": "amenities", "pl": "udogodnienia (w hotelu)" },
+    { "id": "b06-w064", "month": 2, "topic": 6, "en": "room service", "pl": "obsługa pokoju" },
+    { "id": "b06-w065", "month": 2, "topic": 6, "en": "housekeeping", "pl": "sprzątanie pokoi" },
+    { "id": "b06-w066", "month": 2, "topic": 6, "en": "sightseeing", "pl": "zwiedzanie" },
+    { "id": "b06-w067", "month": 2, "topic": 6, "en": "landmark", "pl": "punkt orientacyjny / zabytek" },
+    { "id": "b06-w068", "month": 2, "topic": 6, "en": "itinerary", "pl": "plan podróży" },
+    { "id": "b06-w069", "month": 2, "topic": 6, "en": "destination", "pl": "cel podróży" },
+    { "id": "b06-w070", "month": 2, "topic": 6, "en": "souvenir", "pl": "pamiątka" },
+    { "id": "b06-w071", "month": 2, "topic": 6, "en": "guidebook", "pl": "przewodnik (książkowy)" },
+    { "id": "b06-w072", "month": 2, "topic": 6, "en": "guided tour", "pl": "wycieczka z przewodnikiem" },
+    { "id": "b06-w073", "month": 2, "topic": 6, "en": "local", "pl": "miejscowy / lokalny" },
+    { "id": "b06-w074", "month": 2, "topic": 6, "en": "tourist trap", "pl": "pułapka na turystów" },
+    { "id": "b06-w075", "month": 2, "topic": 6, "en": "downtown", "pl": "centrum miasta" },
+    { "id": "b06-w076", "month": 2, "topic": 6, "en": "suburbs", "pl": "przedmieścia" },
+    { "id": "b06-w077", "month": 2, "topic": 6, "en": "outskirts", "pl": "obrzeża miasta" },
+    { "id": "b06-w078", "month": 2, "topic": 6, "en": "neighborhood", "pl": "dzielnica / okolica" },
+    { "id": "b06-w079", "month": 2, "topic": 6, "en": "square", "pl": "plac / rynek" },
+    { "id": "b06-w080", "month": 2, "topic": 6, "en": "alley", "pl": "zaułek / wąska uliczka" },
+    { "id": "b06-w081", "month": 2, "topic": 6, "en": "bridge", "pl": "most" },
+    { "id": "b06-w082", "month": 2, "topic": 6, "en": "harbor", "pl": "port" },
+    { "id": "b06-w083", "month": 2, "topic": 6, "en": "coast", "pl": "wybrzeże" },
+    { "id": "b06-w084", "month": 2, "topic": 6, "en": "border", "pl": "granica" },
+    { "id": "b06-w085", "month": 2, "topic": 6, "en": "abroad", "pl": "za granicą" },
+    { "id": "b06-w086", "month": 2, "topic": 6, "en": "overseas", "pl": "za oceanem / za granicą" },
+    { "id": "b06-w087", "month": 2, "topic": 6, "en": "embassy", "pl": "ambasada" },
+    { "id": "b06-w088", "month": 2, "topic": 6, "en": "travel insurance", "pl": "ubezpieczenie podróżne" },
+    { "id": "b06-w089", "month": 2, "topic": 6, "en": "time zone", "pl": "strefa czasowa" },
+    { "id": "b06-w090", "month": 2, "topic": 6, "en": "forecast", "pl": "prognoza pogody" },
+    { "id": "b06-w091", "month": 2, "topic": 6, "en": "humid", "pl": "wilgotny / parny" },
+    { "id": "b06-w092", "month": 2, "topic": 6, "en": "chilly", "pl": "chłodny" },
+    { "id": "b06-w093", "month": 2, "topic": 6, "en": "breezy", "pl": "wietrzny (lekki wiatr)" },
+    { "id": "b06-w094", "month": 2, "topic": 6, "en": "pouring", "pl": "leje (mocny deszcz)" },
+    { "id": "b06-w095", "month": 2, "topic": 6, "en": "foggy", "pl": "mglisty" },
+    { "id": "b06-w096", "month": 2, "topic": 6, "en": "straight ahead", "pl": "prosto przed siebie" },
+    { "id": "b06-w097", "month": 2, "topic": 6, "en": "across from", "pl": "naprzeciwko" },
+    { "id": "b06-w098", "month": 2, "topic": 6, "en": "next to", "pl": "obok" },
+    { "id": "b06-w099", "month": 2, "topic": 6, "en": "between", "pl": "pomiędzy" },
+    { "id": "b06-w100", "month": 2, "topic": 6, "en": "around the corner", "pl": "za rogiem" },
+    { "id": "b06-w101", "month": 2, "topic": 6, "en": "block", "pl": "przecznica" },
+    { "id": "b06-w102", "month": 2, "topic": 6, "en": "direction", "pl": "kierunek" },
+    { "id": "b06-w103", "month": 2, "topic": 6, "en": "route", "pl": "trasa" },
+    { "id": "b06-w104", "month": 2, "topic": 6, "en": "distance", "pl": "odległość" },
+    { "id": "b06-w105", "month": 2, "topic": 6, "en": "remote", "pl": "odległy / na uboczu" },
+    { "id": "b06-w106", "month": 2, "topic": 6, "en": "lively", "pl": "tętniący życiem" },
+    { "id": "b06-w107", "month": 2, "topic": 6, "en": "peaceful", "pl": "spokojny / cichy" },
+    { "id": "b06-w108", "month": 2, "topic": 6, "en": "breathtaking", "pl": "zapierający dech w piersiach" },
+    { "id": "b06-w109", "month": 2, "topic": 6, "en": "picturesque", "pl": "malowniczy" },
+    { "id": "b06-w110", "month": 2, "topic": 6, "en": "to pack", "pl": "spakować się" },
+    { "id": "b06-w111", "month": 2, "topic": 6, "en": "to unpack", "pl": "rozpakować się" },
+    { "id": "b06-w112", "month": 2, "topic": 6, "en": "to board", "pl": "wsiąść na pokład" },
+    { "id": "b06-w113", "month": 2, "topic": 6, "en": "to land", "pl": "wylądować" },
+    { "id": "b06-w114", "month": 2, "topic": 6, "en": "to explore", "pl": "zwiedzać / odkrywać" },
+    { "id": "b06-w115", "month": 2, "topic": 6, "en": "to navigate", "pl": "nawigować / odnajdywać drogę" },
+    { "id": "b06-w116", "month": 2, "topic": 6, "en": "to hail a taxi", "pl": "zatrzymać taksówkę (machnięciem)" },
+    { "id": "b06-w117", "month": 2, "topic": 6, "en": "to validate a ticket", "pl": "skasować bilet" },
+    { "id": "b06-w118", "month": 2, "topic": 6, "en": "day trip", "pl": "jednodniowa wycieczka" },
+    { "id": "b06-w119", "month": 2, "topic": 6, "en": "road trip", "pl": "podróż samochodem" },
+    { "id": "b06-w120", "month": 2, "topic": 6, "en": "peak season", "pl": "szczyt sezonu" }
+  ]
+}

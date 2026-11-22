@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 10,
+    "month": 3,
+    "title": "Przeszłość, wspomnienia i opowiadanie historii"
+  },
+  "cards": [
+    {
+      "id": "b10-c01", "month": 3, "topic": 10,
+      "en": "**Back in the day**, we didn't even have smartphones.",
+      "pl": "Kiedyś (za tamtych czasów) nie mieliśmy nawet smartfonów.",
+      "phrasePl": "kiedyś / za starych dobrych czasów",
+      "note": "Ciepły, nostalgiczny początek wspomnień.",
+      "prompt": "Opowiedz jednym zdaniem o swoim dzieciństwie, zaczynając od „Back in the day…”."
+    },
+    {
+      "id": "b10-c02", "month": 3, "topic": 10,
+      "en": "She called me **out of the blue** after five years.",
+      "pl": "Zadzwoniła do mnie zupełnie niespodziewanie (ni stąd, ni zowąd) po pięciu latach.",
+      "phrasePl": "niespodziewanie / jak grom z jasnego nieba",
+      "note": "Jeden z najpopularniejszych idiomów w opowiadaniu historii.",
+      "prompt": "Opowiedz o czymś, co wydarzyło się ostatnio „out of the blue”."
+    },
+    {
+      "id": "b10-c03", "month": 3, "topic": 10,
+      "en": "**It turns out** we grew up in the same town!",
+      "pl": "Okazało się, że dorastaliśmy w tym samym mieście!",
+      "phrasePl": "okazało się / wychodzi na to",
+      "note": "W opowiadaniu historii często używane w czasie teraźniejszym („turns out”) albo przeszłym („turned out”).",
+      "prompt": "Dodaj zaskakujący zwrot do krótkiej historii, używając „It turns out…”."
+    },
+    {
+      "id": "b10-c04", "month": 3, "topic": 10,
+      "en": "**Eventually**, we found a small hotel by the station.",
+      "pl": "W końcu (ostatecznie) znaleźliśmy mały hotel przy dworcu.",
+      "phrasePl": "w końcu / ostatecznie",
+      "note": "Nie znaczy „ewentualnie” (to „possibly / maybe”)! „Eventually” = po długim czasie wreszcie.",
+      "prompt": "Opisz problem, który po dłuższej chwili „eventually” udało się rozwiązać."
+    },
+    {
+      "id": "b10-c05", "month": 3, "topic": 10,
+      "en": "I waited for the mechanic; **in the meantime**, I grabbed a coffee.",
+      "pl": "Czekałem na mechanika; w międzyczasie wyskoczyłem po kawę.",
+      "phrasePl": "w międzyczasie",
+      "note": "Świetnie łączy dwie równoległe akcje w opowieści.",
+      "prompt": "Połącz dwie czynności z wczorajszego dnia za pomocą „in the meantime”."
+    },
+    {
+      "id": "b10-c06", "month": 3, "topic": 10,
+      "en": "I **used to** live near the sea when I was a kid.",
+      "pl": "Kiedyś mieszkałem nad morzem, jak byłem dzieckiem.",
+      "phrasePl": "kiedyś (robiłem coś regularnie, ale już nie)",
+      "note": "Po „used to” zawsze goły czasownik (live, play, work). Złota konstrukcja do wspomnień!",
+      "prompt": "Powiedz dwie rzeczy, które „used to” robić jako dziecko."
+    },
+    {
+      "id": "b10-c07", "month": 3, "topic": 10,
+      "en": "**Before I knew it**, three hours had passed.",
+      "pl": "Zanim się obejrzałem, minęły trzy godziny.",
+      "phrasePl": "zanim się obejrzałem / ani się spostrzegłem",
+      "note": "Bardzo naturalny zwrot pokazujący, jak szybko zleciał czas.",
+      "prompt": "Opowiedz o zajęciu, przy którym „before you knew it” minął cały wieczór."
+    },
+    {
+      "id": "b10-c08", "month": 3, "topic": 10,
+      "en": "**To make matters worse**, my phone battery died.",
+      "pl": "Co gorsza, padła mi bateria w telefonie.",
+      "phrasePl": "co gorsza / na domiar złego",
+      "note": "Świetnie buduje napięcie w opowiadaniu o pechowym dniu.",
+      "prompt": "Opowiedz krótką pechową historię i dołóż puentę przez „To make matters worse…”."
+    },
+    {
+      "id": "b10-c09", "month": 3, "topic": 10,
+      "en": "**Looking back**, I'm glad I took that risk.",
+      "pl": "Patrząc wstecz, cieszę się, że podjąłem to ryzyko.",
+      "phrasePl": "patrząc wstecz / z perspektywy czasu",
+      "note": "Też: „In hindsight” (z perspektywy czasu / mądry po szkodzie).",
+      "prompt": "Oceń jedną ważną decyzję ze swojej przeszłości, zaczynając od „Looking back…”."
+    },
+    {
+      "id": "b10-c10", "month": 3, "topic": 10,
+      "en": "It **reminds me of** the summer we spent in Italy.",
+      "pl": "Przypomina mi to lato, które spędziliśmy we Włoszech.",
+      "phrasePl": "przypominać (kojarzyć się z)",
+      "note": "Uwaga na podmiot: „This song reminds me of…” (ta piosenka przypomina mi o…). Poprawna forma z „It” to „It reminds me of…”.",
+      "prompt": "Powiedz, jaki zapach lub piosenka „reminds you of” jakieś miłe wspomnienie."
+    },
+    {
+      "id": "b10-c11", "month": 3, "topic": 10,
+      "en": "That **brings back** so many great memories.",
+      "pl": "To przywołuje tyle wspaniałych wspomnień.",
+      "phrasePl": "przywoływać wspomnienia",
+      "note": "Zawsze „bring back memories”.",
+      "prompt": "Powiedz, co najbardziej „brings back memories” z czasów szkolnych."
+    },
+    {
+      "id": "b10-c12", "month": 3, "topic": 10,
+      "en": "We **grew up** in a tiny village near the mountains.",
+      "pl": "Dorastaliśmy w malutkiej wiosce blisko gór.",
+      "phrasePl": "dorastać",
+      "note": "Grow – grew – grown. Nie mówimy „I grew in…”, zawsze „grew up in…”.",
+      "prompt": "Powiedz, gdzie „grew up” i jak wspominasz to miejsce."
+    },
+    {
+      "id": "b10-c13", "month": 3, "topic": 10,
+      "en": "**At the time**, I had no idea how important it would be.",
+      "pl": "W tamtym czasie nie miałem pojęcia, jakie to będzie ważne.",
+      "phrasePl": "w tamtym czasie / wtedy",
+      "note": "Oddziela to, co myślałeś kiedyś, od tego, co wiesz dziś.",
+      "prompt": "Dokończ zdanie: „At the time, I thought… but now I know…”."
+    },
+    {
+      "id": "b10-c14", "month": 3, "topic": 10,
+      "en": "**Right when** I stepped outside, it started pouring.",
+      "pl": "Dokładnie w chwili, gdy wyszedłem na zewnątrz, lunął deszcz.",
+      "phrasePl": "dokładnie w chwili, gdy",
+      "note": "Synonim: „Just as I stepped outside…”. Świetne do dynamicznych historii.",
+      "prompt": "Opowiedz o zbiegu okoliczności, zaczynając od „Right when…”."
+    },
+    {
+      "id": "b10-c15", "month": 3, "topic": 10,
+      "en": "**All of a sudden**, the lights went out.",
+      "pl": "Nagle zgasły światła.",
+      "phrasePl": "nagle / ni stąd, ni zowąd",
+      "note": "Bardziej żywe i narracyjne niż pojedyncze „suddenly”.",
+      "prompt": "Wprowadź nagłe wydarzenie w opowieści za pomocą „All of a sudden…”."
+    },
+    {
+      "id": "b10-c16", "month": 3, "topic": 10,
+      "en": "I **barely remember** my first day of school.",
+      "pl": "Ledwo pamiętam mój pierwszy dzień w szkole.",
+      "phrasePl": "ledwo pamiętać",
+      "note": "Też: „I vaguely remember…” (mgliście pamiętam).",
+      "prompt": "Powiedz o czymś z przeszłości, co „barely remember”."
+    },
+    {
+      "id": "b10-c17", "month": 3, "topic": 10,
+      "en": "It completely **slipped my mind** — I'm so sorry!",
+      "pl": "Zupełnie wyleciało mi to z głowy — strasznie przepraszam!",
+      "phrasePl": "wylecieć z głowy",
+      "note": "Bardzo naturalny idiom na zapomnienie o czymś drobnym.",
+      "prompt": "Przeproś za zapomnienie o oddzwonieniu, używając „slipped my mind”."
+    },
+    {
+      "id": "b10-c18", "month": 3, "topic": 10,
+      "en": "It **rings a bell**, but I can't place his face.",
+      "pl": "Brzmi znajomo (coś mi świta), ale nie mogę skojarzyć jego twarzy.",
+      "phrasePl": "brzmieć znajomo / coś mi świta",
+      "note": "Używane dla nazwisk, tytułów filmów i nazw miejsc.",
+      "prompt": "Ktoś podaje nazwisko starego znajomego. Zareaguj używając „rings a bell”."
+    },
+    {
+      "id": "b10-c19", "month": 3, "topic": 10,
+      "en": "We **ended up** talking until sunrise.",
+      "pl": "Skończyło się na tym, że rozmawialiśmy do wschodu słońca.",
+      "phrasePl": "skończyło się na tym, że…",
+      "note": "Jedna z najbardziej przydatnych konstrukcji przy zamykaniu historii.",
+      "prompt": "Opowiedz o spotkaniu, które miało trwać godzinę, ale „ended up” trwało znacznie dłużej."
+    },
+    {
+      "id": "b10-c20", "month": 3, "topic": 10,
+      "en": "**By the time** we arrived, the concert had already started.",
+      "pl": "Zanim dotarliśmy na miejsce, koncert już się zaczął.",
+      "phrasePl": "do czasu gdy / zanim dotarliśmy",
+      "note": "Łączy punkt w czasie z czymś, co zdążyło się już wydarzyć wcześniej.",
+      "prompt": "Dokończ na głos zdanie: „By the time I got home yesterday…”."
+    },
+    {
+      "id": "b10-c21", "month": 3, "topic": 10,
+      "en": "**Believe me**, it was much funnier in person.",
+      "pl": "Uwierz mi, na żywo to było dużo śmieszniejsze.",
+      "phrasePl": "uwierz mi",
+      "note": "„In person” = na żywo / osobiście. Świetne w opowiadaniu anegdot.",
+      "prompt": "Podkreśl puentę swojej historii zdaniem z „Believe me…”."
+    },
+    {
+      "id": "b10-c22", "month": 3, "topic": 10,
+      "en": "I **went through** a really tough period that winter.",
+      "pl": "Przechodziłem przez naprawdę trudny okres tamtej zimy.",
+      "phrasePl": "przejść przez (trudny czas / doświadczenie)",
+      "note": "Bardzo naturalne: „go through a hard time / a breakup / a big change”.",
+      "prompt": "Opowiedz jednym zdaniem o wyzwaniu, przez które „went through” i czego Cię nauczyło."
+    },
+    {
+      "id": "b10-c23", "month": 3, "topic": 10,
+      "en": "It was a **blessing in disguise**, because I found a better job.",
+      "pl": "To było szczęście w nieszczęściu, bo znalazłem lepszą pracę.",
+      "phrasePl": "szczęście w nieszczęściu",
+      "note": "Dosłownie „błogosławieństwo w przebraniu” — coś pozornie złego, co wyszło na dobre.",
+      "prompt": "Opowiedz o sytuacji, która okazała się „a blessing in disguise”."
+    },
+    {
+      "id": "b10-c24", "month": 3, "topic": 10,
+      "en": "**As soon as** I saw his face, I knew something was wrong.",
+      "pl": "Jak tylko zobaczyłem jego twarz, wiedziałem, że coś jest nie tak.",
+      "phrasePl": "jak tylko",
+      "note": "Szybkie, filmowe przejście w narracji.",
+      "prompt": "Opowiedz o momencie, w którym „As soon as I…” od razu coś zrozumiałeś."
+    },
+    {
+      "id": "b10-c25", "month": 3, "topic": 10,
+      "en": "It happened **ages ago**, I think in 2015.",
+      "pl": "To się wydarzyło wieki temu, chyba w 2015.",
+      "phrasePl": "wieki temu / bardzo dawno",
+      "note": "Bardzo naturalne potocznie zamiast „a very long time ago”.",
+      "prompt": "Powiedz o czymś, co robiłeś „ages ago”."
+    },
+    {
+      "id": "b10-c26", "month": 3, "topic": 10,
+      "en": "**Just the other day**, I was thinking about calling you.",
+      "pl": "Dosłownie kilka dni temu myślałem o tym, żeby do Ciebie zadzwonić.",
+      "phrasePl": "kilka dni temu / ostatnio (niedawno)",
+      "note": "„The other day” = parę dni temu (niekoniecznie wczoraj).",
+      "prompt": "Opowiedz drobną sytuację z ostatniego tygodnia, zaczynając od „The other day…”."
+    },
+    {
+      "id": "b10-c27", "month": 3, "topic": 10,
+      "en": "I **regret not** learning English earlier.",
+      "pl": "Żałuję, że nie zacząłem uczyć się angielskiego wcześniej.",
+      "phrasePl": "żałować (zrobienia / niezrobienia czegoś)",
+      "note": "Po „regret” dla przeszłości dajemy czasownik z -ing („regret doing / regret not doing”).",
+      "prompt": "Powiedz o jednej drobnej rzeczy, której „regret” albo nie żałujesz."
+    },
+    {
+      "id": "b10-c28", "month": 3, "topic": 10,
+      "en": "That was a real **turning point** in my career.",
+      "pl": "To był prawdziwy punkt zwrotny w mojej karierze.",
+      "phrasePl": "punkt zwrotny",
+      "note": "Świetne wyrażenie do dłuższych opowieści o życiu i doświadczeniach.",
+      "prompt": "Wskaż jeden „turning point” w swoim życiu lub nauce."
+    },
+    {
+      "id": "b10-c29", "month": 3, "topic": 10,
+      "en": "We **had a close call** on the icy road.",
+      "pl": "Było o włos (od wypadku) na oblodzonej drodze.",
+      "phrasePl": "było o włos / cudem się udało uniknąć",
+      "note": "Idiom o sytuacji, w której niewiele brakowało do kłopotów.",
+      "prompt": "Opowiedz o sytuacji, kiedy ledwo zdążyłeś na pociąg lub uniknąłeś problemu — „a close call”."
+    },
+    {
+      "id": "b10-c30", "month": 3, "topic": 10,
+      "en": "**Luckily**, someone found my wallet and returned it.",
+      "pl": "Na szczęście ktoś znalazł mój portfel i go oddał.",
+      "phrasePl": "na szczęście",
+      "note": "Możesz też powiedzieć „Fortunately” (nieco bardziej formalnie).",
+      "prompt": "Zakończ stresującą historię szczęśliwym zwrotem, zaczynając od „Luckily…”."
+    },
+    {
+      "id": "b10-c31", "month": 3, "topic": 10,
+      "en": "I **learned it the hard way** — always save your work.",
+      "pl": "Nauczyłem się tego na własnej skórze (boleśnie) — zawsze zapisuj swoją pracę.",
+      "phrasePl": "nauczyć się na własnej skórze / po bolesnym błędzie",
+      "note": "Bardzo obrazowy i częsty idiom.",
+      "prompt": "Powiedz o jednej lekcji życiowej, której „learned the hard way”."
+    },
+    {
+      "id": "b10-c32", "month": 3, "topic": 10,
+      "en": "**At first**, I was terrified, but then I started enjoying it.",
+      "pl": "Na początku byłem przerażony, ale potem zacząłem się tym cieszyć.",
+      "phrasePl": "na początku (z kontrastem „ale potem”)",
+      "note": "„At first” prawie zawsze zapowiada zmianę („…but later / but then”).",
+      "prompt": "Opowiedz o czymś, co „At first” było trudne, a potem stało się przyjemne."
+    },
+    {
+      "id": "b10-c33", "month": 3, "topic": 10,
+      "en": "We **lost touch** after graduating from university.",
+      "pl": "Straciliśmy kontakt po ukończeniu studiów.",
+      "phrasePl": "stracić kontakt",
+      "note": "Przeciwieństwo: „keep in touch” / „get back in touch” (odnowić kontakt).",
+      "prompt": "Powiedz o kimś ze szkoły, z kim „lost touch”, ale chętnie byś porozmawiał."
+    },
+    {
+      "id": "b10-c34", "month": 3, "topic": 10,
+      "en": "**Ever since** that trip, I've loved Italian food.",
+      "pl": "Odkąd tam pojechałem (od tamtego wyjazdu), uwielbiam włoskie jedzenie.",
+      "phrasePl": "od tamtej pory / odkąd",
+      "note": "Łączy przeszłe wydarzenie z teraźniejszością (dlatego po nim często Present Perfect: „I've loved”).",
+      "prompt": "Dokończ zdanie: „Ever since I… I've…”."
+    },
+    {
+      "id": "b10-c35", "month": 3, "topic": 10,
+      "en": "It feels like it happened **just yesterday**.",
+      "pl": "Mam wrażenie, jakby to się wydarzyło wczoraj.",
+      "phrasePl": "jakby to było wczoraj",
+      "note": "Naturalny sposób na wyrażenie, że stare wspomnienie jest wciąż żywe.",
+      "prompt": "Wymień wydarzenie sprzed lat, o którym możesz powiedzieć „feels like just yesterday”."
+    },
+    {
+      "id": "b10-c36", "month": 3, "topic": 10,
+      "en": "I **came across** some old photos while cleaning the attic.",
+      "pl": "Natknąłem się na stare zdjęcia podczas sprzątania strychu.",
+      "phrasePl": "natknąć się przypadkiem na coś",
+      "note": "Świetny phrasal verb dla rzeczy, artykułów i wspomnień znalezionych przypadkiem.",
+      "prompt": "Powiedz, na co ciekawego ostatnio „came across” w domu lub w internecie."
+    },
+    {
+      "id": "b10-c37", "month": 3, "topic": 10,
+      "en": "**Little did I know**, he was planning a surprise party.",
+      "pl": "Nie miałem wtedy pojęcia, że planuje przyjęcie niespodziankę.",
+      "phrasePl": "nie miałem pojęcia (narracyjne)",
+      "note": "Bardzo efektowny, filmowy zwrot budujący napięcie w historii!",
+      "prompt": "Ułóż krótkie dwuzdaniowe wspomnienie ze zwrotem „Little did I know…”."
+    },
+    {
+      "id": "b10-c38", "month": 3, "topic": 10,
+      "en": "We **laughed our heads off** when we saw the video.",
+      "pl": "Śmialiśmy się do rozpuku, kiedy zobaczyliśmy to nagranie.",
+      "phrasePl": "śmiać się do rozpuku",
+      "note": "Żywsze niż „laughed a lot”.",
+      "prompt": "Opowiedz w jednym zdaniu o sytuacji, z której „laughed your head off”."
+    },
+    {
+      "id": "b10-c39", "month": 3, "topic": 10,
+      "en": "I **missed out on** the concert because I was sick.",
+      "pl": "Przegapiłem / ominął mnie koncert, bo byłem chory.",
+      "phrasePl": "przegapić / stracić okazję na coś fajnego",
+      "note": "Stąd bierze się znany skrót FOMO = Fear Of Missing Out.",
+      "prompt": "Powiedz o wydarzeniu, na którym nie mogłeś być i „missed out on”."
+    },
+    {
+      "id": "b10-c40", "month": 3, "topic": 10,
+      "en": "**Meanwhile**, everyone else was already waiting at the restaurant.",
+      "pl": "Tymczasem wszyscy inni czekali już w restauracji.",
+      "phrasePl": "tymczasem",
+      "note": "Płynnie przełącza „kamerę” w opowieści na to, co robili inni.",
+      "prompt": "Opowiedz krótką scenkę o spóźnieniu, używając „Meanwhile…”."
+    },
+    {
+      "id": "b10-c41", "month": 3, "topic": 10,
+      "en": "He **made up** an excuse about his car breaking down.",
+      "pl": "Wymyślił wymówkę o tym, że zepsuło mu się auto.",
+      "phrasePl": "zmyślić / wymyślić (historię / wymówkę)",
+      "note": "„Make up a story / an excuse” = zmyślić coś nieprawdziwego.",
+      "prompt": "Powiedz żartobliwie, czy kiedyś „made up” wymówkę w szkole."
+    },
+    {
+      "id": "b10-c42", "month": 3, "topic": 10,
+      "en": "It **worked out** even better than we expected.",
+      "pl": "Wszystko ułożyło się nawet lepiej, niż się spodziewaliśmy.",
+      "phrasePl": "ułożyć się dobrze / wypalić",
+      "note": "„Everything worked out in the end” = wszystko na koniec dobrze się ułożyło.",
+      "prompt": "Zakończ historię o zmianie planów zdaniem z „worked out”."
+    },
+    {
+      "id": "b10-c43", "month": 3, "topic": 10,
+      "en": "I **almost forgot** to tell you what happened next!",
+      "pl": "Prawie zapomniałem Ci powiedzieć, co stało się potem!",
+      "phrasePl": "prawie zapomniałem",
+      "note": "Naturalny przerywnik w rozmowie, kiedy przypominasz sobie ważny wątek.",
+      "prompt": "Wtrąć ważny szczegół do rozmowy, zaczynając od „Oh, I almost forgot…”."
+    },
+    {
+      "id": "b10-c44", "month": 3, "topic": 10,
+      "en": "**In the end**, nobody even noticed the mistake.",
+      "pl": "Koniec końców nikt nawet nie zauważył tego błędu.",
+      "phrasePl": "na koniec / ostatecznie",
+      "note": "„In the end” = ostatecznie (puenta historii); „at the end of…” = na końcu czegoś (np. filmu).",
+      "prompt": "Podsumuj jakąś stresującą sytuację słowami „In the end…”."
+    },
+    {
+      "id": "b10-c45", "month": 3, "topic": 10,
+      "en": "I'll **never forget** the look on his face.",
+      "pl": "Nigdy nie zapomnę wyrazu jego twarzy.",
+      "phrasePl": "nigdy nie zapomnę",
+      "note": "Mocne, emocjonalne zdanie zamykające wspomnienie.",
+      "prompt": "Powiedz jednym zdaniem o jednym momencie, którego „never forget”."
+    }
+  ],
+  "words": [
+    { "id": "b10-w001", "month": 3, "topic": 10, "en": "memory", "pl": "wspomnienie / pamięć" },
+    { "id": "b10-w002", "month": 3, "topic": 10, "en": "childhood", "pl": "dzieciństwo" },
+    { "id": "b10-w003", "month": 3, "topic": 10, "en": "teenager", "pl": "nastolatek" },
+    { "id": "b10-w004", "month": 3, "topic": 10, "en": "youth", "pl": "młodość" },
+    { "id": "b10-w005", "month": 3, "topic": 10, "en": "hometown", "pl": "rodzinne miasto" },
+    { "id": "b10-w006", "month": 3, "topic": 10, "en": "background", "pl": "pochodzenie / doświadczenie" },
+    { "id": "b10-w007", "month": 3, "topic": 10, "en": "generation", "pl": "pokolenie" },
+    { "id": "b10-w008", "month": 3, "topic": 10, "en": "decade", "pl": "dekada (10 lat)" },
+    { "id": "b10-w009", "month": 3, "topic": 10, "en": "century", "pl": "wiek / stulecie" },
+    { "id": "b10-w010", "month": 3, "topic": 10, "en": "era", "pl": "epoka" },
+    { "id": "b10-w011", "month": 3, "topic": 10, "en": "nostalgic", "pl": "nostalgiczny" },
+    { "id": "b10-w012", "month": 3, "topic": 10, "en": "vivid", "pl": "żywy / wyraźny (wspomnienie)" },
+    { "id": "b10-w013", "month": 3, "topic": 10, "en": "blurry", "pl": "rozmazany / niejasny" },
+    { "id": "b10-w014", "month": 3, "topic": 10, "en": "vague", "pl": "mglisty" },
+    { "id": "b10-w015", "month": 3, "topic": 10, "en": "coincidence", "pl": "zbieg okoliczności" },
+    { "id": "b10-w016", "month": 3, "topic": 10, "en": "incident", "pl": "incydent / zdarzenie" },
+    { "id": "b10-w017", "month": 3, "topic": 10, "en": "accident", "pl": "wypadek / przypadek" },
+    { "id": "b10-w018", "month": 3, "topic": 10, "en": "adventure", "pl": "przygoda" },
+    { "id": "b10-w019", "month": 3, "topic": 10, "en": "experience", "pl": "doświadczenie" },
+    { "id": "b10-w020", "month": 3, "topic": 10, "en": "anecdote", "pl": "anegdota" },
+    { "id": "b10-w021", "month": 3, "topic": 10, "en": "twist", "pl": "zwrot akcji" },
+    { "id": "b10-w022", "month": 3, "topic": 10, "en": "punchline", "pl": "puenta" },
+    { "id": "b10-w023", "month": 3, "topic": 10, "en": "excuse", "pl": "wymówka" },
+    { "id": "b10-w024", "month": 3, "topic": 10, "en": "regret", "pl": "żal / wyrzut" },
+    { "id": "b10-w025", "month": 3, "topic": 10, "en": "hindsight", "pl": "perspektywa czasu" },
+    { "id": "b10-w026", "month": 3, "topic": 10, "en": "lesson", "pl": "nauczka / lekcja" },
+    { "id": "b10-w027", "month": 3, "topic": 10, "en": "milestone", "pl": "ważny etap życia" },
+    { "id": "b10-w028", "month": 3, "topic": 10, "en": "graduation", "pl": "ukończenie szkoły / studiów" },
+    { "id": "b10-w029", "month": 3, "topic": 10, "en": "reunion", "pl": "zjazd / spotkanie po latach" },
+    { "id": "b10-w030", "month": 3, "topic": 10, "en": "anniversary", "pl": "rocznica" },
+    { "id": "b10-w031", "month": 3, "topic": 10, "en": "formerly", "pl": "dawniej" },
+    { "id": "b10-w032", "month": 3, "topic": 10, "en": "previously", "pl": "poprzednio / wcześniej" },
+    { "id": "b10-w033", "month": 3, "topic": 10, "en": "originally", "pl": "pierwotnie" },
+    { "id": "b10-w034", "month": 3, "topic": 10, "en": "initially", "pl": "początkowo" },
+    { "id": "b10-w035", "month": 3, "topic": 10, "en": "afterwards", "pl": "później / potem" },
+    { "id": "b10-w036", "month": 3, "topic": 10, "en": "shortly after", "pl": "krótko po" },
+    { "id": "b10-w037", "month": 3, "topic": 10, "en": "right before", "pl": "tuż przed" },
+    { "id": "b10-w038", "month": 3, "topic": 10, "en": "earlier", "pl": "wcześniej" },
+    { "id": "b10-w039", "month": 3, "topic": 10, "en": "lately", "pl": "ostatnio" },
+    { "id": "b10-w040", "month": 3, "topic": 10, "en": "recently", "pl": "niedawno" },
+    { "id": "b10-w041", "month": 3, "topic": 10, "en": "the other day", "pl": "kilka dni temu" },
+    { "id": "b10-w042", "month": 3, "topic": 10, "en": "years ago", "pl": "lata temu" },
+    { "id": "b10-w043", "month": 3, "topic": 10, "en": "once upon a time", "pl": "dawno, dawno temu" },
+    { "id": "b10-w044", "month": 3, "topic": 10, "en": "all along", "pl": "przez cały czas" },
+    { "id": "b10-w045", "month": 3, "topic": 10, "en": "at that moment", "pl": "w tamtej chwili" },
+    { "id": "b10-w046", "month": 3, "topic": 10, "en": "overnight", "pl": "z dnia na dzień / przez noc" },
+    { "id": "b10-w047", "month": 3, "topic": 10, "en": "gradually", "pl": "stopniowo" },
+    { "id": "b10-w048", "month": 3, "topic": 10, "en": "unexpectedly", "pl": "nieoczekiwanie" },
+    { "id": "b10-w049", "month": 3, "topic": 10, "en": "accidentally", "pl": "przypadkowo" },
+    { "id": "b10-w050", "month": 3, "topic": 10, "en": "deliberately", "pl": "celowo" },
+    { "id": "b10-w051", "month": 3, "topic": 10, "en": "to recall", "pl": "przypominać sobie" },
+    { "id": "b10-w052", "month": 3, "topic": 10, "en": "to recognize", "pl": "rozpoznać" },
+    { "id": "b10-w053", "month": 3, "topic": 10, "en": "to reminisce", "pl": "powspominać" },
+    { "id": "b10-w054", "month": 3, "topic": 10, "en": "to witness", "pl": "być świadkiem" },
+    { "id": "b10-w055", "month": 3, "topic": 10, "en": "to survive", "pl": "przetrwać / przeżyć" },
+    { "id": "b10-w056", "month": 3, "topic": 10, "en": "to overcome", "pl": "pokonać (trudność)" },
+    { "id": "b10-w057", "month": 3, "topic": 10, "en": "to discover", "pl": "odkryć" },
+    { "id": "b10-w058", "month": 3, "topic": 10, "en": "to find out", "pl": "dowiedzieć się" },
+    { "id": "b10-w059", "month": 3, "topic": 10, "en": "to reveal", "pl": "ujawnić" },
+    { "id": "b10-w060", "month": 3, "topic": 10, "en": "to hide", "pl": "ukryć" },
+    { "id": "b10-w061", "month": 3, "topic": 10, "en": "to confess", "pl": "przyznać się / wyznać" },
+    { "id": "b10-w062", "month": 3, "topic": 10, "en": "to vanish", "pl": "zniknąć bez śladu" },
+    { "id": "b10-w063", "month": 3, "topic": 10, "en": "to disappear", "pl": "zniknąć" },
+    { "id": "b10-w064", "month": 3, "topic": 10, "en": "to appear", "pl": "pojawić się" },
+    { "id": "b10-w065", "month": 3, "topic": 10, "en": "to occur", "pl": "wydarzyć się / mieć miejsce" },
+    { "id": "b10-w066", "month": 3, "topic": 10, "en": "to happen", "pl": "zdarzyć się" },
+    { "id": "b10-w067", "month": 3, "topic": 10, "en": "to last", "pl": "trwać" },
+    { "id": "b10-w068", "month": 3, "topic": 10, "en": "to fade", "pl": "blaknąć / zacierać się" },
+    { "id": "b10-w069", "month": 3, "topic": 10, "en": "to ruin", "pl": "zepsuć / zrujnować" },
+    { "id": "b10-w070", "month": 3, "topic": 10, "en": "to rescue", "pl": "uratować" },
+    { "id": "b10-w071", "month": 3, "topic": 10, "en": "to escape", "pl": "uciec" },
+    { "id": "b10-w072", "month": 3, "topic": 10, "en": "to panic", "pl": "spanikować" },
+    { "id": "b10-w073", "month": 3, "topic": 10, "en": "to freeze", "pl": "zastygnąć (ze strachu / zdziwienia)" },
+    { "id": "b10-w074", "month": 3, "topic": 10, "en": "to burst out laughing", "pl": "wybuchnąć śmiechem" },
+    { "id": "b10-w075", "month": 3, "topic": 10, "en": "to cheer", "pl": "wiwatować" },
+    { "id": "b10-w076", "month": 3, "topic": 10, "en": "to whisper", "pl": "szeptać" },
+    { "id": "b10-w077", "month": 3, "topic": 10, "en": "to yell", "pl": "krzyczeć" },
+    { "id": "b10-w078", "month": 3, "topic": 10, "en": "to stare", "pl": "wpatrywać się" },
+    { "id": "b10-w079", "month": 3, "topic": 10, "en": "to glance", "pl": "zerknąć" },
+    { "id": "b10-w080", "month": 3, "topic": 10, "en": "to trip", "pl": "potknąć się" },
+    { "id": "b10-w081", "month": 3, "topic": 10, "en": "to slip", "pl": "poślizgnąć się" },
+    { "id": "b10-w082", "month": 3, "topic": 10, "en": "to bump into", "pl": "wpaść na kogoś" },
+    { "id": "b10-w083", "month": 3, "topic": 10, "en": "to drop by", "pl": "wpaść z wizytą" },
+    { "id": "b10-w084", "month": 3, "topic": 10, "en": "to show up", "pl": "pojawić się / zjawić się" },
+    { "id": "b10-w085", "month": 3, "topic": 10, "en": "to run away", "pl": "uciec" },
+    { "id": "b10-w086", "month": 3, "topic": 10, "en": "to move away", "pl": "wyprowadzić się" },
+    { "id": "b10-w087", "month": 3, "topic": 10, "en": "to settle down", "pl": "ustatkowac się / osiąść" },
+    { "id": "b10-w088", "month": 3, "topic": 10, "en": "to graduate", "pl": "ukończyć studia / szkołę" },
+    { "id": "b10-w089", "month": 3, "topic": 10, "en": "to retire", "pl": "przejść na emeryturę" },
+    { "id": "b10-w090", "month": 3, "topic": 10, "en": "dramatic", "pl": "dramatyczny" },
+    { "id": "b10-w091", "month": 3, "topic": 10, "en": "chaotic", "pl": "chaotyczny" },
+    { "id": "b10-w092", "month": 3, "topic": 10, "en": "bizarre", "pl": "dziwaczny" },
+    { "id": "b10-w093", "month": 3, "topic": 10, "en": "unbelievable", "pl": "niewiarygodny" },
+    { "id": "b10-w094", "month": 3, "topic": 10, "en": "embarrassing", "pl": "żenujący / krępujący" },
+    { "id": "b10-w095", "month": 3, "topic": 10, "en": "terrifying", "pl": "przerażający" },
+    { "id": "b10-w096", "month": 3, "topic": 10, "en": "thrilling", "pl": "ekscytujący" },
+    { "id": "b10-w097", "month": 3, "topic": 10, "en": "bittersweet", "pl": "słodko-gorzki" },
+    { "id": "b10-w098", "month": 3, "topic": 10, "en": "heartwarming", "pl": "krzepiący / wzruszający" },
+    { "id": "b10-w099", "month": 3, "topic": 10, "en": "former", "pl": "były / poprzedni" },
+    { "id": "b10-w100", "month": 3, "topic": 10, "en": "ancient", "pl": "starożytny / bardzo stary" },
+    { "id": "b10-w101", "month": 3, "topic": 10, "en": "old-fashioned", "pl": "staromodny" },
+    { "id": "b10-w102", "month": 3, "topic": 10, "en": "outdated", "pl": "przestarzały" },
+    { "id": "b10-w103", "month": 3, "topic": 10, "en": "historic", "pl": "historyczny / przełomowy" },
+    { "id": "b10-w104", "month": 3, "topic": 10, "en": "photo album", "pl": "album ze zdjęciami" },
+    { "id": "b10-w105", "month": 3, "topic": 10, "en": "diary", "pl": "pamiętnik" },
+    { "id": "b10-w106", "month": 3, "topic": 10, "en": "keepsake", "pl": "pamiątka (sentymentalna)" },
+    { "id": "b10-w107", "month": 3, "topic": 10, "en": "rumor", "pl": "plotka / pogłoska" },
+    { "id": "b10-w108", "month": 3, "topic": 10, "en": "secret", "pl": "sekret / tajemnica" },
+    { "id": "b10-w109", "month": 3, "topic": 10, "en": "clue", "pl": "wskazówka / trop" },
+    { "id": "b10-w110", "month": 3, "topic": 10, "en": "witness", "pl": "świadek" },
+    { "id": "b10-w111", "month": 3, "topic": 10, "en": "stranger", "pl": "nieznajomy" },
+    { "id": "b10-w112", "month": 3, "topic": 10, "en": "hero", "pl": "bohater" },
+    { "id": "b10-w113", "month": 3, "topic": 10, "en": "miracle", "pl": "cud" },
+    { "id": "b10-w114", "month": 3, "topic": 10, "en": "disaster", "pl": "katastrofa" },
+    { "id": "b10-w115", "month": 3, "topic": 10, "en": "chaos", "pl": "chaos" },
+    { "id": "b10-w116", "month": 3, "topic": 10, "en": "relief", "pl": "ulga" },
+    { "id": "b10-w117", "month": 3, "topic": 10, "en": "shock", "pl": "szok" },
+    { "id": "b10-w118", "month": 3, "topic": 10, "en": "before long", "pl": "wkrótce potem" },
+    { "id": "b10-w119", "month": 3, "topic": 10, "en": "from then on", "pl": "od tamtej chwili" },
+    { "id": "b10-w120", "month": 3, "topic": 10, "en": "to this day", "pl": "po dziś dzień" }
+  ]
+}

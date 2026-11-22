@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 9,
+    "month": 3,
+    "title": "Wyrażanie opinii i argumentowanie"
+  },
+  "cards": [
+    {
+      "id": "b09-c01", "month": 3, "topic": 9,
+      "en": "**From my point of view**, remote work boosts productivity.",
+      "pl": "Z mojego punktu widzenia praca zdalna zwiększa produktywność.",
+      "phrasePl": "z mojego punktu widzenia",
+      "note": "Wyraźny, ale nienachalny sposób na przedstawienie swojej opinii w dyskusji.",
+      "prompt": "Wyraź swoją opinię o pracy zdalnej lub mediach społecznościowych, zaczynając od „From my point of view…”."
+    },
+    {
+      "id": "b09-c02", "month": 3, "topic": 9,
+      "en": "**As far as I'm concerned**, quality matters more than speed.",
+      "pl": "Jeśli o mnie chodzi, jakość liczy się bardziej niż szybkość.",
+      "phrasePl": "jeśli o mnie chodzi / moim zdaniem",
+      "note": "Podkreśla osobiste stanowisko, często kiedy wiesz, że inni mogą myśleć inaczej.",
+      "prompt": "Powiedz, co jest najważniejsze w nauce języka, zaczynając od „As far as I'm concerned…”."
+    },
+    {
+      "id": "b09-c03", "month": 3, "topic": 9,
+      "en": "Let's weigh the **pros and cons** before deciding.",
+      "pl": "Rozważmy za i przeciw, zanim zdecydujemy.",
+      "phrasePl": "za i przeciw (plusy i minusy)",
+      "note": "„Weigh the pros and cons” = zważyć plusy i minusy. Bardzo częste w mowie i biznesie.",
+      "prompt": "Wymień krótko plusy i minusy życia w dużym mieście, używając „pros and cons”."
+    },
+    {
+      "id": "b09-c04", "month": 3, "topic": 9,
+      "en": "If we rush this, we'll **end up** making avoidable mistakes.",
+      "pl": "Jeśli to przyspieszymy, skończy się na tym, że popełnimy błędy, których dało się uniknąć.",
+      "phrasePl": "skończyć na czymś / ostatecznie wylądować",
+      "note": "Po „end up” często czasownik z -ing („end up paying more”, „end up staying home”).",
+      "prompt": "Opowiedz o sytuacji, w której coś miało pójść inaczej, ale „ended up” w inny sposób."
+    },
+    {
+      "id": "b09-c05", "month": 3, "topic": 9,
+      "en": "I **tend to** agree with you on this one.",
+      "pl": "Skłaniam się ku temu, żeby się z Tobą w tej kwestii zgodzić.",
+      "phrasePl": "mieć skłonność / skłaniać się do",
+      "note": "Łagodzi opinię lub opisuje nawyk: „People tend to forget…”.",
+      "prompt": "Powiedz o czymś, z czym „tend to agree” lub co ludzie „tend to” robić."
+    },
+    {
+      "id": "b09-c06", "month": 3, "topic": 9,
+      "en": "**If you ask me**, that rule doesn't make any sense.",
+      "pl": "Jeśli mnie pytasz, ta zasada nie ma żadnego sensu.",
+      "phrasePl": "jeśli mnie pytasz / moim zdaniem",
+      "note": "Luźniejsze, bardziej konwersacyjne niż „In my opinion”.",
+      "prompt": "Wyraź szczerą opinię o dowolnym trendzie, zaczynając od „If you ask me…”."
+    },
+    {
+      "id": "b09-c07", "month": 3, "topic": 9,
+      "en": "**To be completely honest**, I'm not convinced yet.",
+      "pl": "Szczerze mówiąc, nie jestem jeszcze przekonany.",
+      "phrasePl": "nie być przekonanym",
+      "note": "Uprzejmy sposób na zgłoszenie sceptycyzmu bez krytykowania osoby.",
+      "prompt": "Powiedz grzecznie, że potrzebujesz więcej danych, używając „not convinced yet”."
+    },
+    {
+      "id": "b09-c08", "month": 3, "topic": 9,
+      "en": "That's **easier said than done**.",
+      "pl": "Łatwiej powiedzieć niż zrobić.",
+      "phrasePl": "łatwiej powiedzieć niż zrobić",
+      "note": "Klasyczna reakcja na prostą radę w trudnej sytuacji.",
+      "prompt": "Zareaguj na radę „Po prostu przestań się stresować”, używając „easier said than done”."
+    },
+    {
+      "id": "b09-c09", "month": 3, "topic": 9,
+      "en": "It's **a double-edged sword** — great for speed, risky for privacy.",
+      "pl": "To broń obosieczna — świetna dla szybkości, ryzykowna dla prywatności.",
+      "phrasePl": "broń obosieczna (ma plusy i minusy)",
+      "note": "Bardzo trafny idiom do dyskusji o technologii, AI, social mediach czy pieniądzach.",
+      "prompt": "Opisz technologię lub smartfony jako „a double-edged sword”."
+    },
+    {
+      "id": "b09-c10", "month": 3, "topic": 9,
+      "en": "I **have mixed feelings about** moving to another country.",
+      "pl": "Mam mieszane uczucia co do przeprowadzki do innego kraju.",
+      "phrasePl": "mieć mieszane uczucia",
+      "note": "Idealne, gdy nie chcesz opowiadać się jednoznacznie „za” albo „przeciw”.",
+      "prompt": "Powiedz o jednym temacie, wobec którego masz „mixed feelings”."
+    },
+    {
+      "id": "b09-c11", "month": 3, "topic": 9,
+      "en": "Let's **agree to disagree** and move on.",
+      "pl": "Zgódźmy się, że mamy różne zdania, i idźmy dalej.",
+      "phrasePl": "zgodzić się co do różnicy zdań",
+      "note": "Kulturalne zamknięcie dyskusji, w której nikt nikogo nie przekona.",
+      "prompt": "Zakończ przyjazny spór ze znajomym zdaniem z „agree to disagree”."
+    },
+    {
+      "id": "b09-c12", "month": 3, "topic": 9,
+      "en": "You **have a point**, though I still see one risk.",
+      "pl": "Masz rację / jest w tym sens, choć wciąż widzę jedno ryzyko.",
+      "phrasePl": "mieć rację / trafny argument",
+      "note": "Świetnie buduje kulturę dyskusji: najpierw uznajesz trafny argument, potem dodajesz swój.",
+      "prompt": "Przyznaj komuś częściową rację używając „You have a point, though…”."
+    },
+    {
+      "id": "b09-c13", "month": 3, "topic": 9,
+      "en": "**Compared to** five years ago, everything feels much faster.",
+      "pl": "W porównaniu z sytuacją sprzed pięciu lat wszystko wydaje się dużo szybsze.",
+      "phrasePl": "w porównaniu z",
+      "note": "Synonim: „In comparison with”.",
+      "prompt": "Porównaj swoje miasto lub pracę dziś i kilka lat temu, zaczynając od „Compared to…”."
+    },
+    {
+      "id": "b09-c14", "month": 3, "topic": 9,
+      "en": "There's a **huge difference between** knowing and doing.",
+      "pl": "Jest ogromna różnica między wiedzą a działaniem.",
+      "phrasePl": "ogromna różnica między",
+      "note": "Bardzo mocna konstrukcja do porównań w dyskusji.",
+      "prompt": "Wskaż ważną różnicę między dwoma pojęciami, używając „huge difference between”."
+    },
+    {
+      "id": "b09-c15", "month": 3, "topic": 9,
+      "en": "**If I were in your shoes**, I'd take the offer.",
+      "pl": "Na Twoim miejscu przyjąłbym tę ofertę.",
+      "phrasePl": "na Twoim miejscu",
+      "note": "Najbardziej naturalny idiom do dawania rad (też krócej: „If I were you…”).",
+      "prompt": "Daj komuś radę w trudnej decyzji, zaczynając od „If I were in your shoes…”."
+    },
+    {
+      "id": "b09-c16", "month": 3, "topic": 9,
+      "en": "Have you **considered** talking to him directly?",
+      "pl": "Czy rozważałeś, żeby porozmawiać z nim wprost?",
+      "phrasePl": "rozważyć (zrobienie czegoś)",
+      "note": "Po „consider” zawsze czasownik z -ing (talking, trying, switching) — bez „to”!",
+      "prompt": "Zasugeruj koledze delikatnie rozwiązanie, zaczynając od „Have you considered…”."
+    },
+    {
+      "id": "b09-c17", "month": 3, "topic": 9,
+      "en": "It **all comes down to** consistency.",
+      "pl": "Wszystko sprowadza się do konsekwencji.",
+      "phrasePl": "sprowadzać się do (sedna)",
+      "note": "Mocne podsumowanie argumentu wskazujące jeden kluczowy czynnik.",
+      "prompt": "Podsumuj, od czego zależy sukces w sporcie lub nauce, używając „all comes down to”."
+    },
+    {
+      "id": "b09-c18", "month": 3, "topic": 9,
+      "en": "I'm **all for** trying new ideas, as long as we test them.",
+      "pl": "Jestem jak najbardziej za testowaniem nowych pomysłów, pod warunkiem że je sprawdzimy.",
+      "phrasePl": "być jak najbardziej za czymś",
+      "note": "Przeciwieństwo: „I'm strongly against…” (jestem stanowczo przeciw).",
+      "prompt": "Powiedz, jakiemu pomysłowi w pracy lub mieście jesteś „all for”."
+    },
+    {
+      "id": "b09-c19", "month": 3, "topic": 9,
+      "en": "That's **beside the point** — let's focus on the budget first.",
+      "pl": "To nie na temat (nie o to teraz chodzi) — skupmy się najpierw na budżecie.",
+      "phrasePl": "nie na temat / drugorzędne",
+      "note": "Pomaga przywrócić dyskusję na właściwy tor.",
+      "prompt": "Zwróć dyskusję na główny temat, używając „beside the point”."
+    },
+    {
+      "id": "b09-c20", "month": 3, "topic": 9,
+      "en": "Don't **get me wrong**, I like the design — it's just too bright.",
+      "pl": "Nie zrozum mnie źle, podoba mi się ten projekt — jest tylko zbyt jaskrawy.",
+      "phrasePl": "nie zrozum mnie źle",
+      "note": "Świetna poduszka bezpieczeństwa przed konstruktywną krytyką.",
+      "prompt": "Zgłoś drobną uwagę krytyczną, zaczynając od „Don't get me wrong…”."
+    },
+    {
+      "id": "b09-c21", "month": 3, "topic": 9,
+      "en": "It's **a matter of** personal preference.",
+      "pl": "To kwestia osobistych preferencji.",
+      "phrasePl": "to kwestia (czegoś)",
+      "note": "Też: „a matter of time” (kwestia czasu), „a matter of opinion” (kwestia opinii).",
+      "prompt": "Zakończ spór o gust (np. kawa vs herbata), mówiąc „It's a matter of…”."
+    },
+    {
+      "id": "b09-c22", "month": 3, "topic": 9,
+      "en": "On the **bright side**, we learned a lot from this mistake.",
+      "pl": "Z pozytywnej strony — sporo się nauczyliśmy z tego błędu.",
+      "phrasePl": "z jasnej / pozytywnej strony",
+      "note": "„Look on the bright side” = patrz na jasną stronę / szukaj plusów.",
+      "prompt": "Znajdź plus w jakiejś nieudanej sytuacji, zaczynając od „On the bright side…”."
+    },
+    {
+      "id": "b09-c23", "month": 3, "topic": 9,
+      "en": "The main **drawback** is that it takes twice as long.",
+      "pl": "Główną wadą jest to, że trwa to dwa razy dłużej.",
+      "phrasePl": "wada / minus",
+      "note": "Bardziej naturalne i precyzyjne w dyskusji niż „bad thing”. Synonim: „downside”.",
+      "prompt": "Wskaż główny minus popularnego rozwiązania, używając „main drawback” lub „downside”."
+    },
+    {
+      "id": "b09-c24", "month": 3, "topic": 9,
+      "en": "I **strongly believe** that small daily steps beat cramming.",
+      "pl": "Mocno wierzę, że małe codzienne kroki biją na głowę zakuwanie na ostatnią chwilę.",
+      "phrasePl": "mocno wierzyć / być przekonanym",
+      "note": "„Cramming” = zakuwanie na ostatnią chwilę.",
+      "prompt": "Wyraź jedno swoje mocne przekonanie, zaczynając od „I strongly believe…”."
+    },
+    {
+      "id": "b09-c25", "month": 3, "topic": 9,
+      "en": "It's **hard to say** without seeing the full picture.",
+      "pl": "Trudno powiedzieć, nie widząc pełnego obrazu sytuacji.",
+      "phrasePl": "trudno powiedzieć",
+      "note": "„The big picture / full picture” = szersza perspektywa / pełny obraz.",
+      "prompt": "Odpowiedz ostrożnie na trudne pytanie, zaczynając od „It's hard to say…”."
+    },
+    {
+      "id": "b09-c26", "month": 3, "topic": 9,
+      "en": "We need to **find a middle ground** that works for everyone.",
+      "pl": "Musimy znaleźć złoty środek, który zadziała dla wszystkich.",
+      "phrasePl": "znaleźć złoty środek / kompromis",
+      "note": "Świetne w negocjacjach i sporach.",
+      "prompt": "Zaproponuj kompromis w sporze o kierunek wakacji, używając „find a middle ground”."
+    },
+    {
+      "id": "b09-c27", "month": 3, "topic": 9,
+      "en": "That's **a valid concern** — let's address it right now.",
+      "pl": "To uzasadniona obawa — zajmijmy się nią od razu.",
+      "phrasePl": "uzasadniona obawa / słuszny niepokój",
+      "note": "Bardzo dojrzała, profesjonalna reakcja na czyjeś zastrzeżenia.",
+      "prompt": "Zareaguj profesjonalnie na obawę klienta, używając „valid concern”."
+    },
+    {
+      "id": "b09-c28", "month": 3, "topic": 9,
+      "en": "You **can't have it both ways** — cheap and instant rarely go together.",
+      "pl": "Nie można mieć wszystkiego naraz (ciastka i zjeść ciastka) — tanio i natychmiast rzadko idą w parze.",
+      "phrasePl": "nie można mieć obu rzeczy naraz",
+      "note": "Bardzo trafny argument w biznesie i codziennych wyborach.",
+      "prompt": "Wytłumacz komuś, że musi wybrać jeden priorytet, używając „can't have it both ways”."
+    },
+    {
+      "id": "b09-c29", "month": 3, "topic": 9,
+      "en": "I'm **leaning toward** the simpler option.",
+      "pl": "Skłaniam się ku prostszej opcji.",
+      "phrasePl": "skłaniać się ku czemuś",
+      "note": "Naturalne wyrażenie wstępnej preferencji przed ostateczną decyzją.",
+      "prompt": "Masz dwie opcje na weekend. Powiedz, ku której jesteś „leaning toward”."
+    },
+    {
+      "id": "b09-c30", "month": 3, "topic": 9,
+      "en": "It **makes a huge difference** when you practice out loud.",
+      "pl": "Robi ogromną różnicę, kiedy ćwiczysz na głos.",
+      "phrasePl": "robić ogromną różnicę",
+      "note": "Przeczenie: „It makes no difference to me” (nie robi mi to żadnej różnicy).",
+      "prompt": "Powiedz o jednej drobnej zmianie, która „makes a huge difference” w Twoim dniu."
+    },
+    {
+      "id": "b09-c31", "month": 3, "topic": 9,
+      "en": "I'd **rather** pay a bit more for something that lasts.",
+      "pl": "Wolałbym zapłacić trochę więcej za coś, co posłuży dłużej.",
+      "phrasePl": "wolałbym (zrobić coś)",
+      "note": "Po „would rather” dajemy goły bezokolicznik (bez „to”!): „I'd rather stay / go / pay”.",
+      "prompt": "Wyraź swoją preferencję między dwoma wyborami, używając „I'd rather…”."
+    },
+    {
+      "id": "b09-c32", "month": 3, "topic": 9,
+      "en": "That's **not necessarily** true in every case.",
+      "pl": "To niekoniecznie jest prawda w każdym przypadku.",
+      "phrasePl": "niekoniecznie",
+      "note": "Elegancki sposób na podważenie uogólnienia bez kłótni.",
+      "prompt": "Podważ delikatnie uogólnienie „Droższe znaczy lepsze”, używając „not necessarily”."
+    },
+    {
+      "id": "b09-c33", "month": 3, "topic": 9,
+      "en": "Let's **look at the big picture** instead of tiny details.",
+      "pl": "Spójrzmy na szerszy obraz zamiast na drobne szczegóły.",
+      "phrasePl": "spojrzeć z szerszej perspektywy",
+      "note": "Bardzo pomocne, gdy rozmowa grzęźnie w szczegółach.",
+      "prompt": "Użyj „look at the big picture”, żeby podsumować cel jakiegoś projektu."
+    },
+    {
+      "id": "b09-c34", "month": 3, "topic": 9,
+      "en": "In my experience, **it's worth** asking twice.",
+      "pl": "Z mojego doświadczenia wynika, że warto zapytać dwa razy.",
+      "phrasePl": "z mojego doświadczenia",
+      "note": "„In my experience…” nadaje argumentowi wiarygodność bez narzucania zdania.",
+      "prompt": "Podziel się praktyczną radą, zaczynając od „In my experience…”."
+    },
+    {
+      "id": "b09-c35", "month": 3, "topic": 9,
+      "en": "I **wouldn't go that far**, but he definitely exaggerated.",
+      "pl": "Nie posunąłbym się aż tak daleko, ale zdecydowanie przesadził.",
+      "phrasePl": "nie posunąłbym się aż tak daleko",
+      "note": "Świetna reakcja na zbyt mocne lub skrajne stwierdzenie rozmówcy.",
+      "prompt": "Ktoś mówi „Ten film był najgorszy w historii”. Złagodź to używając „I wouldn't go that far…”."
+    },
+    {
+      "id": "b09-c36", "month": 3, "topic": 9,
+      "en": "There's **no point in** arguing about something we can't change.",
+      "pl": "Nie ma sensu kłócić się o coś, czego nie możemy zmienić.",
+      "phrasePl": "nie ma sensu (robić czegoś)",
+      "note": "Po „no point in” zawsze czasownik z -ing (arguing, worrying, waiting).",
+      "prompt": "Powiedz o jednej rzeczy, którą nie ma sensu się przejmować, używając „no point in”."
+    },
+    {
+      "id": "b09-c37", "month": 3, "topic": 9,
+      "en": "The **bottom line** is we need to simplify the process.",
+      "pl": "Sedno sprawy jest takie, że musimy uprościć ten proces.",
+      "phrasePl": "sedno sprawy / konkluzja",
+      "note": "Dosłownie ostatnia linijka bilansu — w mowie znaczy „najważniejszy wniosek”.",
+      "prompt": "Podsumuj krótko swoją opinię na dowolny temat słowami „The bottom line is…”."
+    },
+    {
+      "id": "b09-c38", "month": 3, "topic": 9,
+      "en": "I **take your point**, let's adjust the plan.",
+      "pl": "Przyjmuję Twój argument, skorygujmy plan.",
+      "phrasePl": "przyjmować czyjś argument",
+      "note": "Eleganckie uznanie trafnej uwagi w rozmowie.",
+      "prompt": "Przyjmij uwagę współpracownika i zaproponuj zmianę, używając „I take your point”."
+    },
+    {
+      "id": "b09-c39", "month": 3, "topic": 9,
+      "en": "It's **a no-brainer** at that price.",
+      "pl": "Przy tej cenie to oczywisty wybór (nie ma się nad czym zastanawiać).",
+      "phrasePl": "oczywisty wybór / decyzja bez wahania",
+      "note": "Bardzo popularny idiom na decyzję, która jest ewidentnie korzystna.",
+      "prompt": "Opisz decyzję albo zakup, który był dla Ciebie „a total no-brainer”."
+    },
+    {
+      "id": "b09-c40", "month": 3, "topic": 9,
+      "en": "That's **a bit of a stretch**, don't you think?",
+      "pl": "To trochę naciągane, nie uważasz?",
+      "phrasePl": "trochę naciągane / przesadzone",
+      "note": "Łagodny sposób na powiedzenie, że czyjś argument jest mało wiarygodny.",
+      "prompt": "Zareaguj sceptycznie, ale z uśmiechem, używając „a bit of a stretch”."
+    },
+    {
+      "id": "b09-c41", "month": 3, "topic": 9,
+      "en": "I'm **torn between** taking the safe job and starting my own business.",
+      "pl": "Jestem rozdarty między wzięciem bezpiecznej pracy a założeniem własnej firmy.",
+      "phrasePl": "być rozdartym między dwiema opcjami",
+      "note": "„Torn” to 3. forma od „tear” (rozedrzeć). Bardzo obrazowe w dylematach.",
+      "prompt": "Opowiedz o małym lub dużym wyborze, w którym jesteś „torn between”."
+    },
+    {
+      "id": "b09-c42", "month": 3, "topic": 9,
+      "en": "I **changed my mind** after hearing both sides.",
+      "pl": "Zmieniłem zdanie po wysłuchaniu obu stron.",
+      "phrasePl": "zmienić zdanie",
+      "note": "Prosty, niezbędny zwrot w każdej debacie.",
+      "prompt": "Opowiedz krótko o sytuacji, w której ktoś przekonał Cię i „changed your mind”."
+    },
+    {
+      "id": "b09-c43", "month": 3, "topic": 9,
+      "en": "It **goes without saying** that safety comes first.",
+      "pl": "Rozumie się samo przez się, że bezpieczeństwo jest na pierwszym miejscu.",
+      "phrasePl": "rozumie się samo przez się / to oczywiste",
+      "note": "Elegancki zwrot podkreślający fundamentalną zasadę.",
+      "prompt": "Ułóż zdanie z „It goes without saying that…”."
+    },
+    {
+      "id": "b09-c44", "month": 3, "topic": 9,
+      "en": "Let's **give it the benefit of the doubt** for now.",
+      "pl": "Dajmy temu na razie kredyt zaufania.",
+      "phrasePl": "dać kredyt zaufania (rozstrzygnąć na korzyść)",
+      "note": "Używane dla osób i pomysłów, gdy brakuje pełnych dowodów.",
+      "prompt": "Powiedz, dlaczego warto dać nowemu współpracownikowi „the benefit of the doubt”."
+    },
+    {
+      "id": "b09-c45", "month": 3, "topic": 9,
+      "en": "**All things considered**, it was a great decision.",
+      "pl": "Biorąc wszystko pod uwagę, to była świetna decyzja.",
+      "phrasePl": "biorąc wszystko pod uwagę",
+      "note": "Naturalne podsumowanie po rozważeniu plusów i minusów.",
+      "prompt": "Oceń miniony rok lub ostatni projekt, zaczynając od „All things considered…”."
+    }
+  ],
+  "words": [
+    { "id": "b09-w001", "month": 3, "topic": 9, "en": "opinion", "pl": "opinia" },
+    { "id": "b09-w002", "month": 3, "topic": 9, "en": "perspective", "pl": "perspektywa" },
+    { "id": "b09-w003", "month": 3, "topic": 9, "en": "viewpoint", "pl": "punkt widzenia" },
+    { "id": "b09-w004", "month": 3, "topic": 9, "en": "stance", "pl": "stanowisko (w sprawie)" },
+    { "id": "b09-w005", "month": 3, "topic": 9, "en": "claim", "pl": "twierdzenie" },
+    { "id": "b09-w006", "month": 3, "topic": 9, "en": "evidence", "pl": "dowód / dowody" },
+    { "id": "b09-w007", "month": 3, "topic": 9, "en": "proof", "pl": "dowód" },
+    { "id": "b09-w008", "month": 3, "topic": 9, "en": "reason", "pl": "powód" },
+    { "id": "b09-w009", "month": 3, "topic": 9, "en": "conclusion", "pl": "wniosek" },
+    { "id": "b09-w010", "month": 3, "topic": 9, "en": "assumption", "pl": "założenie" },
+    { "id": "b09-w011", "month": 3, "topic": 9, "en": "bias", "pl": "uprzedzenie / stronniczość" },
+    { "id": "b09-w012", "month": 3, "topic": 9, "en": "objective", "pl": "obiektywny" },
+    { "id": "b09-w013", "month": 3, "topic": 9, "en": "subjective", "pl": "subiektywny" },
+    { "id": "b09-w014", "month": 3, "topic": 9, "en": "logical", "pl": "logiczny" },
+    { "id": "b09-w015", "month": 3, "topic": 9, "en": "convincing", "pl": "przekonujący" },
+    { "id": "b09-w016", "month": 3, "topic": 9, "en": "persuasive", "pl": "przekonujący / perswazyjny" },
+    { "id": "b09-w017", "month": 3, "topic": 9, "en": "controversial", "pl": "kontrowersyjny" },
+    { "id": "b09-w018", "month": 3, "topic": 9, "en": "debatable", "pl": "dyskusyjny" },
+    { "id": "b09-w019", "month": 3, "topic": 9, "en": "obvious", "pl": "oczywisty" },
+    { "id": "b09-w020", "month": 3, "topic": 9, "en": "subtle", "pl": "subtelny" },
+    { "id": "b09-w021", "month": 3, "topic": 9, "en": "crucial", "pl": "kluczowy" },
+    { "id": "b09-w022", "month": 3, "topic": 9, "en": "essential", "pl": "niezbędny / zasadniczy" },
+    { "id": "b09-w023", "month": 3, "topic": 9, "en": "minor", "pl": "drobny / mniejszej wagi" },
+    { "id": "b09-w024", "month": 3, "topic": 9, "en": "major", "pl": "główny / poważny" },
+    { "id": "b09-w025", "month": 3, "topic": 9, "en": "significant", "pl": "znaczący / istotny" },
+    { "id": "b09-w026", "month": 3, "topic": 9, "en": "negligible", "pl": "znikomy / pomijalny" },
+    { "id": "b09-w027", "month": 3, "topic": 9, "en": "advantage", "pl": "zaleta / przewaga" },
+    { "id": "b09-w028", "month": 3, "topic": 9, "en": "disadvantage", "pl": "wada" },
+    { "id": "b09-w029", "month": 3, "topic": 9, "en": "benefit", "pl": "korzyść" },
+    { "id": "b09-w030", "month": 3, "topic": 9, "en": "downside", "pl": "minus / ciemna strona" },
+    { "id": "b09-w031", "month": 3, "topic": 9, "en": "trade-off", "pl": "kompromis (coś za coś)" },
+    { "id": "b09-w032", "month": 3, "topic": 9, "en": "compromise", "pl": "kompromis" },
+    { "id": "b09-w033", "month": 3, "topic": 9, "en": "consensus", "pl": "konsensus / wspólne zdanie" },
+    { "id": "b09-w034", "month": 3, "topic": 9, "en": "dispute", "pl": "spór" },
+    { "id": "b09-w035", "month": 3, "topic": 9, "en": "debate", "pl": "debata" },
+    { "id": "b09-w036", "month": 3, "topic": 9, "en": "dilemma", "pl": "dylemat" },
+    { "id": "b09-w037", "month": 3, "topic": 9, "en": "alternative", "pl": "alternatywa" },
+    { "id": "b09-w038", "month": 3, "topic": 9, "en": "option", "pl": "opcja" },
+    { "id": "b09-w039", "month": 3, "topic": 9, "en": "factor", "pl": "czynnik" },
+    { "id": "b09-w040", "month": 3, "topic": 9, "en": "impact", "pl": "wpływ / oddziaływanie" },
+    { "id": "b09-w041", "month": 3, "topic": 9, "en": "consequence", "pl": "konsekwencja" },
+    { "id": "b09-w042", "month": 3, "topic": 9, "en": "outcome", "pl": "rezultat / wynik" },
+    { "id": "b09-w043", "month": 3, "topic": 9, "en": "cause", "pl": "przyczyna" },
+    { "id": "b09-w044", "month": 3, "topic": 9, "en": "effect", "pl": "skutek" },
+    { "id": "b09-w045", "month": 3, "topic": 9, "en": "trend", "pl": "trend" },
+    { "id": "b09-w046", "month": 3, "topic": 9, "en": "exception", "pl": "wyjątek" },
+    { "id": "b09-w047", "month": 3, "topic": 9, "en": "rule of thumb", "pl": "praktyczna zasada" },
+    { "id": "b09-w048", "month": 3, "topic": 9, "en": "common sense", "pl": "zdrowy rozsądek" },
+    { "id": "b09-w049", "month": 3, "topic": 9, "en": "to argue", "pl": "argumentować / dowodzić" },
+    { "id": "b09-w050", "month": 3, "topic": 9, "en": "to persuade", "pl": "przekonać (namówić)" },
+    { "id": "b09-w051", "month": 3, "topic": 9, "en": "to convince", "pl": "przekonać (do racji)" },
+    { "id": "b09-w052", "month": 3, "topic": 9, "en": "to assume", "pl": "zakładać" },
+    { "id": "b09-w053", "month": 3, "topic": 9, "en": "to admit", "pl": "przyznać" },
+    { "id": "b09-w054", "month": 3, "topic": 9, "en": "to deny", "pl": "zaprzeczać" },
+    { "id": "b09-w055", "month": 3, "topic": 9, "en": "to claim", "pl": "twierdzić" },
+    { "id": "b09-w056", "month": 3, "topic": 9, "en": "to emphasize", "pl": "podkreślać" },
+    { "id": "b09-w057", "month": 3, "topic": 9, "en": "to clarify", "pl": "wyjaśnić / doprecyzować" },
+    { "id": "b09-w058", "month": 3, "topic": 9, "en": "to justify", "pl": "uzasadnić" },
+    { "id": "b09-w059", "month": 3, "topic": 9, "en": "to criticize", "pl": "krytykować" },
+    { "id": "b09-w060", "month": 3, "topic": 9, "en": "to praise", "pl": "chwalić" },
+    { "id": "b09-w061", "month": 3, "topic": 9, "en": "to defend", "pl": "bronić (stanowiska)" },
+    { "id": "b09-w062", "month": 3, "topic": 9, "en": "to challenge", "pl": "kwestionować / rzucić wyzwanie" },
+    { "id": "b09-w063", "month": 3, "topic": 9, "en": "to compare", "pl": "porównywać" },
+    { "id": "b09-w064", "month": 3, "topic": 9, "en": "to contrast", "pl": "zestawiać różnice" },
+    { "id": "b09-w065", "month": 3, "topic": 9, "en": "to evaluate", "pl": "oceniać" },
+    { "id": "b09-w066", "month": 3, "topic": 9, "en": "to assess", "pl": "oszacować / ocenić" },
+    { "id": "b09-w067", "month": 3, "topic": 9, "en": "to underestimate", "pl": "nie doceniać" },
+    { "id": "b09-w068", "month": 3, "topic": 9, "en": "to overestimate", "pl": "przeceniać" },
+    { "id": "b09-w069", "month": 3, "topic": 9, "en": "to exaggerate", "pl": "przesadzać" },
+    { "id": "b09-w070", "month": 3, "topic": 9, "en": "to simplify", "pl": "uprościć" },
+    { "id": "b09-w071", "month": 3, "topic": 9, "en": "to complicate", "pl": "komplikować" },
+    { "id": "b09-w072", "month": 3, "topic": 9, "en": "to advise", "pl": "doradzać" },
+    { "id": "b09-w073", "month": 3, "topic": 9, "en": "to warn", "pl": "ostrzegać" },
+    { "id": "b09-w074", "month": 3, "topic": 9, "en": "to insist", "pl": "nalegać" },
+    { "id": "b09-w075", "month": 3, "topic": 9, "en": "to hesitate", "pl": "wahać się" },
+    { "id": "b09-w076", "month": 3, "topic": 9, "en": "to doubt", "pl": "wątpić" },
+    { "id": "b09-w077", "month": 3, "topic": 9, "en": "to wonder", "pl": "zastanawiać się" },
+    { "id": "b09-w078", "month": 3, "topic": 9, "en": "to conclude", "pl": "wywnioskować / zakończyć" },
+    { "id": "b09-w079", "month": 3, "topic": 9, "en": "to sum up", "pl": "podsumować" },
+    { "id": "b09-w080", "month": 3, "topic": 9, "en": "to point out", "pl": "wskazać / zwrócić uwagę" },
+    { "id": "b09-w081", "month": 3, "topic": 9, "en": "fair", "pl": "sprawiedliwy / uczciwy" },
+    { "id": "b09-w082", "month": 3, "topic": 9, "en": "reasonable", "pl": "rozsądny" },
+    { "id": "b09-w083", "month": 3, "topic": 9, "en": "realistic", "pl": "realistyczny" },
+    { "id": "b09-w084", "month": 3, "topic": 9, "en": "practical", "pl": "praktyczny" },
+    { "id": "b09-w085", "month": 3, "topic": 9, "en": "effective", "pl": "skuteczny" },
+    { "id": "b09-w086", "month": 3, "topic": 9, "en": "pointless", "pl": "bezsensowny" },
+    { "id": "b09-w087", "month": 3, "topic": 9, "en": "worthwhile", "pl": "wartościowy / wart zachodu" },
+    { "id": "b09-w088", "month": 3, "topic": 9, "en": "risky", "pl": "ryzykowny" },
+    { "id": "b09-w089", "month": 3, "topic": 9, "en": "harmful", "pl": "szkodliwy" },
+    { "id": "b09-w090", "month": 3, "topic": 9, "en": "beneficial", "pl": "korzystny" },
+    { "id": "b09-w091", "month": 3, "topic": 9, "en": "reliable", "pl": "wiarygodny / rzetelny" },
+    { "id": "b09-w092", "month": 3, "topic": 9, "en": "misleading", "pl": "wprowadzający w błąd" },
+    { "id": "b09-w093", "month": 3, "topic": 9, "en": "accurate", "pl": "dokładny / trafny" },
+    { "id": "b09-w094", "month": 3, "topic": 9, "en": "vague", "pl": "niejasny / ogólnikowy" },
+    { "id": "b09-w095", "month": 3, "topic": 9, "en": "strict", "pl": "surowy / ścisły" },
+    { "id": "b09-w096", "month": 3, "topic": 9, "en": "flexible", "pl": "elastyczny" },
+    { "id": "b09-w097", "month": 3, "topic": 9, "en": "similar", "pl": "podobny" },
+    { "id": "b09-w098", "month": 3, "topic": 9, "en": "identical", "pl": "identyczny" },
+    { "id": "b09-w099", "month": 3, "topic": 9, "en": "opposite", "pl": "przeciwny" },
+    { "id": "b09-w100", "month": 3, "topic": 9, "en": "whereas", "pl": "podczas gdy / natomiast" },
+    { "id": "b09-w101", "month": 3, "topic": 9, "en": "on the contrary", "pl": "wręcz przeciwnie" },
+    { "id": "b09-w102", "month": 3, "topic": 9, "en": "in contrast", "pl": "w przeciwieństwie" },
+    { "id": "b09-w103", "month": 3, "topic": 9, "en": "likewise", "pl": "podobnie" },
+    { "id": "b09-w104", "month": 3, "topic": 9, "en": "similarly", "pl": "w podobny sposób" },
+    { "id": "b09-w105", "month": 3, "topic": 9, "en": "undoubtedly", "pl": "bez wątpienia" },
+    { "id": "b09-w106", "month": 3, "topic": 9, "en": "arguably", "pl": "można powiedzieć / dyskusyjnie" },
+    { "id": "b09-w107", "month": 3, "topic": 9, "en": "presumably", "pl": "przypuszczalnie" },
+    { "id": "b09-w108", "month": 3, "topic": 9, "en": "partly", "pl": "częściowo" },
+    { "id": "b09-w109", "month": 3, "topic": 9, "en": "entirely", "pl": "całkowicie" },
+    { "id": "b09-w110", "month": 3, "topic": 9, "en": "indeed", "pl": "istotnie / rzeczywiście" },
+    { "id": "b09-w111", "month": 3, "topic": 9, "en": "in my view", "pl": "moim zdaniem" },
+    { "id": "b09-w112", "month": 3, "topic": 9, "en": "personally", "pl": "osobiście" },
+    { "id": "b09-w113", "month": 3, "topic": 9, "en": "frankly speaking", "pl": "mówiąc szczerze" },
+    { "id": "b09-w114", "month": 3, "topic": 9, "en": "to be fair", "pl": "uczciwie mówiąc" },
+    { "id": "b09-w115", "month": 3, "topic": 9, "en": "fair point", "pl": "słuszna uwaga" },
+    { "id": "b09-w116", "month": 3, "topic": 9, "en": "good call", "pl": "dobra decyzja" },
+    { "id": "b09-w117", "month": 3, "topic": 9, "en": "bad idea", "pl": "zły pomysł" },
+    { "id": "b09-w118", "month": 3, "topic": 9, "en": "no doubt", "pl": "bez wątpienia" },
+    { "id": "b09-w119", "month": 3, "topic": 9, "en": "depends", "pl": "to zależy" },
+    { "id": "b09-w120", "month": 3, "topic": 9, "en": "for and against", "pl": "za i przeciw" }
+  ]
+}

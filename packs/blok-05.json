@@ -1,0 +1,491 @@
+{
+  "pack": {
+    "topic": 5,
+    "month": 2,
+    "title": "Praca, projekty i technologia"
+  },
+  "cards": [
+    {
+      "id": "b05-c01", "month": 2, "topic": 5,
+      "en": "Let's **wrap up** the meeting — we're almost out of time.",
+      "pl": "Podsumujmy / zakończmy spotkanie — prawie skończył nam się czas.",
+      "phrasePl": "zakończyć / dopiąć / podsumować",
+      "note": "Bardzo częste w pracy: wrap up a meeting, wrap up a project, wrap things up for the day.",
+      "prompt": "Zakończ na głos wyimaginowane spotkanie zespołowe, używając „Let's wrap up…”."
+    },
+    {
+      "id": "b05-c02", "month": 2, "topic": 5,
+      "en": "It's hard to **keep track of** all the changes in this file.",
+      "pl": "Trudno nadążyć za / śledzić wszystkie zmiany w tym pliku.",
+      "phrasePl": "śledzić / mieć kontrolę nad czymś",
+      "note": "Przeciwieństwo: „lose track of” („I completely lost track of time” = straciłem poczucie czasu).",
+      "prompt": "Powiedz, jakiego narzędzia używasz, żeby „keep track of” swoje zadania."
+    },
+    {
+      "id": "b05-c03", "month": 2, "topic": 5,
+      "en": "I'll send you the report **straight away**.",
+      "pl": "Wyślę Ci ten raport od razu / natychmiast.",
+      "phrasePl": "od razu / natychmiast",
+      "note": "Naturalny odpowiednik „immediately” (bardzo popularny szczególnie w UK; w US też „right away”).",
+      "prompt": "Obiecaj współpracownikowi, że zajmiesz się sprawą od razu, używając „straight away”."
+    },
+    {
+      "id": "b05-c04", "month": 2, "topic": 5,
+      "en": "We're working under a very **tight deadline** this week.",
+      "pl": "Pracujemy w tym tygodniu pod bardzo napiętym terminem.",
+      "phrasePl": "napięty termin",
+      "note": "Kolokacje: „meet a deadline” (wyrobić się), „miss a deadline” (przekroczyć), „extend a deadline” (przedłużyć).",
+      "prompt": "Powiedz, jak radzisz sobie, kiedy masz „a tight deadline”."
+    },
+    {
+      "id": "b05-c05", "month": 2, "topic": 5,
+      "en": "Let's make sure we're all **on the same page** before we start.",
+      "pl": "Upewnijmy się, że wszyscy mamy to samo zrozumienie, zanim zaczniemy.",
+      "phrasePl": "nadawać na tych samych falach / mieć wspólne ustalenia",
+      "note": "Klasyk spotkań w firmach. Bardzo uprzejmy sposób na podsumowanie ustaleń.",
+      "prompt": "Otwórz projekt ze współpracownikiem zdaniem z „on the same page”."
+    },
+    {
+      "id": "b05-c06", "month": 2, "topic": 5,
+      "en": "Could you **keep me in the loop** on this project?",
+      "pl": "Czy mógłbyś informować mnie na bieżąco o tym projekcie?",
+      "phrasePl": "informować na bieżąco (trzymać w obiegu)",
+      "note": "Przeciwieństwo: „out of the loop” (nie być w temacie / poza obiegiem).",
+      "prompt": "Poproś kolegę z zespołu, żeby informował Cię o postępach, używając „keep me in the loop”."
+    },
+    {
+      "id": "b05-c07", "month": 2, "topic": 5,
+      "en": "I'll **follow up** with the client tomorrow morning.",
+      "pl": "Odezwę się ponownie / przypomnę się klientowi jutro rano.",
+      "phrasePl": "odezwać się ponownie / pociągnąć temat",
+      "note": "Też jako rzeczownik: „a follow-up email” (mail przypominający / podsumowujący).",
+      "prompt": "Powiedz, w jakiej sprawie musisz jutro „follow up”."
+    },
+    {
+      "id": "b05-c08", "month": 2, "topic": 5,
+      "en": "Can we **touch base** quickly after lunch?",
+      "pl": "Czy możemy się krótko złapać / skonsultować po lunchu?",
+      "phrasePl": "krótko się złapać / skonsultować",
+      "note": "Luźne, biznesowe określenie na 5-minutową rozmowę kontrolną.",
+      "prompt": "Zaproponuj koledze krótką synchronizację o konkretnej godzinie z „touch base”."
+    },
+    {
+      "id": "b05-c09", "month": 2, "topic": 5,
+      "en": "Let's **brainstorm** a few ideas for the campaign.",
+      "pl": "Zróbmy burzę mózgów nad kilkoma pomysłami na kampanię.",
+      "phrasePl": "zrobić burzę mózgów",
+      "note": "Używane jako czasownik bez „do”: „Let's brainstorm some solutions.”",
+      "prompt": "Zaproponuj zespołowi burzę mózgów nad rozwiązaniem problemu, używając „brainstorm”."
+    },
+    {
+      "id": "b05-c10", "month": 2, "topic": 5,
+      "en": "We **ran into a snag** with the server update.",
+      "pl": "Natrafiliśmy na niespodziewany problem z aktualizacją serwera.",
+      "phrasePl": "natrafić na przeszkodę / drobny problem",
+      "note": "„Snag” / „hitch” = drobna, ale blokująca przeszkoda techniczna lub organizacyjna.",
+      "prompt": "Poinformuj zespół, że napotkałeś przeszkodę w zadaniu, używając „ran into a snag”."
+    },
+    {
+      "id": "b05-c11", "month": 2, "topic": 5,
+      "en": "I'm **swamped with** emails after my vacation.",
+      "pl": "Jestem zawalony mailami po urlopie.",
+      "phrasePl": "być zawalonym (pracą / zadaniami)",
+      "note": "Bardzo naturalne i obrazowe (dosł. „zalany”). Też: „I'm completely swamped today.”",
+      "prompt": "Wyjaśnij koledze, dlaczego nie możesz dziś pomóc, używając „swamped with”."
+    },
+    {
+      "id": "b05-c12", "month": 2, "topic": 5,
+      "en": "Could you **walk me through** how this dashboard works?",
+      "pl": "Czy mógłbyś przeprowadzić mnie krok po kroku przez to, jak działa ten panel?",
+      "phrasePl": "przeprowadzić krok po kroku / objaśnić",
+      "note": "Złoty zwrot w pracy — dużo bardziej naturalny niż „explain everything to me”.",
+      "prompt": "Poproś kogoś o pokazanie nowego narzędzia lub dokumentu, używając „walk me through”."
+    },
+    {
+      "id": "b05-c13", "month": 2, "topic": 5,
+      "en": "Let's **set up a call** for Tuesday at ten.",
+      "pl": "Umówmy rozmowę (calla) na wtorek na dziesiątą.",
+      "phrasePl": "umówić rozmowę / spotkanie online",
+      "note": "Też: „set up a meeting”, „schedule a call”.",
+      "prompt": "Zaproponuj klientowi dwa terminy rozmowy, zaczynając od „Let's set up a call…”."
+    },
+    {
+      "id": "b05-c14", "month": 2, "topic": 5,
+      "en": "Sorry, **you're breaking up** — can you repeat that?",
+      "pl": "Przepraszam, przerywa Cię — możesz powtórzyć?",
+      "phrasePl": "przerywa (połączenie / głos)",
+      "note": "Niezbędne na Zoomie, Teamsach i przez telefon, gdy rwie dźwięk.",
+      "prompt": "Zareaguj na słabe połączenie na wideorozmowie, używając „you're breaking up”."
+    },
+    {
+      "id": "b05-c15", "month": 2, "topic": 5,
+      "en": "I think **you're on mute** — we can't hear you.",
+      "pl": "Chyba masz wyciszony mikrofon — nie słyszymy Cię.",
+      "phrasePl": "mieć wyciszony mikrofon",
+      "note": "Najczęstsze zdanie pracy zdalnej! „Unmute yourself” = odcisz mikrofon.",
+      "prompt": "Zwróć grzecznie uwagę koledze na spotkaniu online, że „you're on mute”."
+    },
+    {
+      "id": "b05-c16", "month": 2, "topic": 5,
+      "en": "Let me **share my screen** so you can see the numbers.",
+      "pl": "Udostępnię swój ekran, żebyś mógł zobaczyć liczby.",
+      "phrasePl": "udostępnić ekran",
+      "note": "Po udostępnieniu często pytasz: „Can you see my screen?”",
+      "prompt": "Rozpocznij krótką prezentację online zdaniem z „share my screen”."
+    },
+    {
+      "id": "b05-c17", "month": 2, "topic": 5,
+      "en": "My laptop **froze**, so I had to restart it.",
+      "pl": "Mój laptop się zawiesił, więc musiałem go zrestartować.",
+      "phrasePl": "zawiesił się (komputer / ekran)",
+      "note": "Freeze – froze – frozen. Dla aplikacji, która się wyłączyła z błędem, mówimy „crashed”.",
+      "prompt": "Opowiedz krótko o sytuacji, kiedy komputer lub telefon „froze” w ważnym momencie."
+    },
+    {
+      "id": "b05-c18", "month": 2, "topic": 5,
+      "en": "Don't forget to **back up** your files regularly.",
+      "pl": "Nie zapomnij regularnie robić kopii zapasowej plików.",
+      "phrasePl": "zrobić kopię zapasową",
+      "note": "Jako czasownik pisane oddzielnie („back up”), jako rzeczownik razem („a backup”).",
+      "prompt": "Powiedz, czy pamiętasz, żeby „back up” zdjęcia i ważne dokumenty."
+    },
+    {
+      "id": "b05-c19", "month": 2, "topic": 5,
+      "en": "I'm having trouble **logging in** to my account.",
+      "pl": "Mam problem z zalogowaniem się na moje konto.",
+      "phrasePl": "zalogować się",
+      "note": "„Log in / sign in” = zalogować się; „log out / sign out” = wylogować się.",
+      "prompt": "Napisz (na głos) zgłoszenie do działu IT, że masz problem z „logging in”."
+    },
+    {
+      "id": "b05-c20", "month": 2, "topic": 5,
+      "en": "We need to **sort out** this bug before the release.",
+      "pl": "Musimy ogarnąć / rozwiązać ten błąd przed wydaniem.",
+      "phrasePl": "rozwiązać / uporządkować problem",
+      "note": "Bardzo uniwersalny phrasal verb: sort out a problem, sort out the schedule, sort it out.",
+      "prompt": "Powiedz o jakiejś sprawie, którą musisz w tym tygodniu „sort out”."
+    },
+    {
+      "id": "b05-c21", "month": 2, "topic": 5,
+      "en": "Who is **in charge of** handling customer feedback?",
+      "pl": "Kto jest odpowiedzialny za obsługę opinii klientów?",
+      "phrasePl": "być odpowiedzialnym za / kierować czymś",
+      "note": "Po „of” zawsze rzeczownik lub czasownik z -ing.",
+      "prompt": "Powiedz, za co Ty jesteś „in charge of” w swojej pracy lub w domu."
+    },
+    {
+      "id": "b05-c22", "month": 2, "topic": 5,
+      "en": "I'll **take care of** the slides, you focus on the demo.",
+      "pl": "Ja zajmę się slajdami, a Ty skup się na demo.",
+      "phrasePl": "zająć się czymś",
+      "note": "W pracy oznacza „biorę to na siebie”.",
+      "prompt": "Podziel zadania w projekcie z kolegą, używając „I'll take care of…”."
+    },
+    {
+      "id": "b05-c23", "month": 2, "topic": 5,
+      "en": "Can we **push back** the launch by a few days?",
+      "pl": "Czy możemy przesunąć premierę o kilka dni na później?",
+      "phrasePl": "przesunąć na później (termin)",
+      "note": "Przeciwieństwo: „bring forward” / „move up” (przyspieszyć na wcześniejszy termin).",
+      "prompt": "Poproś o przesunięcie spotkania lub terminu, używając „push back”."
+    },
+    {
+      "id": "b05-c24", "month": 2, "topic": 5,
+      "en": "I'm **out of the office** until next Monday.",
+      "pl": "Jestem poza biurem (na urlopie) do przyszłego poniedziałku.",
+      "phrasePl": "poza biurem / na urlopie",
+      "note": "W firmach często skracane do „OOO”. Standard w autoresponderach mailowych.",
+      "prompt": "Powiedz głośno krótką wiadomość urlopową z „out of the office”."
+    },
+    {
+      "id": "b05-c25", "month": 2, "topic": 5,
+      "en": "Let's **break down** this big task into smaller steps.",
+      "pl": "Rozbijmy to duże zadanie na mniejsze kroki.",
+      "phrasePl": "rozbić na mniejsze części",
+      "note": "Dla zadań i liczb: „break down the costs / the problem”.",
+      "prompt": "Opisz, jak podchodzisz do dużego projektu, używając „break down”."
+    },
+    {
+      "id": "b05-c26", "month": 2, "topic": 5,
+      "en": "We're **making good progress** on the new website.",
+      "pl": "Robimy dobre postępy nad nową stroną internetową.",
+      "phrasePl": "robić postępy",
+      "note": "„Progress” jest niepoliczalne — nie mówimy „a progress” ani „progresses”.",
+      "prompt": "Powiedz, w czym ostatnio „making good progress” (np. w angielskim!)."
+    },
+    {
+      "id": "b05-c27", "month": 2, "topic": 5,
+      "en": "Could you **double-check** the numbers before sending?",
+      "pl": "Mógłbyś sprawdzić liczby dwa razy przed wysłaniem?",
+      "phrasePl": "sprawdzić dokładnie (dla pewności)",
+      "note": "Bardzo naturalne i uprzejme, dużo łagodniejsze niż „check if you made mistakes”.",
+      "prompt": "Poproś kolegę o ponowne sprawdzenie maila lub oferty, używając „double-check”."
+    },
+    {
+      "id": "b05-c28", "month": 2, "topic": 5,
+      "en": "I'd appreciate your **feedback** on this draft.",
+      "pl": "Będę wdzięczny za Twoją opinię o tym szkicu.",
+      "phrasePl": "informacja zwrotna / opinia",
+      "note": "Niepoliczalne (nie mówimy „feedbacks” — tylko „some feedback” albo „a piece of feedback”).",
+      "prompt": "Poproś współpracownika o opinię na temat Twojego pomysłu, używając „feedback”."
+    },
+    {
+      "id": "b05-c29", "month": 2, "topic": 5,
+      "en": "We need to **come up with** a backup plan.",
+      "pl": "Musimy wymyślić plan awaryjny.",
+      "phrasePl": "wymyślić / wpaść na (pomysł / rozwiązanie)",
+      "note": "Jeden z najważniejszych phrasal verbs w pracy i życiu codziennym.",
+      "prompt": "Powiedz, kiedy ostatnio musiałeś szybko „come up with” jakieś rozwiązanie."
+    },
+    {
+      "id": "b05-c30", "month": 2, "topic": 5,
+      "en": "Let's **put this on hold** until we get approval.",
+      "pl": "Wstrzymajmy to do czasu, aż dostaniemy akceptację.",
+      "phrasePl": "wstrzymać / zawiesić (projekt / zadanie)",
+      "note": "Bardzo często w biznesie: „The project is on hold for now.”",
+      "prompt": "Zaproponuj wstrzymanie mniej pilnego zadania, używając „put this on hold”."
+    },
+    {
+      "id": "b05-c31", "month": 2, "topic": 5,
+      "en": "It's **user-friendly**, even for complete beginners.",
+      "pl": "Jest przyjazne dla użytkownika, nawet dla zupełnych początkujących.",
+      "phrasePl": "przyjazny dla użytkownika / intuicyjny",
+      "note": "Świetny przymiotnik do opisywania aplikacji, stron i urządzeń.",
+      "prompt": "Wymień jedną aplikację, która jest bardzo „user-friendly”, i jedną, która nie jest."
+    },
+    {
+      "id": "b05-c32", "month": 2, "topic": 5,
+      "en": "This software is **out of date** — we should upgrade.",
+      "pl": "To oprogramowanie jest przestarzałe — powinniśmy je zaktualizować.",
+      "phrasePl": "przestarzały / nieaktualny",
+      "note": "Przeciwieństwo: „up to date” (aktualny / na bieżąco).",
+      "prompt": "Powiedz, jaki sprzęt lub program u Ciebie jest już trochę „out of date”."
+    },
+    {
+      "id": "b05-c33", "month": 2, "topic": 5,
+      "en": "The system is **down** for maintenance right now.",
+      "pl": "System jest teraz wyłączony z powodu prac konserwacyjnych.",
+      "phrasePl": "nie działać / być wyłączonym (serwer / sieć)",
+      "note": "„The Wi-Fi is down”, „The site is back up” (już znowu działa).",
+      "prompt": "Poinformuj kolegę, że internet lub serwer nie działa, używając „is down”."
+    },
+    {
+      "id": "b05-c34", "month": 2, "topic": 5,
+      "en": "I'll **cc** you on the email to the vendor.",
+      "pl": "Dodam Cię do kopii (DW) w mailu do dostawcy.",
+      "phrasePl": "dodać do kopii (DW) w mailu",
+      "note": "Wymawiane po prostu jako dwie litery: /si-si/. Bardzo powszechne w biurach.",
+      "prompt": "Powiedz koledze, że dodasz go do kopii maila, używając „cc you on…”."
+    },
+    {
+      "id": "b05-c35", "month": 2, "topic": 5,
+      "en": "Please **let me know** if anything is unclear.",
+      "pl": "Daj mi proszę znać, jeśli cokolwiek jest niejasne.",
+      "phrasePl": "dać znać",
+      "note": "Najbardziej uniwersalne zamknięcie maila, wiadomości i rozmowy.",
+      "prompt": "Zakończ krótkie podsumowanie zadania słowami „Let me know if…”."
+    },
+    {
+      "id": "b05-c36", "month": 2, "topic": 5,
+      "en": "I'm **working overtime** this week to finish the release.",
+      "pl": "Robię w tym tygodniu nadgodziny, żeby dokończyć wydanie.",
+      "phrasePl": "pracować po godzinach (nadgodziny)",
+      "note": "„Overtime” to zarówno nadgodziny, jak i dodatek za nie.",
+      "prompt": "Powiedz, czy zdarza Ci się „work overtime” i czy wolisz tego unikać."
+    },
+    {
+      "id": "b05-c37", "month": 2, "topic": 5,
+      "en": "She **got promoted** to team lead last month.",
+      "pl": "Dostała awans na liderkę zespołu w zeszłym miesiącu.",
+      "phrasePl": "dostać awans",
+      "note": "Rzeczownik: „a promotion”. „Ask for a raise” = poprosić o podwyżkę.",
+      "prompt": "Opowiedz jednym zdaniem o kimś, kto ostatnio „got promoted”."
+    },
+    {
+      "id": "b05-c38", "month": 2, "topic": 5,
+      "en": "We need to **prioritize** the most urgent tasks first.",
+      "pl": "Musimy najpierw nadać priorytet najpilniejszym zadaniom.",
+      "phrasePl": "ustalić priorytety",
+      "note": "Rzeczownik: „priority” („That's our top priority”).",
+      "prompt": "Powiedz, jak decydujesz, co „prioritize” w poniedziałek rano."
+    },
+    {
+      "id": "b05-c39", "month": 2, "topic": 5,
+      "en": "I'm **taking a few days off** next month.",
+      "pl": "Biorę kilka dni wolnego w przyszłym miesiącu.",
+      "phrasePl": "wziąć wolne / urlop",
+      "note": "Też: „request time off” (złożyć wniosek o urlop).",
+      "prompt": "Powiedz, kiedy planujesz „take a few days off”."
+    },
+    {
+      "id": "b05-c40", "month": 2, "topic": 5,
+      "en": "Can you **send over** the link when you get a chance?",
+      "pl": "Możesz podesłać link, jak będziesz mieć chwilę?",
+      "phrasePl": "podesłać / przesłać",
+      "note": "„Send over” brzmi dużo lżej i przyjaźniej niż oficjalne „transmit / forward”.",
+      "prompt": "Poproś znajomego o podesłanie dokumentu lub linku, używając „send over”."
+    },
+    {
+      "id": "b05-c41", "month": 2, "topic": 5,
+      "en": "That's **beyond my scope**, let's ask the legal team.",
+      "pl": "To wykracza poza mój zakres, zapytajmy dział prawny.",
+      "phrasePl": "poza moim zakresem (kompetencji / projektu)",
+      "note": "Bardzo profesjonalny sposób, żeby wyznaczyć granice zadania.",
+      "prompt": "Powiedz uprzejmie, że jakaś sprawa jest „beyond my scope” i wskaż, kto może pomóc."
+    },
+    {
+      "id": "b05-c42", "month": 2, "topic": 5,
+      "en": "We're **on track** to hit our quarterly goal.",
+      "pl": "Jesteśmy na dobrej drodze, żeby osiągnąć nasz cel kwartalny.",
+      "phrasePl": "być na dobrej drodze (zgodnie z planem)",
+      "note": "Przeciwieństwo: „off track” (zboczyć z kursu / opóźnić się).",
+      "prompt": "Powiedz o celu, z którym jesteś „on track” (np. 90-dniowy plan angielskiego!)."
+    },
+    {
+      "id": "b05-c43", "month": 2, "topic": 5,
+      "en": "I'll **look into** the issue and get back to you.",
+      "pl": "Przyjrzę się temu problemowi i odezwę się do Ciebie.",
+      "phrasePl": "zbadać / przyjrzeć się sprawie",
+      "note": "Jeden z najbardziej użytecznych zwrotów w obsłudze klienta i IT.",
+      "prompt": "Klient zgłasza błąd. Odpowiedz spokojnie, używając „I'll look into…”."
+    },
+    {
+      "id": "b05-c44", "month": 2, "topic": 5,
+      "en": "We have to **cut corners** if we rush this too much.",
+      "pl": "Będziemy musieli pójść na skróty (kosztem jakości), jeśli za bardzo to przyspieszymy.",
+      "phrasePl": "iść na skróty (kosztem jakości)",
+      "note": "Idiom o robieniu czegoś po łebkach, żeby zaoszczędzić czas lub pieniądze.",
+      "prompt": "Powiedz, w jakiej dziedzinie nigdy nie powinno się „cut corners”."
+    },
+    {
+      "id": "b05-c45", "month": 2, "topic": 5,
+      "en": "Let's **call it a day** and continue fresh tomorrow.",
+      "pl": "Skończmy na dziś i kontynuujmy ze świeżą głową jutro.",
+      "phrasePl": "zakończyć pracę na dziś",
+      "note": "Naturalny, przyjazny zwrot na zakończenie dnia pracy lub długiego spotkania.",
+      "prompt": "Zaproponuj zespołowi zakończenie pracy na dziś, używając „call it a day”."
+    }
+  ],
+  "words": [
+    { "id": "b05-w001", "month": 2, "topic": 5, "en": "task", "pl": "zadanie" },
+    { "id": "b05-w002", "month": 2, "topic": 5, "en": "project", "pl": "projekt" },
+    { "id": "b05-w003", "month": 2, "topic": 5, "en": "goal", "pl": "cel" },
+    { "id": "b05-w004", "month": 2, "topic": 5, "en": "target", "pl": "cel (liczbowy / biznesowy)" },
+    { "id": "b05-w005", "month": 2, "topic": 5, "en": "milestone", "pl": "kamień milowy" },
+    { "id": "b05-w006", "month": 2, "topic": 5, "en": "agenda", "pl": "plan spotkania" },
+    { "id": "b05-w007", "month": 2, "topic": 5, "en": "minutes", "pl": "notatki ze spotkania" },
+    { "id": "b05-w008", "month": 2, "topic": 5, "en": "summary", "pl": "podsumowanie" },
+    { "id": "b05-w009", "month": 2, "topic": 5, "en": "report", "pl": "raport" },
+    { "id": "b05-w010", "month": 2, "topic": 5, "en": "draft", "pl": "szkic / wersja robocza" },
+    { "id": "b05-w011", "month": 2, "topic": 5, "en": "spreadsheet", "pl": "arkusz kalkulacyjny" },
+    { "id": "b05-w012", "month": 2, "topic": 5, "en": "presentation", "pl": "prezentacja" },
+    { "id": "b05-w013", "month": 2, "topic": 5, "en": "attachment", "pl": "załącznik" },
+    { "id": "b05-w014", "month": 2, "topic": 5, "en": "inbox", "pl": "skrzynka odbiorcza" },
+    { "id": "b05-w015", "month": 2, "topic": 5, "en": "to forward", "pl": "przesłać dalej (maila)" },
+    { "id": "b05-w016", "month": 2, "topic": 5, "en": "to reply", "pl": "odpowiedzieć" },
+    { "id": "b05-w017", "month": 2, "topic": 5, "en": "to attach", "pl": "załączyć" },
+    { "id": "b05-w018", "month": 2, "topic": 5, "en": "to assign", "pl": "przypisać (zadanie)" },
+    { "id": "b05-w019", "month": 2, "topic": 5, "en": "to delegate", "pl": "oddelegować" },
+    { "id": "b05-w020", "month": 2, "topic": 5, "en": "to approve", "pl": "zatwierdzić" },
+    { "id": "b05-w021", "month": 2, "topic": 5, "en": "to reject", "pl": "odrzucić" },
+    { "id": "b05-w022", "month": 2, "topic": 5, "en": "to review", "pl": "przejrzeć / zrecenzować" },
+    { "id": "b05-w023", "month": 2, "topic": 5, "en": "to submit", "pl": "przesłać / złożyć" },
+    { "id": "b05-w024", "month": 2, "topic": 5, "en": "to launch", "pl": "uruchomić / wypuścić" },
+    { "id": "b05-w025", "month": 2, "topic": 5, "en": "to collaborate", "pl": "współpracować" },
+    { "id": "b05-w026", "month": 2, "topic": 5, "en": "coworker", "pl": "współpracownik" },
+    { "id": "b05-w027", "month": 2, "topic": 5, "en": "supervisor", "pl": "przełożony" },
+    { "id": "b05-w028", "month": 2, "topic": 5, "en": "client", "pl": "klient" },
+    { "id": "b05-w029", "month": 2, "topic": 5, "en": "stakeholder", "pl": "interesariusz" },
+    { "id": "b05-w030", "month": 2, "topic": 5, "en": "vendor", "pl": "dostawca" },
+    { "id": "b05-w031", "month": 2, "topic": 5, "en": "freelancer", "pl": "wolny strzelec" },
+    { "id": "b05-w032", "month": 2, "topic": 5, "en": "intern", "pl": "stażysta" },
+    { "id": "b05-w033", "month": 2, "topic": 5, "en": "department", "pl": "dział (w firmie)" },
+    { "id": "b05-w034", "month": 2, "topic": 5, "en": "headquarters", "pl": "siedziba główna" },
+    { "id": "b05-w035", "month": 2, "topic": 5, "en": "branch", "pl": "oddział firmy" },
+    { "id": "b05-w036", "month": 2, "topic": 5, "en": "salary", "pl": "wynagrodzenie (pensja)" },
+    { "id": "b05-w037", "month": 2, "topic": 5, "en": "raise", "pl": "podwyżka" },
+    { "id": "b05-w038", "month": 2, "topic": 5, "en": "bonus", "pl": "premia" },
+    { "id": "b05-w039", "month": 2, "topic": 5, "en": "benefits", "pl": "benefity pozapłacowe" },
+    { "id": "b05-w040", "month": 2, "topic": 5, "en": "full-time", "pl": "pełny etat" },
+    { "id": "b05-w041", "month": 2, "topic": 5, "en": "part-time", "pl": "część etatu" },
+    { "id": "b05-w042", "month": 2, "topic": 5, "en": "shift", "pl": "zmiana (w pracy)" },
+    { "id": "b05-w043", "month": 2, "topic": 5, "en": "remote", "pl": "zdalny" },
+    { "id": "b05-w044", "month": 2, "topic": 5, "en": "hybrid", "pl": "hybrydowy" },
+    { "id": "b05-w045", "month": 2, "topic": 5, "en": "resume", "pl": "CV (US)" },
+    { "id": "b05-w046", "month": 2, "topic": 5, "en": "interview", "pl": "rozmowa kwalifikacyjna" },
+    { "id": "b05-w047", "month": 2, "topic": 5, "en": "to hire", "pl": "zatrudnić" },
+    { "id": "b05-w048", "month": 2, "topic": 5, "en": "to fire", "pl": "zwolnić z pracy" },
+    { "id": "b05-w049", "month": 2, "topic": 5, "en": "to resign", "pl": "zrezygnować z pracy" },
+    { "id": "b05-w050", "month": 2, "topic": 5, "en": "notice period", "pl": "okres wypowiedzenia" },
+    { "id": "b05-w051", "month": 2, "topic": 5, "en": "workload", "pl": "obciążenie pracą" },
+    { "id": "b05-w052", "month": 2, "topic": 5, "en": "burnout", "pl": "wypalenie zawodowe" },
+    { "id": "b05-w053", "month": 2, "topic": 5, "en": "urgent", "pl": "pilny" },
+    { "id": "b05-w054", "month": 2, "topic": 5, "en": "feasible", "pl": "wykonalny" },
+    { "id": "b05-w055", "month": 2, "topic": 5, "en": "efficient", "pl": "wydajny / sprawny" },
+    { "id": "b05-w056", "month": 2, "topic": 5, "en": "productive", "pl": "produktywny" },
+    { "id": "b05-w057", "month": 2, "topic": 5, "en": "bottleneck", "pl": "wąskie gardło" },
+    { "id": "b05-w058", "month": 2, "topic": 5, "en": "workaround", "pl": "obejście problemu" },
+    { "id": "b05-w059", "month": 2, "topic": 5, "en": "solution", "pl": "rozwiązanie" },
+    { "id": "b05-w060", "month": 2, "topic": 5, "en": "issue", "pl": "problem / kwestia" },
+    { "id": "b05-w061", "month": 2, "topic": 5, "en": "bug", "pl": "błąd w oprogramowaniu" },
+    { "id": "b05-w062", "month": 2, "topic": 5, "en": "glitch", "pl": "usterka / chwilowy błąd" },
+    { "id": "b05-w063", "month": 2, "topic": 5, "en": "feature", "pl": "funkcja (w aplikacji)" },
+    { "id": "b05-w064", "month": 2, "topic": 5, "en": "update", "pl": "aktualizacja" },
+    { "id": "b05-w065", "month": 2, "topic": 5, "en": "upgrade", "pl": "ulepszenie / nowsza wersja" },
+    { "id": "b05-w066", "month": 2, "topic": 5, "en": "to install", "pl": "zainstalować" },
+    { "id": "b05-w067", "month": 2, "topic": 5, "en": "to download", "pl": "pobrać" },
+    { "id": "b05-w068", "month": 2, "topic": 5, "en": "to upload", "pl": "przesłać (na serwer)" },
+    { "id": "b05-w069", "month": 2, "topic": 5, "en": "to sync", "pl": "zsynchronizować" },
+    { "id": "b05-w070", "month": 2, "topic": 5, "en": "to reboot", "pl": "uruchomić ponownie" },
+    { "id": "b05-w071", "month": 2, "topic": 5, "en": "to crash", "pl": "wysypać się (program)" },
+    { "id": "b05-w072", "month": 2, "topic": 5, "en": "password", "pl": "hasło" },
+    { "id": "b05-w073", "month": 2, "topic": 5, "en": "username", "pl": "nazwa użytkownika" },
+    { "id": "b05-w074", "month": 2, "topic": 5, "en": "access", "pl": "dostęp" },
+    { "id": "b05-w075", "month": 2, "topic": 5, "en": "permission", "pl": "uprawnienie / zgoda" },
+    { "id": "b05-w076", "month": 2, "topic": 5, "en": "settings", "pl": "ustawienia" },
+    { "id": "b05-w077", "month": 2, "topic": 5, "en": "shortcut", "pl": "skrót (klawiszowy / ścieżka)" },
+    { "id": "b05-w078", "month": 2, "topic": 5, "en": "folder", "pl": "folder" },
+    { "id": "b05-w079", "month": 2, "topic": 5, "en": "browser", "pl": "przeglądarka" },
+    { "id": "b05-w080", "month": 2, "topic": 5, "en": "tab", "pl": "karta (w przeglądarce)" },
+    { "id": "b05-w081", "month": 2, "topic": 5, "en": "bookmark", "pl": "zakładka" },
+    { "id": "b05-w082", "month": 2, "topic": 5, "en": "cloud", "pl": "chmura (danych)" },
+    { "id": "b05-w083", "month": 2, "topic": 5, "en": "storage", "pl": "pamięć / miejsce na dane" },
+    { "id": "b05-w084", "month": 2, "topic": 5, "en": "database", "pl": "baza danych" },
+    { "id": "b05-w085", "month": 2, "topic": 5, "en": "server", "pl": "serwer" },
+    { "id": "b05-w086", "month": 2, "topic": 5, "en": "network", "pl": "sieć" },
+    { "id": "b05-w087", "month": 2, "topic": 5, "en": "bandwidth", "pl": "przepustowość / wolne moce" },
+    { "id": "b05-w088", "month": 2, "topic": 5, "en": "wireless", "pl": "bezprzewodowy" },
+    { "id": "b05-w089", "month": 2, "topic": 5, "en": "keyboard", "pl": "klawiatura" },
+    { "id": "b05-w090", "month": 2, "topic": 5, "en": "monitor", "pl": "monitor" },
+    { "id": "b05-w091", "month": 2, "topic": 5, "en": "headphones", "pl": "słuchawki" },
+    { "id": "b05-w092", "month": 2, "topic": 5, "en": "webcam", "pl": "kamerka internetowa" },
+    { "id": "b05-w093", "month": 2, "topic": 5, "en": "adapter", "pl": "przejściówka / zasilacz" },
+    { "id": "b05-w094", "month": 2, "topic": 5, "en": "cable", "pl": "kabel" },
+    { "id": "b05-w095", "month": 2, "topic": 5, "en": "battery life", "pl": "czas pracy na baterii" },
+    { "id": "b05-w096", "month": 2, "topic": 5, "en": "notification", "pl": "powiadomienie" },
+    { "id": "b05-w097", "month": 2, "topic": 5, "en": "spam", "pl": "spam" },
+    { "id": "b05-w098", "month": 2, "topic": 5, "en": "scam", "pl": "oszustwo" },
+    { "id": "b05-w099", "month": 2, "topic": 5, "en": "privacy", "pl": "prywatność" },
+    { "id": "b05-w100", "month": 2, "topic": 5, "en": "security", "pl": "bezpieczeństwo" },
+    { "id": "b05-w101", "month": 2, "topic": 5, "en": "device", "pl": "urządzenie" },
+    { "id": "b05-w102", "month": 2, "topic": 5, "en": "tool", "pl": "narzędzie" },
+    { "id": "b05-w103", "month": 2, "topic": 5, "en": "workflow", "pl": "przepływ pracy / proces" },
+    { "id": "b05-w104", "month": 2, "topic": 5, "en": "template", "pl": "szablon" },
+    { "id": "b05-w105", "month": 2, "topic": 5, "en": "chart", "pl": "wykres" },
+    { "id": "b05-w106", "month": 2, "topic": 5, "en": "metric", "pl": "wskaźnik / metryka" },
+    { "id": "b05-w107", "month": 2, "topic": 5, "en": "revenue", "pl": "przychód" },
+    { "id": "b05-w108", "month": 2, "topic": 5, "en": "profit", "pl": "zysk" },
+    { "id": "b05-w109", "month": 2, "topic": 5, "en": "growth", "pl": "wzrost" },
+    { "id": "b05-w110", "month": 2, "topic": 5, "en": "strategy", "pl": "strategia" },
+    { "id": "b05-w111", "month": 2, "topic": 5, "en": "proposal", "pl": "propozycja / oferta" },
+    { "id": "b05-w112", "month": 2, "topic": 5, "en": "agreement", "pl": "porozumienie" },
+    { "id": "b05-w113", "month": 2, "topic": 5, "en": "requirement", "pl": "wymaganie" },
+    { "id": "b05-w114", "month": 2, "topic": 5, "en": "constraint", "pl": "ograniczenie" },
+    { "id": "b05-w115", "month": 2, "topic": 5, "en": "estimate", "pl": "oszacowanie (czasu / kosztu)" },
+    { "id": "b05-w116", "month": 2, "topic": 5, "en": "handover", "pl": "przekazanie obowiązków" },
+    { "id": "b05-w117", "month": 2, "topic": 5, "en": "onboarding", "pl": "wdrożenie nowego pracownika" },
+    { "id": "b05-w118", "month": 2, "topic": 5, "en": "to troubleshoot", "pl": "diagnozować i usuwać usterki" },
+    { "id": "b05-w119", "month": 2, "topic": 5, "en": "ASAP", "pl": "jak najszybciej" },
+    { "id": "b05-w120", "month": 2, "topic": 5, "en": "FYI", "pl": "dla Twojej informacji" }
+  ]
+}
